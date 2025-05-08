@@ -1,0 +1,6489 @@
+[
+    {
+        "user_id": "1x_user_0c41e0cfa263cd67ff0f8232",
+        "username": "Mookah",
+        "address": "0x1a94578c4db2C90042c62FB0311FE1423659475b",
+        "date": "2024-05-13",
+        "daily_amount": 2.769522
+    },
+    {
+        "user_id": "1x_user_3166fd1a2a112b451e19016c",
+        "username": "YGG_AXU_Pepito_Paragons",
+        "address": "0x839AC785D5368A762884767b1914154575E30446",
+        "date": "2024-05-13",
+        "daily_amount": 1.215888
+    },
+    {
+        "user_id": "1x_user_68547ddbfe2f45b32e68c448",
+        "username": "SySţEMEŘASEŘ",
+        "address": "0xBDc703049C7234DD581B88ee460F4E1574C2cF7b",
+        "date": "2024-05-13",
+        "daily_amount": 1.148338
+    },
+    {
+        "user_id": "1x_user_697fbe05f0e019c4b074766f",
+        "username": "Sinpar22_PGA",
+        "address": "0x8b5a9e28730ACBA1cBc7886547d674A6cd03340e",
+        "date": "2024-05-13",
+        "daily_amount": 1.756282
+    },
+    {
+        "user_id": "1x_user_73076e69e5d79a8d19102219",
+        "username": "jeremy",
+        "address": "0xbD70Ae53e48B3B94E75A9895e8B7c092856709FF",
+        "date": "2024-05-13",
+        "daily_amount": 3.647663
+    },
+    {
+        "user_id": "1x_user_7ba3a8e71855e7449f0e58aa",
+        "username": "ManuAMG_MDNT",
+        "address": "0x2A89C680d9d96A51f8dD52bD20AabC4A320E7dCA",
+        "date": "2024-05-13",
+        "daily_amount": 2.364226
+    },
+    {
+        "user_id": "1x_user_d58f8e09c3981a3b375bb4f5",
+        "username": "Manos",
+        "address": "0x6D07d1785091bd1e03cF353BcD593c54D16a93C9",
+        "date": "2024-05-13",
+        "daily_amount": 3.985409
+    },
+    {
+        "user_id": "1x_user_0137c0da5c61031d6892a12e",
+        "username": "Malston_Exile",
+        "address": "0x11B4E83BC3e9605F03E2A4C34BD09567be5aeBBE",
+        "date": "2024-05-16",
+        "daily_amount": 75.573277
+    },
+    {
+        "user_id": "1x_user_03c1c7ef8655ade08be5079a",
+        "username": "synist3r",
+        "address": "0xAfbEe4d7f883E6Ab842e9623a9d595Ff6B7AAfD7",
+        "date": "2024-05-16",
+        "daily_amount": 16.636709
+    },
+    {
+        "user_id": "1x_user_095c95bccb0dcd1e7407981e",
+        "username": "Basshunt3r_paragons",
+        "address": "0x0C3039e7518B711a56F3BBE8bec4f9387829e766",
+        "date": "2024-05-16",
+        "daily_amount": 5.445381
+    },
+    {
+        "user_id": "1x_user_0c41e0cfa263cd67ff0f8232",
+        "username": "Mookah",
+        "address": "0x1a94578c4db2C90042c62FB0311FE1423659475b",
+        "date": "2024-05-16",
+        "daily_amount": 32.976336
+    },
+    {
+        "user_id": "1x_user_0fb425d8dcc8b7593c48c707",
+        "username": "XAVI324",
+        "address": "0x2a1d7482a179308Da13F316b2b466A22DDE59f83",
+        "date": "2024-05-16",
+        "daily_amount": 8.890654
+    },
+    {
+        "user_id": "1x_user_10315890e81dd43477b3a59c",
+        "username": "spaceman7",
+        "address": "0x3dDB69473881a8f0c73419293519994C14603b12",
+        "date": "2024-05-16",
+        "daily_amount": 18.481716
+    },
+    {
+        "user_id": "1x_user_181b20d9323e785f965f1b4f",
+        "username": "Comfortable",
+        "address": "0xF98A854bc00eAa854894d79e11315A2114C58120",
+        "date": "2024-05-16",
+        "daily_amount": 21.477517
+    },
+    {
+        "user_id": "1x_user_3162953d6de7b00d837b742d",
+        "username": "Tony_PLDN",
+        "address": "0xA28eb462f9B954C63494F5C9A1348e3Cc4F91135",
+        "date": "2024-05-16",
+        "daily_amount": 44.554007
+    },
+    {
+        "user_id": "1x_user_31a70cb056ed5002de9422c4",
+        "username": "gabrielrcha",
+        "address": "0x53AAf2B383a0Df5586dE7108BcA0E804e3f3E2EA",
+        "date": "2024-05-16",
+        "daily_amount": 12.735048
+    },
+    {
+        "user_id": "1x_user_3293dac923e368515f7a6173",
+        "username": "bounty",
+        "address": "0xC48Fe7a066b46393DaF6784b8eC4adb8ebE7489F",
+        "date": "2024-05-16",
+        "daily_amount": 36.927297
+    },
+    {
+        "user_id": "1x_user_33fdcba3f9471c6fad705f1e",
+        "username": "ferenginar",
+        "address": "0x13f16aE446ebFd96a02A98317638ae231A19ab2f",
+        "date": "2024-05-16",
+        "daily_amount": 16.100908
+    },
+    {
+        "user_id": "1x_user_37533e6d5822be30d04fb28a",
+        "username": "PROFESSIONAL_CATHERINE_PLAYER",
+        "address": "0xf85a96116312C382EB97E3BcB6267d15a5acbDdE",
+        "date": "2024-05-16",
+        "daily_amount": 87.07648
+    },
+    {
+        "user_id": "1x_user_3881b3cc0c511adc71c4e80c",
+        "username": "dr_grim",
+        "address": "0x22d0794A82EEBdd10245C2d162951eB1CA6FA58b",
+        "date": "2024-05-16",
+        "daily_amount": 1.562575
+    },
+    {
+        "user_id": "1x_user_3cf108378175caae458959d5",
+        "username": "btsb",
+        "address": "0xAf0688715a1a0f7189847C431010920677fb9967",
+        "date": "2024-05-16",
+        "daily_amount": 20.942121
+    },
+    {
+        "user_id": "1x_user_5305913466f9b44ddf936be8",
+        "username": "thefreeroll",
+        "address": "0x9A36C3A2a328f0b018bc4824b80199c6337d6650",
+        "date": "2024-05-16",
+        "daily_amount": 16.115222
+    },
+    {
+        "user_id": "1x_user_5a14c6d8d347c1bfa92f81fb",
+        "username": "TRICKYΞPGA",
+        "address": "0x4fdcD0496F4c2D3629C0741626DE74d24A683E50",
+        "date": "2024-05-16",
+        "daily_amount": 20.414119
+    },
+    {
+        "user_id": "1x_user_68547ddbfe2f45b32e68c448",
+        "username": "SySţEMEŘASEŘ",
+        "address": "0xBDc703049C7234DD581B88ee460F4E1574C2cF7b",
+        "date": "2024-05-16",
+        "daily_amount": 8.580419
+    },
+    {
+        "user_id": "1x_user_697fbe05f0e019c4b074766f",
+        "username": "Sinpar22_PGA",
+        "address": "0x8b5a9e28730ACBA1cBc7886547d674A6cd03340e",
+        "date": "2024-05-16",
+        "daily_amount": 14.793651
+    },
+    {
+        "user_id": "1x_user_69ebcd362a53a465c017d6c6",
+        "username": "lemurbeast",
+        "address": "0x3E751Ab467E9a1bB97E32C1e09d83b08b8e9Ad6F",
+        "date": "2024-05-16",
+        "daily_amount": 21.424436
+    },
+    {
+        "user_id": "1x_user_6fd5746e382c3585e4785b2c",
+        "username": "Paragons_Milamber",
+        "address": "0xD4f8a2348A286A1F06FAe22b6042CCeAaf2C3323",
+        "date": "2024-05-16",
+        "daily_amount": 58.915915
+    },
+    {
+        "user_id": "1x_user_73076e69e5d79a8d19102219",
+        "username": "jeremy",
+        "address": "0xbD70Ae53e48B3B94E75A9895e8B7c092856709FF",
+        "date": "2024-05-16",
+        "daily_amount": 19.195156
+    },
+    {
+        "user_id": "1x_user_75fc01af2dde19ae76ff3bdc",
+        "username": "webmixgamer",
+        "address": "0x2D41211fc8a4a1639032Ead5C8EE6B867Ef70A49",
+        "date": "2024-05-16",
+        "daily_amount": 23.541842
+    },
+    {
+        "user_id": "1x_user_7615b5acd0fdabd4ab8314e1",
+        "username": "elerium115",
+        "address": "0xdF610269c6587C579E76b03Fba17EE51DD02B0c8",
+        "date": "2024-05-16",
+        "daily_amount": 30.800483
+    },
+    {
+        "user_id": "1x_user_7ba3a8e71855e7449f0e58aa",
+        "username": "ManuAMG_MDNT",
+        "address": "0x2A89C680d9d96A51f8dD52bD20AabC4A320E7dCA",
+        "date": "2024-05-16",
+        "daily_amount": 12.633366
+    },
+    {
+        "user_id": "1x_user_8c465de5ad5b49c4df6ec23f",
+        "username": "Shogo.contagion",
+        "address": "0x91881e69cbF6c2f8d844a2CdDB941087e7fc1b6c",
+        "date": "2024-05-16",
+        "daily_amount": 7.884098
+    },
+    {
+        "user_id": "1x_user_8d687d87f564c2644d0ba71a",
+        "username": "kinglizard",
+        "address": "0xE27d9E71A92eb928D033194987be22998b336068",
+        "date": "2024-05-16",
+        "daily_amount": 9.845411
+    },
+    {
+        "user_id": "1x_user_92cc4b11c04dfd4c1c55711d",
+        "username": "SNode",
+        "address": "0x8c0d5Cf17365Df315b8d334eB5552Be9F7Ff3978",
+        "date": "2024-05-16",
+        "daily_amount": 14.461536
+    },
+    {
+        "user_id": "1x_user_9953ae483a202f1f6f38dd35",
+        "username": "JIZO_PGA",
+        "address": "0x258EA80aEA2F5e32b5da106825d2B87e55D46Bf6",
+        "date": "2024-05-16",
+        "daily_amount": 18.245062
+    },
+    {
+        "user_id": "1x_user_9bfc0c8911b72c70e45eaf4b",
+        "username": "ROBHMORAESETH",
+        "address": "0xC240d13e57A44909991D8c398C58545d44b4068d",
+        "date": "2024-05-16",
+        "daily_amount": 8.370607
+    },
+    {
+        "user_id": "1x_user_a1cd523c10fd48c5d7ef3a87",
+        "username": "TILT_Kenzord_YGG",
+        "address": "0xA92debe0abE6af83ef762Ab80BdCD99b954a587f",
+        "date": "2024-05-16",
+        "daily_amount": 15.326092
+    },
+    {
+        "user_id": "1x_user_a76a494fe3a629838daaf1e4",
+        "username": "TILT_vynchi_YGG_BreederDAO",
+        "address": "0x1Db4EeD9f24d4E54DB541413C5D3802f0c7c1a81",
+        "date": "2024-05-16",
+        "daily_amount": 56.858582
+    },
+    {
+        "user_id": "1x_user_afbc59251166e93cd052e853",
+        "username": "garrosh",
+        "address": "0x6dD2356ACeCB9875e6152EB34B34cB435250A4a0",
+        "date": "2024-05-16",
+        "daily_amount": 12.008936
+    },
+    {
+        "user_id": "1x_user_b137c540a5de5788455b612a",
+        "username": "BradThe3rd@nerf.shroud",
+        "address": "0xfC9dD877930e9799BeB663523BD31EefE3C99597",
+        "date": "2024-05-16",
+        "daily_amount": 8.413007
+    },
+    {
+        "user_id": "1x_user_b8c7ad63c2f84e6e36a98f12",
+        "username": "exie_win_YGG",
+        "address": "0xfAC5B8f8668b7158cF6A5dE01f20f207AC011cA7",
+        "date": "2024-05-16",
+        "daily_amount": 33.791467
+    },
+    {
+        "user_id": "1x_user_bde36076074526b110c1cfee",
+        "username": "thebrasiliankid",
+        "address": "0xA810f9A8375451f8CE640809AF1Ca15227705165",
+        "date": "2024-05-16",
+        "daily_amount": 32.002248
+    },
+    {
+        "user_id": "1x_user_bfec679dc497c1fe63ef3dac",
+        "username": "Eclipse-Paragons",
+        "address": "0xa9E8529bbB2877bA2871Eae5b4DA0B886001B703",
+        "date": "2024-05-16",
+        "daily_amount": 42.435241
+    },
+    {
+        "user_id": "1x_user_c6d4492df13763e721362647",
+        "username": "Wolfy",
+        "address": "0xc6e4637aEF0D61b2071405CbAb076aBf03EAA310",
+        "date": "2024-05-16",
+        "daily_amount": 11.077809
+    },
+    {
+        "user_id": "1x_user_cf1ded5c20248e202b089cf2",
+        "username": "backmorda",
+        "address": "0x8C4450D3B41A2981B2a9dE320864044C50823cbF",
+        "date": "2024-05-16",
+        "daily_amount": 28.423363
+    },
+    {
+        "user_id": "1x_user_d538384c07d3581a46479e39",
+        "username": "iracer77",
+        "address": "0xc82414b8BD237A0f79596c3CE7Dc00F63b70Ca6f",
+        "date": "2024-05-16",
+        "daily_amount": 75.029102
+    },
+    {
+        "user_id": "1x_user_d58f8e09c3981a3b375bb4f5",
+        "username": "Manos",
+        "address": "0x6D07d1785091bd1e03cF353BcD593c54D16a93C9",
+        "date": "2024-05-16",
+        "daily_amount": 159.372897
+    },
+    {
+        "user_id": "1x_user_d8ee619031991fd1be12ac6d",
+        "username": "SlyCOOPER",
+        "address": "0x6283913Ad056f5e8b52A3D02D72930C0D5DDE313",
+        "date": "2024-05-16",
+        "daily_amount": 3.552829
+    },
+    {
+        "user_id": "1x_user_db0d99498b56b8ceadbe34d4",
+        "username": "YGG_AxU_Nocturnal_Paragons",
+        "address": "0x9F44a22C944bC39f2434E8A65a4b41F655c0c0DC",
+        "date": "2024-05-16",
+        "daily_amount": 8.270035
+    },
+    {
+        "user_id": "1x_user_df3723369fc5e6b782bdb87e",
+        "username": "kaktuzboy",
+        "address": "0xBDcaebd9570AED98ce53CC57F5a8DbF9b3c80579",
+        "date": "2024-05-16",
+        "daily_amount": 6.132829
+    },
+    {
+        "user_id": "1x_user_dfbbc116ded7394ae2fa58fa",
+        "username": "BrightAvian_EXILE_YGG",
+        "address": "0x5aA5c645F8bb12a92c3ED8232C58bD94B13c09e2",
+        "date": "2024-05-16",
+        "daily_amount": 66.804728
+    },
+    {
+        "user_id": "1x_user_e393961114093d6658cda428",
+        "username": "kartoha.Paragons.DevGG",
+        "address": "0x97f25d7dfdA8c1bC7dc578C6Dc853F73AED5b37C",
+        "date": "2024-05-16",
+        "daily_amount": 5.535002
+    },
+    {
+        "user_id": "1x_user_f1ed937946ccb6eb57d7f8fd",
+        "username": "kaslow",
+        "address": "0x9266bc14BBD9fD5cA11D85B8720EA5A735B40000",
+        "date": "2024-05-16",
+        "daily_amount": 6.467994
+    },
+    {
+        "user_id": "1x_user_f2db9c3b3273ca4d9d68b15d",
+        "username": "Sequinox_YGG",
+        "address": "0x7a0A871C626f41b1b1CAeC66B926B1f788eb747F",
+        "date": "2024-05-16",
+        "daily_amount": 174.511827
+    },
+    {
+        "user_id": "1x_user_f3541d9d49b740801c6875e6",
+        "username": "beijingdouEXILE",
+        "address": "0xaf469C4a0914938e6149CF621c54FB4b1EC0c202",
+        "date": "2024-05-16",
+        "daily_amount": 35.451425
+    },
+    {
+        "user_id": "1x_user_ff1a99eb0b34999290d4ab3d",
+        "username": "Nevermind_Paragons",
+        "address": "0x3B057cd1b4190B838709D380ACaC0306D010C7a1",
+        "date": "2024-05-16",
+        "daily_amount": 12.09787
+    },
+    {
+        "user_id": "1x_user_31a70cb056ed5002de9422c4",
+        "username": "gabrielrcha",
+        "address": "0x53AAf2B383a0Df5586dE7108BcA0E804e3f3E2EA",
+        "date": "2024-06-05",
+        "daily_amount": 28.250935
+    },
+    {
+        "user_id": "1x_user_33fdcba3f9471c6fad705f1e",
+        "username": "ferenginar",
+        "address": "0x13f16aE446ebFd96a02A98317638ae231A19ab2f",
+        "date": "2024-06-05",
+        "daily_amount": 75.166076
+    },
+    {
+        "user_id": "1x_user_3cf108378175caae458959d5",
+        "username": "btsb",
+        "address": "0xAf0688715a1a0f7189847C431010920677fb9967",
+        "date": "2024-06-05",
+        "daily_amount": 14.457831
+    },
+    {
+        "user_id": "1x_user_5305913466f9b44ddf936be8",
+        "username": "thefreeroll",
+        "address": "0x9A36C3A2a328f0b018bc4824b80199c6337d6650",
+        "date": "2024-06-05",
+        "daily_amount": 109.924585
+    },
+    {
+        "user_id": "1x_user_5a14c6d8d347c1bfa92f81fb",
+        "username": "TRICKYΞPGA",
+        "address": "0x4fdcD0496F4c2D3629C0741626DE74d24A683E50",
+        "date": "2024-06-05",
+        "daily_amount": 110.660363
+    },
+    {
+        "user_id": "1x_user_6fd5746e382c3585e4785b2c",
+        "username": "Paragons_Milamber",
+        "address": "0xD4f8a2348A286A1F06FAe22b6042CCeAaf2C3323",
+        "date": "2024-06-05",
+        "daily_amount": 13.636364
+    },
+    {
+        "user_id": "1x_user_73076e69e5d79a8d19102219",
+        "username": "jeremy",
+        "address": "0xbD70Ae53e48B3B94E75A9895e8B7c092856709FF",
+        "date": "2024-06-05",
+        "daily_amount": 75.166076
+    },
+    {
+        "user_id": "1x_user_737f9b44bc02379abf7345d8",
+        "username": "MARS_ATTACKS",
+        "address": "0x5FE5C7E196520c6c8CEE0770BcCD0d8702CA55F0",
+        "date": "2024-06-05",
+        "daily_amount": 54.653256
+    },
+    {
+        "user_id": "1x_user_94ba0133cc399fbd551a7a0f",
+        "username": "flapjackson",
+        "address": "0x9b0C74924A7f6B4A54e7a02f7D56BBe9605bb629",
+        "date": "2024-06-05",
+        "daily_amount": 13.793103
+    },
+    {
+        "user_id": "1x_user_9cb0eeb12285b4681f3aa2ad",
+        "username": "0xbrand",
+        "address": "0x18Ac129F2284eb45FBc9f3a9630503AaDCE010D2",
+        "date": "2024-06-05",
+        "daily_amount": 13.793103
+    },
+    {
+        "user_id": "1x_user_b1571b8b7d6ad0005302db9d",
+        "username": "olivek",
+        "address": "0x5524eD1E6d6b8E8F28A0cF63196eEb0255715577",
+        "date": "2024-06-05",
+        "daily_amount": 75.166076
+    },
+    {
+        "user_id": "1x_user_bde36076074526b110c1cfee",
+        "username": "thebrasiliankid",
+        "address": "0xA810f9A8375451f8CE640809AF1Ca15227705165",
+        "date": "2024-06-05",
+        "daily_amount": 276.923077
+    },
+    {
+        "user_id": "1x_user_c6d4492df13763e721362647",
+        "username": "Wolfy",
+        "address": "0xc6e4637aEF0D61b2071405CbAb076aBf03EAA310",
+        "date": "2024-06-05",
+        "daily_amount": 47.785548
+    },
+    {
+        "user_id": "1x_user_d58f8e09c3981a3b375bb4f5",
+        "username": "Manos",
+        "address": "0x6D07d1785091bd1e03cF353BcD593c54D16a93C9",
+        "date": "2024-06-05",
+        "daily_amount": 1013.486128
+    },
+    {
+        "user_id": "1x_user_d8ee619031991fd1be12ac6d",
+        "username": "SlyCOOPER",
+        "address": "0x6283913Ad056f5e8b52A3D02D72930C0D5DDE313",
+        "date": "2024-06-05",
+	{
+		"user_id": "1x_user_0c41e0cfa263cd67ff0f8232",
+		"username": "Mookah",
+		"address": "0x1a94578c4db2C90042c62FB0311FE1423659475b",
+		"date": "2024-05-13",
+		"daily_amount": 2.769522
+	},
+	{
+		"user_id": "1x_user_3166fd1a2a112b451e19016c",
+		"username": "YGG_AXU_Pepito_Paragons",
+		"address": "0x839AC785D5368A762884767b1914154575E30446",
+		"date": "2024-05-13",
+		"daily_amount": 1.215888
+	},
+	{
+		"user_id": "1x_user_68547ddbfe2f45b32e68c448",
+		"username": "SySţEMEŘASEŘ",
+		"address": "0xBDc703049C7234DD581B88ee460F4E1574C2cF7b",
+		"date": "2024-05-13",
+		"daily_amount": 1.148338
+	},
+	{
+		"user_id": "1x_user_697fbe05f0e019c4b074766f",
+		"username": "Sinpar22_PGA",
+		"address": "0x8b5a9e28730ACBA1cBc7886547d674A6cd03340e",
+		"date": "2024-05-13",
+		"daily_amount": 1.756282
+	},
+	{
+		"user_id": "1x_user_73076e69e5d79a8d19102219",
+		"username": "jeremy",
+		"address": "0xbD70Ae53e48B3B94E75A9895e8B7c092856709FF",
+		"date": "2024-05-13",
+		"daily_amount": 3.647663
+	},
+	{
+		"user_id": "1x_user_7ba3a8e71855e7449f0e58aa",
+		"username": "ManuAMG_MDNT",
+		"address": "0x2A89C680d9d96A51f8dD52bD20AabC4A320E7dCA",
+		"date": "2024-05-13",
+		"daily_amount": 2.364226
+	},
+	{
+		"user_id": "1x_user_d58f8e09c3981a3b375bb4f5",
+		"username": "Manos",
+		"address": "0x6D07d1785091bd1e03cF353BcD593c54D16a93C9",
+		"date": "2024-05-13",
+		"daily_amount": 3.985409
+	},
+	{
+		"user_id": "1x_user_0137c0da5c61031d6892a12e",
+		"username": "Malston_Exile",
+		"address": "0x11B4E83BC3e9605F03E2A4C34BD09567be5aeBBE",
+		"date": "2024-05-16",
+		"daily_amount": 75.573277
+	},
+	{
+		"user_id": "1x_user_03c1c7ef8655ade08be5079a",
+		"username": "synist3r",
+		"address": "0xAfbEe4d7f883E6Ab842e9623a9d595Ff6B7AAfD7",
+		"date": "2024-05-16",
+		"daily_amount": 16.636709
+	},
+	{
+		"user_id": "1x_user_095c95bccb0dcd1e7407981e",
+		"username": "Basshunt3r_paragons",
+		"address": "0x0C3039e7518B711a56F3BBE8bec4f9387829e766",
+		"date": "2024-05-16",
+		"daily_amount": 5.445381
+	},
+	{
+		"user_id": "1x_user_0c41e0cfa263cd67ff0f8232",
+		"username": "Mookah",
+		"address": "0x1a94578c4db2C90042c62FB0311FE1423659475b",
+		"date": "2024-05-16",
+		"daily_amount": 32.976336
+	},
+	{
+		"user_id": "1x_user_0fb425d8dcc8b7593c48c707",
+		"username": "XAVI324",
+		"address": "0x2a1d7482a179308Da13F316b2b466A22DDE59f83",
+		"date": "2024-05-16",
+		"daily_amount": 8.890654
+	},
+	{
+		"user_id": "1x_user_10315890e81dd43477b3a59c",
+		"username": "spaceman7",
+		"address": "0x3dDB69473881a8f0c73419293519994C14603b12",
+		"date": "2024-05-16",
+		"daily_amount": 18.481716
+	},
+	{
+		"user_id": "1x_user_181b20d9323e785f965f1b4f",
+		"username": "Comfortable",
+		"address": "0xF98A854bc00eAa854894d79e11315A2114C58120",
+		"date": "2024-05-16",
+		"daily_amount": 21.477517
+	},
+	{
+		"user_id": "1x_user_3162953d6de7b00d837b742d",
+		"username": "Tony_PLDN",
+		"address": "0xA28eb462f9B954C63494F5C9A1348e3Cc4F91135",
+		"date": "2024-05-16",
+		"daily_amount": 44.554007
+	},
+	{
+		"user_id": "1x_user_31a70cb056ed5002de9422c4",
+		"username": "gabrielrcha",
+		"address": "0x53AAf2B383a0Df5586dE7108BcA0E804e3f3E2EA",
+		"date": "2024-05-16",
+		"daily_amount": 12.735048
+	},
+	{
+		"user_id": "1x_user_3293dac923e368515f7a6173",
+		"username": "bounty",
+		"address": "0xC48Fe7a066b46393DaF6784b8eC4adb8ebE7489F",
+		"date": "2024-05-16",
+		"daily_amount": 36.927297
+	},
+	{
+		"user_id": "1x_user_33fdcba3f9471c6fad705f1e",
+		"username": "ferenginar",
+		"address": "0x13f16aE446ebFd96a02A98317638ae231A19ab2f",
+		"date": "2024-05-16",
+		"daily_amount": 16.100908
+	},
+	{
+		"user_id": "1x_user_37533e6d5822be30d04fb28a",
+		"username": "PROFESSIONAL_CATHERINE_PLAYER",
+		"address": "0xf85a96116312C382EB97E3BcB6267d15a5acbDdE",
+		"date": "2024-05-16",
+		"daily_amount": 87.07648
+	},
+	{
+		"user_id": "1x_user_3881b3cc0c511adc71c4e80c",
+		"username": "dr_grim",
+		"address": "0x22d0794A82EEBdd10245C2d162951eB1CA6FA58b",
+		"date": "2024-05-16",
+		"daily_amount": 1.562575
+	},
+	{
+		"user_id": "1x_user_3cf108378175caae458959d5",
+		"username": "btsb",
+		"address": "0xAf0688715a1a0f7189847C431010920677fb9967",
+		"date": "2024-05-16",
+		"daily_amount": 20.942121
+	},
+	{
+		"user_id": "1x_user_5305913466f9b44ddf936be8",
+		"username": "thefreeroll",
+		"address": "0x9A36C3A2a328f0b018bc4824b80199c6337d6650",
+		"date": "2024-05-16",
+		"daily_amount": 16.115222
+	},
+	{
+		"user_id": "1x_user_5a14c6d8d347c1bfa92f81fb",
+		"username": "TRICKYΞPGA",
+		"address": "0x4fdcD0496F4c2D3629C0741626DE74d24A683E50",
+		"date": "2024-05-16",
+		"daily_amount": 20.414119
+	},
+	{
+		"user_id": "1x_user_68547ddbfe2f45b32e68c448",
+		"username": "SySţEMEŘASEŘ",
+		"address": "0xBDc703049C7234DD581B88ee460F4E1574C2cF7b",
+		"date": "2024-05-16",
+		"daily_amount": 8.580419
+	},
+	{
+		"user_id": "1x_user_697fbe05f0e019c4b074766f",
+		"username": "Sinpar22_PGA",
+		"address": "0x8b5a9e28730ACBA1cBc7886547d674A6cd03340e",
+		"date": "2024-05-16",
+		"daily_amount": 14.793651
+	},
+	{
+		"user_id": "1x_user_69ebcd362a53a465c017d6c6",
+		"username": "lemurbeast",
+		"address": "0x3E751Ab467E9a1bB97E32C1e09d83b08b8e9Ad6F",
+		"date": "2024-05-16",
+		"daily_amount": 21.424436
+	},
+	{
+		"user_id": "1x_user_6fd5746e382c3585e4785b2c",
+		"username": "Paragons_Milamber",
+		"address": "0xD4f8a2348A286A1F06FAe22b6042CCeAaf2C3323",
+		"date": "2024-05-16",
+		"daily_amount": 58.915915
+	},
+	{
+		"user_id": "1x_user_73076e69e5d79a8d19102219",
+		"username": "jeremy",
+		"address": "0xbD70Ae53e48B3B94E75A9895e8B7c092856709FF",
+		"date": "2024-05-16",
+		"daily_amount": 19.195156
+	},
+	{
+		"user_id": "1x_user_75fc01af2dde19ae76ff3bdc",
+		"username": "webmixgamer",
+		"address": "0x2D41211fc8a4a1639032Ead5C8EE6B867Ef70A49",
+		"date": "2024-05-16",
+		"daily_amount": 23.541842
+	},
+	{
+		"user_id": "1x_user_7615b5acd0fdabd4ab8314e1",
+		"username": "elerium115",
+		"address": "0xdF610269c6587C579E76b03Fba17EE51DD02B0c8",
+		"date": "2024-05-16",
+		"daily_amount": 30.800483
+	},
+	{
+		"user_id": "1x_user_7ba3a8e71855e7449f0e58aa",
+		"username": "ManuAMG_MDNT",
+		"address": "0x2A89C680d9d96A51f8dD52bD20AabC4A320E7dCA",
+		"date": "2024-05-16",
+		"daily_amount": 12.633366
+	},
+	{
+		"user_id": "1x_user_8c465de5ad5b49c4df6ec23f",
+		"username": "Shogo.contagion",
+		"address": "0x91881e69cbF6c2f8d844a2CdDB941087e7fc1b6c",
+		"date": "2024-05-16",
+		"daily_amount": 7.884098
+	},
+	{
+		"user_id": "1x_user_8d687d87f564c2644d0ba71a",
+		"username": "kinglizard",
+		"address": "0xE27d9E71A92eb928D033194987be22998b336068",
+		"date": "2024-05-16",
+		"daily_amount": 9.845411
+	},
+	{
+		"user_id": "1x_user_92cc4b11c04dfd4c1c55711d",
+		"username": "SNode",
+		"address": "0x8c0d5Cf17365Df315b8d334eB5552Be9F7Ff3978",
+		"date": "2024-05-16",
+		"daily_amount": 14.461536
+	},
+	{
+		"user_id": "1x_user_9953ae483a202f1f6f38dd35",
+		"username": "JIZO_PGA",
+		"address": "0x258EA80aEA2F5e32b5da106825d2B87e55D46Bf6",
+		"date": "2024-05-16",
+		"daily_amount": 18.245062
+	},
+	{
+		"user_id": "1x_user_9bfc0c8911b72c70e45eaf4b",
+		"username": "ROBHMORAESETH",
+		"address": "0xC240d13e57A44909991D8c398C58545d44b4068d",
+		"date": "2024-05-16",
+		"daily_amount": 8.370607
+	},
+	{
+		"user_id": "1x_user_a1cd523c10fd48c5d7ef3a87",
+		"username": "TILT_Kenzord_YGG",
+		"address": "0xA92debe0abE6af83ef762Ab80BdCD99b954a587f",
+		"date": "2024-05-16",
+		"daily_amount": 15.326092
+	},
+	{
+		"user_id": "1x_user_a76a494fe3a629838daaf1e4",
+		"username": "TILT_vynchi_YGG_BreederDAO",
+		"address": "0x1Db4EeD9f24d4E54DB541413C5D3802f0c7c1a81",
+		"date": "2024-05-16",
+		"daily_amount": 56.858582
+	},
+	{
+		"user_id": "1x_user_afbc59251166e93cd052e853",
+		"username": "garrosh",
+		"address": "0x6dD2356ACeCB9875e6152EB34B34cB435250A4a0",
+		"date": "2024-05-16",
+		"daily_amount": 12.008936
+	},
+	{
+		"user_id": "1x_user_b137c540a5de5788455b612a",
+		"username": "BradThe3rd@nerf.shroud",
+		"address": "0xfC9dD877930e9799BeB663523BD31EefE3C99597",
+		"date": "2024-05-16",
+		"daily_amount": 8.413007
+	},
+	{
+		"user_id": "1x_user_b8c7ad63c2f84e6e36a98f12",
+		"username": "exie_win_YGG",
+		"address": "0xfAC5B8f8668b7158cF6A5dE01f20f207AC011cA7",
+		"date": "2024-05-16",
+		"daily_amount": 33.791467
+	},
+	{
+		"user_id": "1x_user_bde36076074526b110c1cfee",
+		"username": "thebrasiliankid",
+		"address": "0xA810f9A8375451f8CE640809AF1Ca15227705165",
+		"date": "2024-05-16",
+		"daily_amount": 32.002248
+	},
+	{
+		"user_id": "1x_user_bfec679dc497c1fe63ef3dac",
+		"username": "Eclipse-Paragons",
+		"address": "0xa9E8529bbB2877bA2871Eae5b4DA0B886001B703",
+		"date": "2024-05-16",
+		"daily_amount": 42.435241
+	},
+	{
+		"user_id": "1x_user_c6d4492df13763e721362647",
+		"username": "Wolfy",
+		"address": "0xc6e4637aEF0D61b2071405CbAb076aBf03EAA310",
+		"date": "2024-05-16",
+		"daily_amount": 11.077809
+	},
+	{
+		"user_id": "1x_user_cf1ded5c20248e202b089cf2",
+		"username": "backmorda",
+		"address": "0x8C4450D3B41A2981B2a9dE320864044C50823cbF",
+		"date": "2024-05-16",
+		"daily_amount": 28.423363
+	},
+	{
+		"user_id": "1x_user_d538384c07d3581a46479e39",
+		"username": "iracer77",
+		"address": "0xc82414b8BD237A0f79596c3CE7Dc00F63b70Ca6f",
+		"date": "2024-05-16",
+		"daily_amount": 75.029102
+	},
+	{
+		"user_id": "1x_user_d58f8e09c3981a3b375bb4f5",
+		"username": "Manos",
+		"address": "0x6D07d1785091bd1e03cF353BcD593c54D16a93C9",
+		"date": "2024-05-16",
+		"daily_amount": 159.372897
+	},
+	{
+		"user_id": "1x_user_d8ee619031991fd1be12ac6d",
+		"username": "SlyCOOPER",
+		"address": "0x6283913Ad056f5e8b52A3D02D72930C0D5DDE313",
+		"date": "2024-05-16",
+		"daily_amount": 3.552829
+	},
+	{
+		"user_id": "1x_user_db0d99498b56b8ceadbe34d4",
+		"username": "YGG_AxU_Nocturnal_Paragons",
+		"address": "0x9F44a22C944bC39f2434E8A65a4b41F655c0c0DC",
+		"date": "2024-05-16",
+		"daily_amount": 8.270035
+	},
+	{
+		"user_id": "1x_user_df3723369fc5e6b782bdb87e",
+		"username": "kaktuzboy",
+		"address": "0xBDcaebd9570AED98ce53CC57F5a8DbF9b3c80579",
+		"date": "2024-05-16",
+		"daily_amount": 6.132829
+	},
+	{
+		"user_id": "1x_user_dfbbc116ded7394ae2fa58fa",
+		"username": "BrightAvian_EXILE_YGG",
+		"address": "0x5aA5c645F8bb12a92c3ED8232C58bD94B13c09e2",
+		"date": "2024-05-16",
+		"daily_amount": 66.804728
+	},
+	{
+		"user_id": "1x_user_e393961114093d6658cda428",
+		"username": "kartoha.Paragons.DevGG",
+		"address": "0x97f25d7dfdA8c1bC7dc578C6Dc853F73AED5b37C",
+		"date": "2024-05-16",
+		"daily_amount": 5.535002
+	},
+	{
+		"user_id": "1x_user_f1ed937946ccb6eb57d7f8fd",
+		"username": "kaslow",
+		"address": "0x9266bc14BBD9fD5cA11D85B8720EA5A735B40000",
+		"date": "2024-05-16",
+		"daily_amount": 6.467994
+	},
+	{
+		"user_id": "1x_user_f2db9c3b3273ca4d9d68b15d",
+		"username": "Sequinox_YGG",
+		"address": "0x7a0A871C626f41b1b1CAeC66B926B1f788eb747F",
+		"date": "2024-05-16",
+		"daily_amount": 174.511827
+	},
+	{
+		"user_id": "1x_user_f3541d9d49b740801c6875e6",
+		"username": "beijingdouEXILE",
+		"address": "0xaf469C4a0914938e6149CF621c54FB4b1EC0c202",
+		"date": "2024-05-16",
+		"daily_amount": 35.451425
+	},
+	{
+		"user_id": "1x_user_ff1a99eb0b34999290d4ab3d",
+		"username": "Nevermind_Paragons",
+		"address": "0x3B057cd1b4190B838709D380ACaC0306D010C7a1",
+		"date": "2024-05-16",
+		"daily_amount": 12.09787
+	},
+	{
+		"user_id": "1x_user_31a70cb056ed5002de9422c4",
+		"username": "gabrielrcha",
+		"address": "0x53AAf2B383a0Df5586dE7108BcA0E804e3f3E2EA",
+		"date": "2024-06-05",
+		"daily_amount": 28.250935
+	},
+	{
+		"user_id": "1x_user_33fdcba3f9471c6fad705f1e",
+		"username": "ferenginar",
+		"address": "0x13f16aE446ebFd96a02A98317638ae231A19ab2f",
+		"date": "2024-06-05",
+		"daily_amount": 75.166076
+	},
+	{
+		"user_id": "1x_user_3cf108378175caae458959d5",
+		"username": "btsb",
+		"address": "0xAf0688715a1a0f7189847C431010920677fb9967",
+		"date": "2024-06-05",
+		"daily_amount": 14.457831
+	},
+	{
+		"user_id": "1x_user_5305913466f9b44ddf936be8",
+		"username": "thefreeroll",
+		"address": "0x9A36C3A2a328f0b018bc4824b80199c6337d6650",
+		"date": "2024-06-05",
+		"daily_amount": 109.924585
+	},
+	{
+		"user_id": "1x_user_5a14c6d8d347c1bfa92f81fb",
+		"username": "TRICKYΞPGA",
+		"address": "0x4fdcD0496F4c2D3629C0741626DE74d24A683E50",
+		"date": "2024-06-05",
+		"daily_amount": 110.660363
+	},
+	{
+		"user_id": "1x_user_6fd5746e382c3585e4785b2c",
+		"username": "Paragons_Milamber",
+		"address": "0xD4f8a2348A286A1F06FAe22b6042CCeAaf2C3323",
+		"date": "2024-06-05",
+		"daily_amount": 13.636364
+	},
+	{
+		"user_id": "1x_user_73076e69e5d79a8d19102219",
+		"username": "jeremy",
+		"address": "0xbD70Ae53e48B3B94E75A9895e8B7c092856709FF",
+		"date": "2024-06-05",
+		"daily_amount": 75.166076
+	},
+	{
+		"user_id": "1x_user_737f9b44bc02379abf7345d8",
+		"username": "MARS_ATTACKS",
+		"address": "0x5FE5C7E196520c6c8CEE0770BcCD0d8702CA55F0",
+		"date": "2024-06-05",
+		"daily_amount": 54.653256
+	},
+	{
+		"user_id": "1x_user_94ba0133cc399fbd551a7a0f",
+		"username": "flapjackson",
+		"address": "0x9b0C74924A7f6B4A54e7a02f7D56BBe9605bb629",
+		"date": "2024-06-05",
+		"daily_amount": 13.793103
+	},
+	{
+		"user_id": "1x_user_9cb0eeb12285b4681f3aa2ad",
+		"username": "0xbrand",
+		"address": "0x18Ac129F2284eb45FBc9f3a9630503AaDCE010D2",
+		"date": "2024-06-05",
+		"daily_amount": 13.793103
+	},
+	{
+		"user_id": "1x_user_b1571b8b7d6ad0005302db9d",
+		"username": "olivek",
+		"address": "0x5524eD1E6d6b8E8F28A0cF63196eEb0255715577",
+		"date": "2024-06-05",
+		"daily_amount": 75.166076
+	},
+	{
+		"user_id": "1x_user_bde36076074526b110c1cfee",
+		"username": "thebrasiliankid",
+		"address": "0xA810f9A8375451f8CE640809AF1Ca15227705165",
+		"date": "2024-06-05",
+		"daily_amount": 276.923077
+	},
+	{
+		"user_id": "1x_user_c6d4492df13763e721362647",
+		"username": "Wolfy",
+		"address": "0xc6e4637aEF0D61b2071405CbAb076aBf03EAA310",
+		"date": "2024-06-05",
+		"daily_amount": 47.785548
+	},
+	{
+		"user_id": "1x_user_d58f8e09c3981a3b375bb4f5",
+		"username": "Manos",
+		"address": "0x6D07d1785091bd1e03cF353BcD593c54D16a93C9",
+		"date": "2024-06-05",
+		"daily_amount": 1013.486128
+	},
+	{
+		"user_id": "1x_user_d8ee619031991fd1be12ac6d",
+		"username": "SlyCOOPER",
+		"address": "0x6283913Ad056f5e8b52A3D02D72930C0D5DDE313",
+		"date": "2024-06-05",
+		"daily_amount": 78.350515
+	},
+	{
+		"user_id": "1x_user_dfbbc116ded7394ae2fa58fa",
+		"username": "BrightAvian_EXILE_YGG",
+		"address": "0x5aA5c645F8bb12a92c3ED8232C58bD94B13c09e2",
+		"date": "2024-06-05",
+		"daily_amount": 103.204868
+	},
+	{
+		"user_id": "1x_user_f3541d9d49b740801c6875e6",
+		"username": "beijingdouEXILE",
+		"address": "0xaf469C4a0914938e6149CF621c54FB4b1EC0c202",
+		"date": "2024-06-05",
+		"daily_amount": 27.429467
+	},
+	{
+		"user_id": "1x_user_73076e69e5d79a8d19102219",
+		"username": "jeremy",
+		"address": "0xbD70Ae53e48B3B94E75A9895e8B7c092856709FF",
+		"date": "2024-06-06",
+		"daily_amount": 262.847662
+	},
+	{
+		"user_id": "1x_user_0137c0da5c61031d6892a12e",
+		"username": "Malston_Exile",
+		"address": "0x11B4E83BC3e9605F03E2A4C34BD09567be5aeBBE",
+		"date": "2024-06-12",
+		"daily_amount": 30.468347
+	},
+	{
+		"user_id": "1x_user_03c1c7ef8655ade08be5079a",
+		"username": "synist3r",
+		"address": "0xAfbEe4d7f883E6Ab842e9623a9d595Ff6B7AAfD7",
+		"date": "2024-06-12",
+		"daily_amount": 9.65917
+	},
+	{
+		"user_id": "1x_user_0c41e0cfa263cd67ff0f8232",
+		"username": "Mookah",
+		"address": "0x1a94578c4db2C90042c62FB0311FE1423659475b",
+		"date": "2024-06-12",
+		"daily_amount": 68.063778
+	},
+	{
+		"user_id": "1x_user_0c48997413da966974d15954",
+		"username": "Zeliaser_YGG",
+		"address": "0xf61C5f77194CFA3399Ab49c86c1cF722b275077f",
+		"date": "2024-06-12",
+		"daily_amount": 18.946748
+	},
+	{
+		"user_id": "1x_user_0fb425d8dcc8b7593c48c707",
+		"username": "XAVI324",
+		"address": "0x2a1d7482a179308Da13F316b2b466A22DDE59f83",
+		"date": "2024-06-12",
+		"daily_amount": 15.979179
+	},
+	{
+		"user_id": "1x_user_10315890e81dd43477b3a59c",
+		"username": "spaceman7",
+		"address": "0x3dDB69473881a8f0c73419293519994C14603b12",
+		"date": "2024-06-12",
+		"daily_amount": 7.563208
+	},
+	{
+		"user_id": "1x_user_181b20d9323e785f965f1b4f",
+		"username": "Comfortable",
+		"address": "0xF98A854bc00eAa854894d79e11315A2114C58120",
+		"date": "2024-06-12",
+		"daily_amount": 19.510621
+	},
+	{
+		"user_id": "1x_user_3162953d6de7b00d837b742d",
+		"username": "Tony_PLDN",
+		"address": "0xA28eb462f9B954C63494F5C9A1348e3Cc4F91135",
+		"date": "2024-06-12",
+		"daily_amount": 88.11656
+	},
+	{
+		"user_id": "1x_user_3166fd1a2a112b451e19016c",
+		"username": "YGG_AXU_Pepito_Paragons",
+		"address": "0x839AC785D5368A762884767b1914154575E30446",
+		"date": "2024-06-12",
+		"daily_amount": 9.91129
+	},
+	{
+		"user_id": "1x_user_31a70cb056ed5002de9422c4",
+		"username": "gabrielrcha",
+		"address": "0x53AAf2B383a0Df5586dE7108BcA0E804e3f3E2EA",
+		"date": "2024-06-12",
+		"daily_amount": 13.997641
+	},
+	{
+		"user_id": "1x_user_3293dac923e368515f7a6173",
+		"username": "bounty",
+		"address": "0xC48Fe7a066b46393DaF6784b8eC4adb8ebE7489F",
+		"date": "2024-06-12",
+		"daily_amount": 36.813969
+	},
+	{
+		"user_id": "1x_user_33fdcba3f9471c6fad705f1e",
+		"username": "ferenginar",
+		"address": "0x13f16aE446ebFd96a02A98317638ae231A19ab2f",
+		"date": "2024-06-12",
+		"daily_amount": 32.154703
+	},
+	{
+		"user_id": "1x_user_37533e6d5822be30d04fb28a",
+		"username": "PROFESSIONAL_CATHERINE_PLAYER",
+		"address": "0xf85a96116312C382EB97E3BcB6267d15a5acbDdE",
+		"date": "2024-06-12",
+		"daily_amount": 1.866142
+	},
+	{
+		"user_id": "1x_user_3cf108378175caae458959d5",
+		"username": "btsb",
+		"address": "0xAf0688715a1a0f7189847C431010920677fb9967",
+		"date": "2024-06-12",
+		"daily_amount": 20.883209
+	},
+	{
+		"user_id": "1x_user_5305913466f9b44ddf936be8",
+		"username": "thefreeroll",
+		"address": "0x9A36C3A2a328f0b018bc4824b80199c6337d6650",
+		"date": "2024-06-12",
+		"daily_amount": 10.747134
+	},
+	{
+		"user_id": "1x_user_5a14c6d8d347c1bfa92f81fb",
+		"username": "TRICKYΞPGA",
+		"address": "0x4fdcD0496F4c2D3629C0741626DE74d24A683E50",
+		"date": "2024-06-12",
+		"daily_amount": 21.447654
+	},
+	{
+		"user_id": "1x_user_68547ddbfe2f45b32e68c448",
+		"username": "SySţEMEŘASEŘ",
+		"address": "0xBDc703049C7234DD581B88ee460F4E1574C2cF7b",
+		"date": "2024-06-12",
+		"daily_amount": 5.454366
+	},
+	{
+		"user_id": "1x_user_697fbe05f0e019c4b074766f",
+		"username": "Sinpar22_PGA",
+		"address": "0x8b5a9e28730ACBA1cBc7886547d674A6cd03340e",
+		"date": "2024-06-12",
+		"daily_amount": 1.60752
+	},
+	{
+		"user_id": "1x_user_69ebcd362a53a465c017d6c6",
+		"username": "lemurbeast",
+		"address": "0x3E751Ab467E9a1bB97E32C1e09d83b08b8e9Ad6F",
+		"date": "2024-06-12",
+		"daily_amount": 11.259993
+	},
+	{
+		"user_id": "1x_user_6fd5746e382c3585e4785b2c",
+		"username": "Paragons_Milamber",
+		"address": "0xD4f8a2348A286A1F06FAe22b6042CCeAaf2C3323",
+		"date": "2024-06-12",
+		"daily_amount": 40.004221
+	},
+	{
+		"user_id": "1x_user_73076e69e5d79a8d19102219",
+		"username": "jeremy",
+		"address": "0xbD70Ae53e48B3B94E75A9895e8B7c092856709FF",
+		"date": "2024-06-12",
+		"daily_amount": 13.995712
+	},
+	{
+		"user_id": "1x_user_737f9b44bc02379abf7345d8",
+		"username": "MARS_ATTACKS",
+		"address": "0x5FE5C7E196520c6c8CEE0770BcCD0d8702CA55F0",
+		"date": "2024-06-12",
+		"daily_amount": 1.987566
+	},
+	{
+		"user_id": "1x_user_75fc01af2dde19ae76ff3bdc",
+		"username": "webmixgamer",
+		"address": "0x2D41211fc8a4a1639032Ead5C8EE6B867Ef70A49",
+		"date": "2024-06-12",
+		"daily_amount": 13.514427
+	},
+	{
+		"user_id": "1x_user_7615b5acd0fdabd4ab8314e1",
+		"username": "elerium115",
+		"address": "0xdF610269c6587C579E76b03Fba17EE51DD02B0c8",
+		"date": "2024-06-12",
+		"daily_amount": 29.64081
+	},
+	{
+		"user_id": "1x_user_7ba3a8e71855e7449f0e58aa",
+		"username": "ManuAMG_MDNT",
+		"address": "0x2A89C680d9d96A51f8dD52bD20AabC4A320E7dCA",
+		"date": "2024-06-12",
+		"daily_amount": 20.18666
+	},
+	{
+		"user_id": "1x_user_8c465de5ad5b49c4df6ec23f",
+		"username": "Shogo.contagion",
+		"address": "0x91881e69cbF6c2f8d844a2CdDB941087e7fc1b6c",
+		"date": "2024-06-12",
+		"daily_amount": 19.835418
+	},
+	{
+		"user_id": "1x_user_8d687d87f564c2644d0ba71a",
+		"username": "kinglizard",
+		"address": "0xE27d9E71A92eb928D033194987be22998b336068",
+		"date": "2024-06-12",
+		"daily_amount": 11.8962
+	},
+	{
+		"user_id": "1x_user_92cc4b11c04dfd4c1c55711d",
+		"username": "SNode",
+		"address": "0x8c0d5Cf17365Df315b8d334eB5552Be9F7Ff3978",
+		"date": "2024-06-12",
+		"daily_amount": 42.590468
+	},
+	{
+		"user_id": "1x_user_94ba0133cc399fbd551a7a0f",
+		"username": "flapjackson",
+		"address": "0x9b0C74924A7f6B4A54e7a02f7D56BBe9605bb629",
+		"date": "2024-06-12",
+		"daily_amount": 2.218983
+	},
+	{
+		"user_id": "1x_user_9953ae483a202f1f6f38dd35",
+		"username": "JIZO_PGA",
+		"address": "0x258EA80aEA2F5e32b5da106825d2B87e55D46Bf6",
+		"date": "2024-06-12",
+		"daily_amount": 9.556161
+	},
+	{
+		"user_id": "1x_user_9bfc0c8911b72c70e45eaf4b",
+		"username": "ROBHMORAESETH",
+		"address": "0xC240d13e57A44909991D8c398C58545d44b4068d",
+		"date": "2024-06-12",
+		"daily_amount": 3.412725
+	},
+	{
+		"user_id": "1x_user_a1cd523c10fd48c5d7ef3a87",
+		"username": "TILT_Kenzord_YGG",
+		"address": "0xA92debe0abE6af83ef762Ab80BdCD99b954a587f",
+		"date": "2024-06-12",
+		"daily_amount": 16.949468
+	},
+	{
+		"user_id": "1x_user_a76a494fe3a629838daaf1e4",
+		"username": "TILT_vynchi_YGG_BreederDAO",
+		"address": "0x1Db4EeD9f24d4E54DB541413C5D3802f0c7c1a81",
+		"date": "2024-06-12",
+		"daily_amount": 72.571455
+	},
+	{
+		"user_id": "1x_user_afbc59251166e93cd052e853",
+		"username": "garrosh",
+		"address": "0x6dD2356ACeCB9875e6152EB34B34cB435250A4a0",
+		"date": "2024-06-12",
+		"daily_amount": 11.9244
+	},
+	{
+		"user_id": "1x_user_b8c7ad63c2f84e6e36a98f12",
+		"username": "exie_win_YGG",
+		"address": "0xfAC5B8f8668b7158cF6A5dE01f20f207AC011cA7",
+		"date": "2024-06-12",
+		"daily_amount": 10.016227
+	},
+	{
+		"user_id": "1x_user_bde36076074526b110c1cfee",
+		"username": "thebrasiliankid",
+		"address": "0xA810f9A8375451f8CE640809AF1Ca15227705165",
+		"date": "2024-06-12",
+		"daily_amount": 28.643064
+	},
+	{
+		"user_id": "1x_user_bfec679dc497c1fe63ef3dac",
+		"username": "Eclipse-Paragons",
+		"address": "0xa9E8529bbB2877bA2871Eae5b4DA0B886001B703",
+		"date": "2024-06-12",
+		"daily_amount": 64.859715
+	},
+	{
+		"user_id": "1x_user_c6d4492df13763e721362647",
+		"username": "Wolfy",
+		"address": "0xc6e4637aEF0D61b2071405CbAb076aBf03EAA310",
+		"date": "2024-06-12",
+		"daily_amount": 4.71098
+	},
+	{
+		"user_id": "1x_user_cf1ded5c20248e202b089cf2",
+		"username": "backmorda",
+		"address": "0x8C4450D3B41A2981B2a9dE320864044C50823cbF",
+		"date": "2024-06-12",
+		"daily_amount": 37.146865
+	},
+	{
+		"user_id": "1x_user_d538384c07d3581a46479e39",
+		"username": "iracer77",
+		"address": "0xc82414b8BD237A0f79596c3CE7Dc00F63b70Ca6f",
+		"date": "2024-06-12",
+		"daily_amount": 35.829067
+	},
+	{
+		"user_id": "1x_user_d58f8e09c3981a3b375bb4f5",
+		"username": "Manos",
+		"address": "0x6D07d1785091bd1e03cF353BcD593c54D16a93C9",
+		"date": "2024-06-12",
+		"daily_amount": 113.899823
+	},
+	{
+		"user_id": "1x_user_d8ee619031991fd1be12ac6d",
+		"username": "SlyCOOPER",
+		"address": "0x6283913Ad056f5e8b52A3D02D72930C0D5DDE313",
+		"date": "2024-06-12",
+		"daily_amount": 2.996586
+	},
+	{
+		"user_id": "1x_user_df3723369fc5e6b782bdb87e",
+		"username": "kaktuzboy",
+		"address": "0xBDcaebd9570AED98ce53CC57F5a8DbF9b3c80579",
+		"date": "2024-06-12",
+		"daily_amount": 11.673938
+	},
+	{
+		"user_id": "1x_user_dfbbc116ded7394ae2fa58fa",
+		"username": "BrightAvian_EXILE_YGG",
+		"address": "0x5aA5c645F8bb12a92c3ED8232C58bD94B13c09e2",
+		"date": "2024-06-12",
+		"daily_amount": 107.318469
+	},
+	{
+		"user_id": "1x_user_e1aedf3103b128d055a65ebf",
+		"username": "Ganera_Exile",
+		"address": "0xA18690Ba687E05b9574e77D1d6Fc7Dfe8bB2575F",
+		"date": "2024-06-12",
+		"daily_amount": 16.050395
+	},
+	{
+		"user_id": "1x_user_e393961114093d6658cda428",
+		"username": "kartoha.Paragons.DevGG",
+		"address": "0x97f25d7dfdA8c1bC7dc578C6Dc853F73AED5b37C",
+		"date": "2024-06-12",
+		"daily_amount": 16.840573
+	},
+	{
+		"user_id": "1x_user_f1ed937946ccb6eb57d7f8fd",
+		"username": "kaslow",
+		"address": "0x9266bc14BBD9fD5cA11D85B8720EA5A735B40000",
+		"date": "2024-06-12",
+		"daily_amount": 11.989604
+	},
+	{
+		"user_id": "1x_user_f2db9c3b3273ca4d9d68b15d",
+		"username": "Sequinox_YGG",
+		"address": "0x7a0A871C626f41b1b1CAeC66B926B1f788eb747F",
+		"date": "2024-06-12",
+		"daily_amount": 128.942329
+	},
+	{
+		"user_id": "1x_user_f3541d9d49b740801c6875e6",
+		"username": "beijingdouEXILE",
+		"address": "0xaf469C4a0914938e6149CF621c54FB4b1EC0c202",
+		"date": "2024-06-12",
+		"daily_amount": 56.511028
+	},
+	{
+		"user_id": "1x_user_ff1a99eb0b34999290d4ab3d",
+		"username": "Nevermind_Paragons",
+		"address": "0x3B057cd1b4190B838709D380ACaC0306D010C7a1",
+		"date": "2024-06-12",
+		"daily_amount": 10.56611
+	},
+	{
+		"user_id": "1x_user_0137c0da5c61031d6892a12e",
+		"username": "Malston_Exile",
+		"address": "0x11B4E83BC3e9605F03E2A4C34BD09567be5aeBBE",
+		"date": "2024-06-26",
+		"daily_amount": 2.665719
+	},
+	{
+		"user_id": "1x_user_03c1c7ef8655ade08be5079a",
+		"username": "synist3r",
+		"address": "0xAfbEe4d7f883E6Ab842e9623a9d595Ff6B7AAfD7",
+		"date": "2024-06-26",
+		"daily_amount": 7.019726
+	},
+	{
+		"user_id": "1x_user_0fb425d8dcc8b7593c48c707",
+		"username": "XAVI324",
+		"address": "0x2a1d7482a179308Da13F316b2b466A22DDE59f83",
+		"date": "2024-06-26",
+		"daily_amount": 1.244002
+	},
+	{
+		"user_id": "1x_user_3166fd1a2a112b451e19016c",
+		"username": "YGG_AXU_Pepito_Paragons",
+		"address": "0x839AC785D5368A762884767b1914154575E30446",
+		"date": "2024-06-26",
+		"daily_amount": 5.864581
+	},
+	{
+		"user_id": "1x_user_73076e69e5d79a8d19102219",
+		"username": "jeremy",
+		"address": "0xbD70Ae53e48B3B94E75A9895e8B7c092856709FF",
+		"date": "2024-06-26",
+		"daily_amount": 3.643149
+	},
+	{
+		"user_id": "1x_user_85245f6f102306d3b66dd29a",
+		"username": "TILT_MUTZKI_YGG",
+		"address": "0x64972370Ce902CfA23d92f4Da8B34584583764f0",
+		"date": "2024-06-26",
+		"daily_amount": 2.132575
+	},
+	{
+		"user_id": "1x_user_92cc4b11c04dfd4c1c55711d",
+		"username": "SNode",
+		"address": "0x8c0d5Cf17365Df315b8d334eB5552Be9F7Ff3978",
+		"date": "2024-06-26",
+		"daily_amount": 3.021148
+	},
+	{
+		"user_id": "1x_user_d58f8e09c3981a3b375bb4f5",
+		"username": "Manos",
+		"address": "0x6D07d1785091bd1e03cF353BcD593c54D16a93C9",
+		"date": "2024-06-26",
+		"daily_amount": 7.464013
+	},
+	{
+		"user_id": "1x_user_de61fd39d4be319e808d7e09",
+		"username": "nikininedoor",
+		"address": "0x1C2cafa86BbFe15C12fc9EF4fe167d191D8AC327",
+		"date": "2024-06-26",
+		"daily_amount": 1.244002
+	},
+	{
+		"user_id": "1x_user_e1aedf3103b128d055a65ebf",
+		"username": "Ganera_Exile",
+		"address": "0xA18690Ba687E05b9574e77D1d6Fc7Dfe8bB2575F",
+		"date": "2024-06-26",
+		"daily_amount": 1.777146
+	},
+	{
+		"user_id": "1x_user_ff1a99eb0b34999290d4ab3d",
+		"username": "Nevermind_Paragons",
+		"address": "0x3B057cd1b4190B838709D380ACaC0306D010C7a1",
+		"date": "2024-06-26",
+		"daily_amount": 0.888573
+	},
+	{
+		"user_id": "1x_user_0137c0da5c61031d6892a12e",
+		"username": "Malston_Exile",
+		"address": "0x11B4E83BC3e9605F03E2A4C34BD09567be5aeBBE",
+		"date": "2024-07-11",
+		"daily_amount": 41.583226
+	},
+	{
+		"user_id": "1x_user_03c1c7ef8655ade08be5079a",
+		"username": "synist3r",
+		"address": "0xAfbEe4d7f883E6Ab842e9623a9d595Ff6B7AAfD7",
+		"date": "2024-07-11",
+		"daily_amount": 11.077256
+	},
+	{
+		"user_id": "1x_user_0c41e0cfa263cd67ff0f8232",
+		"username": "Mookah",
+		"address": "0x1a94578c4db2C90042c62FB0311FE1423659475b",
+		"date": "2024-07-11",
+		"daily_amount": 52.760823
+	},
+	{
+		"user_id": "1x_user_0c48997413da966974d15954",
+		"username": "Zeliaser_YGG",
+		"address": "0xf61C5f77194CFA3399Ab49c86c1cF722b275077f",
+		"date": "2024-07-11",
+		"daily_amount": 116.175636
+	},
+	{
+		"user_id": "1x_user_0fb425d8dcc8b7593c48c707",
+		"username": "XAVI324",
+		"address": "0x2a1d7482a179308Da13F316b2b466A22DDE59f83",
+		"date": "2024-07-11",
+		"daily_amount": 11.799174
+	},
+	{
+		"user_id": "1x_user_10315890e81dd43477b3a59c",
+		"username": "spaceman7",
+		"address": "0x3dDB69473881a8f0c73419293519994C14603b12",
+		"date": "2024-07-11",
+		"daily_amount": 1.870065
+	},
+	{
+		"user_id": "1x_user_181b20d9323e785f965f1b4f",
+		"username": "Comfortable",
+		"address": "0xF98A854bc00eAa854894d79e11315A2114C58120",
+		"date": "2024-07-11",
+		"daily_amount": 16.888478
+	},
+	{
+		"user_id": "1x_user_2ceaacc1ddbd18acd3d172f0",
+		"username": "Pardo",
+		"address": "0x36a01C1DDB75cd9EBE5Bc803f6AE39463F61Ea9B",
+		"date": "2024-07-11",
+		"daily_amount": 8.440524
+	},
+	{
+		"user_id": "1x_user_3162953d6de7b00d837b742d",
+		"username": "Tony_PLDN",
+		"address": "0xA28eb462f9B954C63494F5C9A1348e3Cc4F91135",
+		"date": "2024-07-11",
+		"daily_amount": 106.216631
+	},
+	{
+		"user_id": "1x_user_3166fd1a2a112b451e19016c",
+		"username": "YGG_AXU_Pepito_Paragons",
+		"address": "0x839AC785D5368A762884767b1914154575E30446",
+		"date": "2024-07-11",
+		"daily_amount": 62.224476
+	},
+	{
+		"user_id": "1x_user_31a70cb056ed5002de9422c4",
+		"username": "gabrielrcha",
+		"address": "0x53AAf2B383a0Df5586dE7108BcA0E804e3f3E2EA",
+		"date": "2024-07-11",
+		"daily_amount": 9.676589
+	},
+	{
+		"user_id": "1x_user_3293dac923e368515f7a6173",
+		"username": "bounty",
+		"address": "0xC48Fe7a066b46393DaF6784b8eC4adb8ebE7489F",
+		"date": "2024-07-11",
+		"daily_amount": 53.754338
+	},
+	{
+		"user_id": "1x_user_33fdcba3f9471c6fad705f1e",
+		"username": "ferenginar",
+		"address": "0x13f16aE446ebFd96a02A98317638ae231A19ab2f",
+		"date": "2024-07-11",
+		"daily_amount": 6.316244
+	},
+	{
+		"user_id": "1x_user_37533e6d5822be30d04fb28a",
+		"username": "PROFESSIONAL_CATHERINE_PLAYER",
+		"address": "0xf85a96116312C382EB97E3BcB6267d15a5acbDdE",
+		"date": "2024-07-11",
+		"daily_amount": 19.644755
+	},
+	{
+		"user_id": "1x_user_3cf108378175caae458959d5",
+		"username": "btsb",
+		"address": "0xAf0688715a1a0f7189847C431010920677fb9967",
+		"date": "2024-07-11",
+		"daily_amount": 21.330014
+	},
+	{
+		"user_id": "1x_user_5305913466f9b44ddf936be8",
+		"username": "thefreeroll",
+		"address": "0x9A36C3A2a328f0b018bc4824b80199c6337d6650",
+		"date": "2024-07-11",
+		"daily_amount": 14.908218
+	},
+	{
+		"user_id": "1x_user_5a14c6d8d347c1bfa92f81fb",
+		"username": "TRICKYΞPGA",
+		"address": "0x4fdcD0496F4c2D3629C0741626DE74d24A683E50",
+		"date": "2024-07-11",
+		"daily_amount": 25.077382
+	},
+	{
+		"user_id": "1x_user_68547ddbfe2f45b32e68c448",
+		"username": "SySţEMEŘASEŘ",
+		"address": "0xBDc703049C7234DD581B88ee460F4E1574C2cF7b",
+		"date": "2024-07-11",
+		"daily_amount": 6.295665
+	},
+	{
+		"user_id": "1x_user_69ebcd362a53a465c017d6c6",
+		"username": "lemurbeast",
+		"address": "0x3E751Ab467E9a1bB97E32C1e09d83b08b8e9Ad6F",
+		"date": "2024-07-11",
+		"daily_amount": 9.496996
+	},
+	{
+		"user_id": "1x_user_6fd5746e382c3585e4785b2c",
+		"username": "Paragons_Milamber",
+		"address": "0xD4f8a2348A286A1F06FAe22b6042CCeAaf2C3323",
+		"date": "2024-07-11",
+		"daily_amount": 16.622067
+	},
+	{
+		"user_id": "1x_user_73076e69e5d79a8d19102219",
+		"username": "jeremy",
+		"address": "0xbD70Ae53e48B3B94E75A9895e8B7c092856709FF",
+		"date": "2024-07-11",
+		"daily_amount": 6.120744
+	},
+	{
+		"user_id": "1x_user_737f9b44bc02379abf7345d8",
+		"username": "MARS_ATTACKS",
+		"address": "0x5FE5C7E196520c6c8CEE0770BcCD0d8702CA55F0",
+		"date": "2024-07-11",
+		"daily_amount": 7.589161
+	},
+	{
+		"user_id": "1x_user_75fc01af2dde19ae76ff3bdc",
+		"username": "webmixgamer",
+		"address": "0x2D41211fc8a4a1639032Ead5C8EE6B867Ef70A49",
+		"date": "2024-07-11",
+		"daily_amount": 2.845733
+	},
+	{
+		"user_id": "1x_user_7615b5acd0fdabd4ab8314e1",
+		"username": "elerium115",
+		"address": "0xdF610269c6587C579E76b03Fba17EE51DD02B0c8",
+		"date": "2024-07-11",
+		"daily_amount": 18.529829
+	},
+	{
+		"user_id": "1x_user_768f8f0ca194ad5690477fbc",
+		"username": "sattena",
+		"address": "0xB156CDdAe61B9F758A8315EB25DEeE6FBe6225A7",
+		"date": "2024-07-11",
+		"daily_amount": 25.551001
+	},
+	{
+		"user_id": "1x_user_7ba3a8e71855e7449f0e58aa",
+		"username": "ManuAMG_MDNT",
+		"address": "0x2A89C680d9d96A51f8dD52bD20AabC4A320E7dCA",
+		"date": "2024-07-11",
+		"daily_amount": 13.894236
+	},
+	{
+		"user_id": "1x_user_8c465de5ad5b49c4df6ec23f",
+		"username": "Shogo.contagion",
+		"address": "0x91881e69cbF6c2f8d844a2CdDB941087e7fc1b6c",
+		"date": "2024-07-11",
+		"daily_amount": 13.385931
+	},
+	{
+		"user_id": "1x_user_8d687d87f564c2644d0ba71a",
+		"username": "kinglizard",
+		"address": "0xE27d9E71A92eb928D033194987be22998b336068",
+		"date": "2024-07-11",
+		"daily_amount": 10.779644
+	},
+	{
+		"user_id": "1x_user_92cc4b11c04dfd4c1c55711d",
+		"username": "SNode",
+		"address": "0x8c0d5Cf17365Df315b8d334eB5552Be9F7Ff3978",
+		"date": "2024-07-11",
+		"daily_amount": 29.897336
+	},
+	{
+		"user_id": "1x_user_9bc68930e9fb09d285386839",
+		"username": "arithmos",
+		"address": "0x719C998415E137D70587b755004Cbc4f88C6cA41",
+		"date": "2024-07-11",
+		"daily_amount": 12.242512
+	},
+	{
+		"user_id": "1x_user_9bfc0c8911b72c70e45eaf4b",
+		"username": "ROBHMORAESETH",
+		"address": "0xC240d13e57A44909991D8c398C58545d44b4068d",
+		"date": "2024-07-11",
+		"daily_amount": 21.509581
+	},
+	{
+		"user_id": "1x_user_a1cd523c10fd48c5d7ef3a87",
+		"username": "TILT_Kenzord_YGG",
+		"address": "0xA92debe0abE6af83ef762Ab80BdCD99b954a587f",
+		"date": "2024-07-11",
+		"daily_amount": 25.249987
+	},
+	{
+		"user_id": "1x_user_a469787c137c6a3ff82c6d8b",
+		"username": "IcedOutMan",
+		"address": "0x9b456aacabBB27c91af570F19eb8B26494673aa0",
+		"date": "2024-07-11",
+		"daily_amount": 18.793578
+	},
+	{
+		"user_id": "1x_user_a76a494fe3a629838daaf1e4",
+		"username": "TILT_vynchi_YGG_BreederDAO",
+		"address": "0x1Db4EeD9f24d4E54DB541413C5D3802f0c7c1a81",
+		"date": "2024-07-11",
+		"daily_amount": 56.551449
+	},
+	{
+		"user_id": "1x_user_afbc59251166e93cd052e853",
+		"username": "garrosh",
+		"address": "0x6dD2356ACeCB9875e6152EB34B34cB435250A4a0",
+		"date": "2024-07-11",
+		"daily_amount": 1.681288
+	},
+	{
+		"user_id": "1x_user_b8c7ad63c2f84e6e36a98f12",
+		"username": "exie_win_YGG",
+		"address": "0xfAC5B8f8668b7158cF6A5dE01f20f207AC011cA7",
+		"date": "2024-07-11",
+		"daily_amount": 3.15745
+	},
+	{
+		"user_id": "1x_user_bde36076074526b110c1cfee",
+		"username": "thebrasiliankid",
+		"address": "0xA810f9A8375451f8CE640809AF1Ca15227705165",
+		"date": "2024-07-11",
+		"daily_amount": 14.129144
+	},
+	{
+		"user_id": "1x_user_bfec679dc497c1fe63ef3dac",
+		"username": "Eclipse-Paragons",
+		"address": "0xa9E8529bbB2877bA2871Eae5b4DA0B886001B703",
+		"date": "2024-07-11",
+		"daily_amount": 6.784061
+	},
+	{
+		"user_id": "1x_user_c6d4492df13763e721362647",
+		"username": "Wolfy",
+		"address": "0xc6e4637aEF0D61b2071405CbAb076aBf03EAA310",
+		"date": "2024-07-11",
+		"daily_amount": 1.341436
+	},
+	{
+		"user_id": "1x_user_cb93870a5d7d87626d2ed765",
+		"username": "TalkDegenToMe",
+		"address": "0x51AA851817AdB2363b910F5835C9F72b949349D1",
+		"date": "2024-07-11",
+		"daily_amount": 1.133195
+	},
+	{
+		"user_id": "1x_user_cf1ded5c20248e202b089cf2",
+		"username": "backmorda",
+		"address": "0x8C4450D3B41A2981B2a9dE320864044C50823cbF",
+		"date": "2024-07-11",
+		"daily_amount": 32.287488
+	},
+	{
+		"user_id": "1x_user_d538384c07d3581a46479e39",
+		"username": "iracer77",
+		"address": "0xc82414b8BD237A0f79596c3CE7Dc00F63b70Ca6f",
+		"date": "2024-07-11",
+		"daily_amount": 106.088861
+	},
+	{
+		"user_id": "1x_user_d58f8e09c3981a3b375bb4f5",
+		"username": "Manos",
+		"address": "0x6D07d1785091bd1e03cF353BcD593c54D16a93C9",
+		"date": "2024-07-11",
+		"daily_amount": 89.913407
+	},
+	{
+		"user_id": "1x_user_d8ee619031991fd1be12ac6d",
+		"username": "SlyCOOPER",
+		"address": "0x6283913Ad056f5e8b52A3D02D72930C0D5DDE313",
+		"date": "2024-07-11",
+		"daily_amount": 5.702184
+	},
+	{
+		"user_id": "1x_user_df3723369fc5e6b782bdb87e",
+		"username": "kaktuzboy",
+		"address": "0xBDcaebd9570AED98ce53CC57F5a8DbF9b3c80579",
+		"date": "2024-07-11",
+		"daily_amount": 10.210959
+	},
+	{
+		"user_id": "1x_user_dfbbc116ded7394ae2fa58fa",
+		"username": "BrightAvian_EXILE_YGG",
+		"address": "0x5aA5c645F8bb12a92c3ED8232C58bD94B13c09e2",
+		"date": "2024-07-11",
+		"daily_amount": 63.399133
+	},
+	{
+		"user_id": "1x_user_e1aedf3103b128d055a65ebf",
+		"username": "Ganera_Exile",
+		"address": "0xA18690Ba687E05b9574e77D1d6Fc7Dfe8bB2575F",
+		"date": "2024-07-11",
+		"daily_amount": 69.647908
+	},
+	{
+		"user_id": "1x_user_f1ed937946ccb6eb57d7f8fd",
+		"username": "kaslow",
+		"address": "0x9266bc14BBD9fD5cA11D85B8720EA5A735B40000",
+		"date": "2024-07-11",
+		"daily_amount": 11.827868
+	},
+	{
+		"user_id": "1x_user_f2db9c3b3273ca4d9d68b15d",
+		"username": "Sequinox_YGG",
+		"address": "0x7a0A871C626f41b1b1CAeC66B926B1f788eb747F",
+		"date": "2024-07-11",
+		"daily_amount": 153.089171
+	},
+	{
+		"user_id": "1x_user_f3541d9d49b740801c6875e6",
+		"username": "beijingdouEXILE",
+		"address": "0xaf469C4a0914938e6149CF621c54FB4b1EC0c202",
+		"date": "2024-07-11",
+		"daily_amount": 20.139218
+	},
+	{
+		"user_id": "1x_user_ff1a99eb0b34999290d4ab3d",
+		"username": "Nevermind_Paragons",
+		"address": "0x3B057cd1b4190B838709D380ACaC0306D010C7a1",
+		"date": "2024-07-11",
+		"daily_amount": 2.875469
+	},
+	{
+		"user_id": "1x_user_0137c0da5c61031d6892a12e",
+		"username": "Malston_Exile",
+		"address": "0x11B4E83BC3e9605F03E2A4C34BD09567be5aeBBE",
+		"date": "2024-08-09",
+		"daily_amount": 26.098013
+	},
+	{
+		"user_id": "1x_user_03c1c7ef8655ade08be5079a",
+		"username": "synist3r",
+		"address": "0xAfbEe4d7f883E6Ab842e9623a9d595Ff6B7AAfD7",
+		"date": "2024-08-09",
+		"daily_amount": 1.843277
+	},
+	{
+		"user_id": "1x_user_095c95bccb0dcd1e7407981e",
+		"username": "Basshunt3r_paragons",
+		"address": "0x0C3039e7518B711a56F3BBE8bec4f9387829e766",
+		"date": "2024-08-09",
+		"daily_amount": 1.177319
+	},
+	{
+		"user_id": "1x_user_0c41e0cfa263cd67ff0f8232",
+		"username": "Mookah",
+		"address": "0x1a94578c4db2C90042c62FB0311FE1423659475b",
+		"date": "2024-08-09",
+		"daily_amount": 17.966796
+	},
+	{
+		"user_id": "1x_user_0c48997413da966974d15954",
+		"username": "Zeliaser_YGG",
+		"address": "0xf61C5f77194CFA3399Ab49c86c1cF722b275077f",
+		"date": "2024-08-09",
+		"daily_amount": 130.794304
+	},
+	{
+		"user_id": "1x_user_0fb425d8dcc8b7593c48c707",
+		"username": "XAVI324",
+		"address": "0x2a1d7482a179308Da13F316b2b466A22DDE59f83",
+		"date": "2024-08-09",
+		"daily_amount": 8.103321
+	},
+	{
+		"user_id": "1x_user_10315890e81dd43477b3a59c",
+		"username": "spaceman7",
+		"address": "0x3dDB69473881a8f0c73419293519994C14603b12",
+		"date": "2024-08-09",
+		"daily_amount": 2.657552
+	},
+	{
+		"user_id": "1x_user_181b20d9323e785f965f1b4f",
+		"username": "Comfortable",
+		"address": "0xF98A854bc00eAa854894d79e11315A2114C58120",
+		"date": "2024-08-09",
+		"daily_amount": 16.42888
+	},
+	{
+		"user_id": "1x_user_2ceaacc1ddbd18acd3d172f0",
+		"username": "Pardo",
+		"address": "0x36a01C1DDB75cd9EBE5Bc803f6AE39463F61Ea9B",
+		"date": "2024-08-09",
+		"daily_amount": 8.323847
+	},
+	{
+		"user_id": "1x_user_3162953d6de7b00d837b742d",
+		"username": "Tony_PLDN",
+		"address": "0xA28eb462f9B954C63494F5C9A1348e3Cc4F91135",
+		"date": "2024-08-09",
+		"daily_amount": 63.487523
+	},
+	{
+		"user_id": "1x_user_3166fd1a2a112b451e19016c",
+		"username": "YGG_AXU_Pepito_Paragons",
+		"address": "0x839AC785D5368A762884767b1914154575E30446",
+		"date": "2024-08-09",
+		"daily_amount": 70.784569
+	},
+	{
+		"user_id": "1x_user_31a70cb056ed5002de9422c4",
+		"username": "gabrielrcha",
+		"address": "0x53AAf2B383a0Df5586dE7108BcA0E804e3f3E2EA",
+		"date": "2024-08-09",
+		"daily_amount": 4.5262
+	},
+	{
+		"user_id": "1x_user_3293dac923e368515f7a6173",
+		"username": "bounty",
+		"address": "0xC48Fe7a066b46393DaF6784b8eC4adb8ebE7489F",
+		"date": "2024-08-09",
+		"daily_amount": 18.577148
+	},
+	{
+		"user_id": "1x_user_33fdcba3f9471c6fad705f1e",
+		"username": "ferenginar",
+		"address": "0x13f16aE446ebFd96a02A98317638ae231A19ab2f",
+		"date": "2024-08-09",
+		"daily_amount": 3.372591
+	},
+	{
+		"user_id": "1x_user_3cf108378175caae458959d5",
+		"username": "btsb",
+		"address": "0xAf0688715a1a0f7189847C431010920677fb9967",
+		"date": "2024-08-09",
+		"daily_amount": 22.451944
+	},
+	{
+		"user_id": "1x_user_4b55e54ba0f079bc9606cc40",
+		"username": "Rhagga",
+		"address": "0xc4a4e1665adFea108424b3A6F2Bc9897ea62b390",
+		"date": "2024-08-09",
+		"daily_amount": 1.028062
+	},
+	{
+		"user_id": "1x_user_5305913466f9b44ddf936be8",
+		"username": "thefreeroll",
+		"address": "0x9A36C3A2a328f0b018bc4824b80199c6337d6650",
+		"date": "2024-08-09",
+		"daily_amount": 4.699722
+	},
+	{
+		"user_id": "1x_user_5a14c6d8d347c1bfa92f81fb",
+		"username": "TRICKYΞPGA",
+		"address": "0x4fdcD0496F4c2D3629C0741626DE74d24A683E50",
+		"date": "2024-08-09",
+		"daily_amount": 2.826007
+	},
+	{
+		"user_id": "1x_user_68547ddbfe2f45b32e68c448",
+		"username": "SySţEMEŘASEŘ",
+		"address": "0xBDc703049C7234DD581B88ee460F4E1574C2cF7b",
+		"date": "2024-08-09",
+		"daily_amount": 11.449208
+	},
+	{
+		"user_id": "1x_user_73076e69e5d79a8d19102219",
+		"username": "jeremy",
+		"address": "0xbD70Ae53e48B3B94E75A9895e8B7c092856709FF",
+		"date": "2024-08-09",
+		"daily_amount": 22.215261
+	},
+	{
+		"user_id": "1x_user_737f9b44bc02379abf7345d8",
+		"username": "MARS_ATTACKS",
+		"address": "0x5FE5C7E196520c6c8CEE0770BcCD0d8702CA55F0",
+		"date": "2024-08-09",
+		"daily_amount": 5.906834
+	},
+	{
+		"user_id": "1x_user_748dc7cc74f3363ef70cadb3",
+		"username": "alee01",
+		"address": "0xFdF2886a441235516511aD2219a732271D79FEdF",
+		"date": "2024-08-09",
+		"daily_amount": 3.366769
+	},
+	{
+		"user_id": "1x_user_7615b5acd0fdabd4ab8314e1",
+		"username": "elerium115",
+		"address": "0xdF610269c6587C579E76b03Fba17EE51DD02B0c8",
+		"date": "2024-08-09",
+		"daily_amount": 23.820929
+	},
+	{
+		"user_id": "1x_user_768f8f0ca194ad5690477fbc",
+		"username": "sattena",
+		"address": "0xB156CDdAe61B9F758A8315EB25DEeE6FBe6225A7",
+		"date": "2024-08-09",
+		"daily_amount": 44.209199
+	},
+	{
+		"user_id": "1x_user_7ba3a8e71855e7449f0e58aa",
+		"username": "ManuAMG_MDNT",
+		"address": "0x2A89C680d9d96A51f8dD52bD20AabC4A320E7dCA",
+		"date": "2024-08-09",
+		"daily_amount": 1.290432
+	},
+	{
+		"user_id": "1x_user_85245f6f102306d3b66dd29a",
+		"username": "TILT_MUTZKI_YGG",
+		"address": "0x64972370Ce902CfA23d92f4Da8B34584583764f0",
+		"date": "2024-08-09",
+		"daily_amount": 1.158688
+	},
+	{
+		"user_id": "1x_user_8d687d87f564c2644d0ba71a",
+		"username": "kinglizard",
+		"address": "0xE27d9E71A92eb928D033194987be22998b336068",
+		"date": "2024-08-09",
+		"daily_amount": 7.511952
+	},
+	{
+		"user_id": "1x_user_92cc4b11c04dfd4c1c55711d",
+		"username": "SNode",
+		"address": "0x8c0d5Cf17365Df315b8d334eB5552Be9F7Ff3978",
+		"date": "2024-08-09",
+		"daily_amount": 23.707336
+	},
+	{
+		"user_id": "1x_user_9bc68930e9fb09d285386839",
+		"username": "arithmos",
+		"address": "0x719C998415E137D70587b755004Cbc4f88C6cA41",
+		"date": "2024-08-09",
+		"daily_amount": 10.738898
+	},
+	{
+		"user_id": "1x_user_9bfc0c8911b72c70e45eaf4b",
+		"username": "ROBHMORAESETH",
+		"address": "0xC240d13e57A44909991D8c398C58545d44b4068d",
+		"date": "2024-08-09",
+		"daily_amount": 15.205005
+	},
+	{
+		"user_id": "1x_user_a1cd523c10fd48c5d7ef3a87",
+		"username": "TILT_Kenzord_YGG",
+		"address": "0xA92debe0abE6af83ef762Ab80BdCD99b954a587f",
+		"date": "2024-08-09",
+		"daily_amount": 11.486667
+	},
+	{
+		"user_id": "1x_user_a469787c137c6a3ff82c6d8b",
+		"username": "IcedOutMan",
+		"address": "0x9b456aacabBB27c91af570F19eb8B26494673aa0",
+		"date": "2024-08-09",
+		"daily_amount": 13.966376
+	},
+	{
+		"user_id": "1x_user_a76a494fe3a629838daaf1e4",
+		"username": "TILT_vynchi_YGG_BreederDAO",
+		"address": "0x1Db4EeD9f24d4E54DB541413C5D3802f0c7c1a81",
+		"date": "2024-08-09",
+		"daily_amount": 38.417458
+	},
+	{
+		"user_id": "1x_user_b137c540a5de5788455b612a",
+		"username": "BradThe3rd@nerf.shroud",
+		"address": "0xfC9dD877930e9799BeB663523BD31EefE3C99597",
+		"date": "2024-08-09",
+		"daily_amount": 6.457655
+	},
+	{
+		"user_id": "1x_user_b8c7ad63c2f84e6e36a98f12",
+		"username": "exie_win_YGG",
+		"address": "0xfAC5B8f8668b7158cF6A5dE01f20f207AC011cA7",
+		"date": "2024-08-09",
+		"daily_amount": 6.920674
+	},
+	{
+		"user_id": "1x_user_bde36076074526b110c1cfee",
+		"username": "thebrasiliankid",
+		"address": "0xA810f9A8375451f8CE640809AF1Ca15227705165",
+		"date": "2024-08-09",
+		"daily_amount": 29.746692
+	},
+	{
+		"user_id": "1x_user_c6d4492df13763e721362647",
+		"username": "Wolfy",
+		"address": "0xc6e4637aEF0D61b2071405CbAb076aBf03EAA310",
+		"date": "2024-08-09",
+		"daily_amount": 3.979783
+	},
+	{
+		"user_id": "1x_user_cf1ded5c20248e202b089cf2",
+		"username": "backmorda",
+		"address": "0x8C4450D3B41A2981B2a9dE320864044C50823cbF",
+		"date": "2024-08-09",
+		"daily_amount": 14.931122
+	},
+	{
+		"user_id": "1x_user_d538384c07d3581a46479e39",
+		"username": "iracer77",
+		"address": "0xc82414b8BD237A0f79596c3CE7Dc00F63b70Ca6f",
+		"date": "2024-08-09",
+		"daily_amount": 75.292929
+	},
+	{
+		"user_id": "1x_user_d58f8e09c3981a3b375bb4f5",
+		"username": "Manos",
+		"address": "0x6D07d1785091bd1e03cF353BcD593c54D16a93C9",
+		"date": "2024-08-09",
+		"daily_amount": 115.119085
+	},
+	{
+		"user_id": "1x_user_d8ee619031991fd1be12ac6d",
+		"username": "SlyCOOPER",
+		"address": "0x6283913Ad056f5e8b52A3D02D72930C0D5DDE313",
+		"date": "2024-08-09",
+		"daily_amount": 2.243699
+	},
+	{
+		"user_id": "1x_user_df3723369fc5e6b782bdb87e",
+		"username": "kaktuzboy",
+		"address": "0xBDcaebd9570AED98ce53CC57F5a8DbF9b3c80579",
+		"date": "2024-08-09",
+		"daily_amount": 10.01006
+	},
+	{
+		"user_id": "1x_user_dfbbc116ded7394ae2fa58fa",
+		"username": "BrightAvian_EXILE_YGG",
+		"address": "0x5aA5c645F8bb12a92c3ED8232C58bD94B13c09e2",
+		"date": "2024-08-09",
+		"daily_amount": 93.484031
+	},
+	{
+		"user_id": "1x_user_e1aedf3103b128d055a65ebf",
+		"username": "Ganera_Exile",
+		"address": "0xA18690Ba687E05b9574e77D1d6Fc7Dfe8bB2575F",
+		"date": "2024-08-09",
+		"daily_amount": 54.00165
+	},
+	{
+		"user_id": "1x_user_e393961114093d6658cda428",
+		"username": "kartoha.Paragons.DevGG",
+		"address": "0x97f25d7dfdA8c1bC7dc578C6Dc853F73AED5b37C",
+		"date": "2024-08-09",
+		"daily_amount": 2.917731
+	},
+	{
+		"user_id": "1x_user_f1ed937946ccb6eb57d7f8fd",
+		"username": "kaslow",
+		"address": "0x9266bc14BBD9fD5cA11D85B8720EA5A735B40000",
+		"date": "2024-08-09",
+		"daily_amount": 3.464616
+	},
+	{
+		"user_id": "1x_user_f2db9c3b3273ca4d9d68b15d",
+		"username": "Sequinox_YGG",
+		"address": "0x7a0A871C626f41b1b1CAeC66B926B1f788eb747F",
+		"date": "2024-08-09",
+		"daily_amount": 90.36007
+	},
+	{
+		"user_id": "1x_user_f3541d9d49b740801c6875e6",
+		"username": "beijingdouEXILE",
+		"address": "0xaf469C4a0914938e6149CF621c54FB4b1EC0c202",
+		"date": "2024-08-09",
+		"daily_amount": 6.619607
+	},
+	{
+		"user_id": "1x_user_ff1a99eb0b34999290d4ab3d",
+		"username": "Nevermind_Paragons",
+		"address": "0x3B057cd1b4190B838709D380ACaC0306D010C7a1",
+		"date": "2024-08-09",
+		"daily_amount": 5.571567
+	},
+	{
+		"user_id": "1x_user_0137c0da5c61031d6892a12e",
+		"username": "Malston_Exile",
+		"address": "0x11B4E83BC3e9605F03E2A4C34BD09567be5aeBBE",
+		"date": "2024-09-14",
+		"daily_amount": 33.198868
+	},
+	{
+		"user_id": "1x_user_0c48997413da966974d15954",
+		"username": "Zeliaser_YGG",
+		"address": "0xf61C5f77194CFA3399Ab49c86c1cF722b275077f",
+		"date": "2024-09-14",
+		"daily_amount": 138.593849
+	},
+	{
+		"user_id": "1x_user_0fb425d8dcc8b7593c48c707",
+		"username": "XAVI324",
+		"address": "0x2a1d7482a179308Da13F316b2b466A22DDE59f83",
+		"date": "2024-09-14",
+		"daily_amount": 13.140071
+	},
+	{
+		"user_id": "1x_user_10315890e81dd43477b3a59c",
+		"username": "spaceman7",
+		"address": "0x3dDB69473881a8f0c73419293519994C14603b12",
+		"date": "2024-09-14",
+		"daily_amount": 3.82958
+	},
+	{
+		"user_id": "1x_user_181b20d9323e785f965f1b4f",
+		"username": "Comfortable",
+		"address": "0xF98A854bc00eAa854894d79e11315A2114C58120",
+		"date": "2024-09-14",
+		"daily_amount": 8.737192
+	},
+	{
+		"user_id": "1x_user_2ceaacc1ddbd18acd3d172f0",
+		"username": "Pardo",
+		"address": "0x36a01C1DDB75cd9EBE5Bc803f6AE39463F61Ea9B",
+		"date": "2024-09-14",
+		"daily_amount": 7.246139
+	},
+	{
+		"user_id": "1x_user_3162953d6de7b00d837b742d",
+		"username": "Tony_PLDN",
+		"address": "0xA28eb462f9B954C63494F5C9A1348e3Cc4F91135",
+		"date": "2024-09-14",
+		"daily_amount": 98.142385
+	},
+	{
+		"user_id": "1x_user_3166fd1a2a112b451e19016c",
+		"username": "YGG_AXU_Pepito_Paragons",
+		"address": "0x839AC785D5368A762884767b1914154575E30446",
+		"date": "2024-09-14",
+		"daily_amount": 61.060268
+	},
+	{
+		"user_id": "1x_user_31a70cb056ed5002de9422c4",
+		"username": "gabrielrcha",
+		"address": "0x53AAf2B383a0Df5586dE7108BcA0E804e3f3E2EA",
+		"date": "2024-09-14",
+		"daily_amount": 5.968003
+	},
+	{
+		"user_id": "1x_user_3293dac923e368515f7a6173",
+		"username": "bounty",
+		"address": "0xC48Fe7a066b46393DaF6784b8eC4adb8ebE7489F",
+		"date": "2024-09-14",
+		"daily_amount": 28.797992
+	},
+	{
+		"user_id": "1x_user_33fdcba3f9471c6fad705f1e",
+		"username": "ferenginar",
+		"address": "0x13f16aE446ebFd96a02A98317638ae231A19ab2f",
+		"date": "2024-09-14",
+		"daily_amount": 10.576614
+	},
+	{
+		"user_id": "1x_user_35cbdddbe16d46d788ad520f",
+		"username": "Turd_Ferguson_PGA",
+		"address": "0xa020CBDB204E6F0A6061f7E122Ac9ae4484C3B5b",
+		"date": "2024-09-14",
+		"daily_amount": 1.952989
+	},
+	{
+		"user_id": "1x_user_37533e6d5822be30d04fb28a",
+		"username": "PROFESSIONAL_CATHERINE_PLAYER",
+		"address": "0xf85a96116312C382EB97E3BcB6267d15a5acbDdE",
+		"date": "2024-09-14",
+		"daily_amount": 1.959163
+	},
+	{
+		"user_id": "1x_user_3cf108378175caae458959d5",
+		"username": "btsb",
+		"address": "0xAf0688715a1a0f7189847C431010920677fb9967",
+		"date": "2024-09-14",
+		"daily_amount": 24.568356
+	},
+	{
+		"user_id": "1x_user_4b55e54ba0f079bc9606cc40",
+		"username": "Rhagga",
+		"address": "0xc4a4e1665adFea108424b3A6F2Bc9897ea62b390",
+		"date": "2024-09-14",
+		"daily_amount": 3.827017
+	},
+	{
+		"user_id": "1x_user_5305913466f9b44ddf936be8",
+		"username": "thefreeroll",
+		"address": "0x9A36C3A2a328f0b018bc4824b80199c6337d6650",
+		"date": "2024-09-14",
+		"daily_amount": 5.303835
+	},
+	{
+		"user_id": "1x_user_5a14c6d8d347c1bfa92f81fb",
+		"username": "TRICKYΞPGA",
+		"address": "0x4fdcD0496F4c2D3629C0741626DE74d24A683E50",
+		"date": "2024-09-14",
+		"daily_amount": 22.795654
+	},
+	{
+		"user_id": "1x_user_68547ddbfe2f45b32e68c448",
+		"username": "SySţEMEŘASEŘ",
+		"address": "0xBDc703049C7234DD581B88ee460F4E1574C2cF7b",
+		"date": "2024-09-14",
+		"daily_amount": 7.070446
+	},
+	{
+		"user_id": "1x_user_73076e69e5d79a8d19102219",
+		"username": "jeremy",
+		"address": "0xbD70Ae53e48B3B94E75A9895e8B7c092856709FF",
+		"date": "2024-09-14",
+		"daily_amount": 30.993526
+	},
+	{
+		"user_id": "1x_user_737f9b44bc02379abf7345d8",
+		"username": "MARS_ATTACKS",
+		"address": "0x5FE5C7E196520c6c8CEE0770BcCD0d8702CA55F0",
+		"date": "2024-09-14",
+		"daily_amount": 14.407095
+	},
+	{
+		"user_id": "1x_user_748dc7cc74f3363ef70cadb3",
+		"username": "alee01",
+		"address": "0xFdF2886a441235516511aD2219a732271D79FEdF",
+		"date": "2024-09-14",
+		"daily_amount": 17.534663
+	},
+	{
+		"user_id": "1x_user_7615b5acd0fdabd4ab8314e1",
+		"username": "elerium115",
+		"address": "0xdF610269c6587C579E76b03Fba17EE51DD02B0c8",
+		"date": "2024-09-14",
+		"daily_amount": 22.213547
+	},
+	{
+		"user_id": "1x_user_768f8f0ca194ad5690477fbc",
+		"username": "sattena",
+		"address": "0xB156CDdAe61B9F758A8315EB25DEeE6FBe6225A7",
+		"date": "2024-09-14",
+		"daily_amount": 25.510362
+	},
+	{
+		"user_id": "1x_user_7ba3a8e71855e7449f0e58aa",
+		"username": "ManuAMG_MDNT",
+		"address": "0x2A89C680d9d96A51f8dD52bD20AabC4A320E7dCA",
+		"date": "2024-09-14",
+		"daily_amount": 39.968435
+	},
+	{
+		"user_id": "1x_user_85245f6f102306d3b66dd29a",
+		"username": "TILT_MUTZKI_YGG",
+		"address": "0x64972370Ce902CfA23d92f4Da8B34584583764f0",
+		"date": "2024-09-14",
+		"daily_amount": 15.348998
+	},
+	{
+		"user_id": "1x_user_85fb0e9e2c998fbdd0e787a7",
+		"username": "hamster2129",
+		"address": "0x15a5450088f23Ee06907a745729809beE80562a4",
+		"date": "2024-09-14",
+		"daily_amount": 3.341239
+	},
+	{
+		"user_id": "1x_user_8c465de5ad5b49c4df6ec23f",
+		"username": "Shogo.contagion",
+		"address": "0x91881e69cbF6c2f8d844a2CdDB941087e7fc1b6c",
+		"date": "2024-09-14",
+		"daily_amount": 55.767026
+	},
+	{
+		"user_id": "1x_user_8d687d87f564c2644d0ba71a",
+		"username": "kinglizard",
+		"address": "0xE27d9E71A92eb928D033194987be22998b336068",
+		"date": "2024-09-14",
+		"daily_amount": 5.768713
+	},
+	{
+		"user_id": "1x_user_902cc2c519873780c871b363",
+		"username": "NUMAROS",
+		"address": "0xb75a7FEB8F1163664F1bd1a089b1dE1e3373477C",
+		"date": "2024-09-14",
+		"daily_amount": 1.827334
+	},
+	{
+		"user_id": "1x_user_92cc4b11c04dfd4c1c55711d",
+		"username": "SNode",
+		"address": "0x8c0d5Cf17365Df315b8d334eB5552Be9F7Ff3978",
+		"date": "2024-09-14",
+		"daily_amount": 11.484975
+	},
+	{
+		"user_id": "1x_user_9953ae483a202f1f6f38dd35",
+		"username": "JIZO_PGA",
+		"address": "0x258EA80aEA2F5e32b5da106825d2B87e55D46Bf6",
+		"date": "2024-09-14",
+		"daily_amount": 1.032666
+	},
+	{
+		"user_id": "1x_user_9bc68930e9fb09d285386839",
+		"username": "arithmos",
+		"address": "0x719C998415E137D70587b755004Cbc4f88C6cA41",
+		"date": "2024-09-14",
+		"daily_amount": 20.71237
+	},
+	{
+		"user_id": "1x_user_9bfc0c8911b72c70e45eaf4b",
+		"username": "ROBHMORAESETH",
+		"address": "0xC240d13e57A44909991D8c398C58545d44b4068d",
+		"date": "2024-09-14",
+		"daily_amount": 34.345047
+	},
+	{
+		"user_id": "1x_user_a1cd523c10fd48c5d7ef3a87",
+		"username": "TILT_Kenzord_YGG",
+		"address": "0xA92debe0abE6af83ef762Ab80BdCD99b954a587f",
+		"date": "2024-09-14",
+		"daily_amount": 31.645211
+	},
+	{
+		"user_id": "1x_user_a469787c137c6a3ff82c6d8b",
+		"username": "IcedOutMan",
+		"address": "0x9b456aacabBB27c91af570F19eb8B26494673aa0",
+		"date": "2024-09-14",
+		"daily_amount": 11.358638
+	},
+	{
+		"user_id": "1x_user_a76a494fe3a629838daaf1e4",
+		"username": "TILT_vynchi_YGG_BreederDAO",
+		"address": "0x1Db4EeD9f24d4E54DB541413C5D3802f0c7c1a81",
+		"date": "2024-09-14",
+		"daily_amount": 63.03925
+	},
+	{
+		"user_id": "1x_user_b137c540a5de5788455b612a",
+		"username": "BradThe3rd@nerf.shroud",
+		"address": "0xfC9dD877930e9799BeB663523BD31EefE3C99597",
+		"date": "2024-09-14",
+		"daily_amount": 9.788601
+	},
+	{
+		"user_id": "1x_user_b8c7ad63c2f84e6e36a98f12",
+		"username": "exie_win_YGG",
+		"address": "0xfAC5B8f8668b7158cF6A5dE01f20f207AC011cA7",
+		"date": "2024-09-14",
+		"daily_amount": 59.572987
+	},
+	{
+		"user_id": "1x_user_bde36076074526b110c1cfee",
+		"username": "thebrasiliankid",
+		"address": "0xA810f9A8375451f8CE640809AF1Ca15227705165",
+		"date": "2024-09-14",
+		"daily_amount": 27.55358
+	},
+	{
+		"user_id": "1x_user_c6d4492df13763e721362647",
+		"username": "Wolfy",
+		"address": "0xc6e4637aEF0D61b2071405CbAb076aBf03EAA310",
+		"date": "2024-09-14",
+		"daily_amount": 11.701363
+	},
+	{
+		"user_id": "1x_user_cf1ded5c20248e202b089cf2",
+		"username": "backmorda",
+		"address": "0x8C4450D3B41A2981B2a9dE320864044C50823cbF",
+		"date": "2024-09-14",
+		"daily_amount": 17.467821
+	},
+	{
+		"user_id": "1x_user_d538384c07d3581a46479e39",
+		"username": "iracer77",
+		"address": "0xc82414b8BD237A0f79596c3CE7Dc00F63b70Ca6f",
+		"date": "2024-09-14",
+		"daily_amount": 69.605735
+	},
+	{
+		"user_id": "1x_user_d58f8e09c3981a3b375bb4f5",
+		"username": "Manos",
+		"address": "0x6D07d1785091bd1e03cF353BcD593c54D16a93C9",
+		"date": "2024-09-14",
+		"daily_amount": 172.197124
+	},
+	{
+		"user_id": "1x_user_ded14b8f189c2b7ca41b1d6d",
+		"username": "dieselnoi",
+		"address": "0xcBD03398e72B17cCd09ffcD7cc6C6071b50aF059",
+		"date": "2024-09-14",
+		"daily_amount": 7.08453
+	},
+	{
+		"user_id": "1x_user_df3723369fc5e6b782bdb87e",
+		"username": "kaktuzboy",
+		"address": "0xBDcaebd9570AED98ce53CC57F5a8DbF9b3c80579",
+		"date": "2024-09-14",
+		"daily_amount": 15.500922
+	},
+	{
+		"user_id": "1x_user_dfbbc116ded7394ae2fa58fa",
+		"username": "BrightAvian_EXILE_YGG",
+		"address": "0x5aA5c645F8bb12a92c3ED8232C58bD94B13c09e2",
+		"date": "2024-09-14",
+		"daily_amount": 122.967223
+	},
+	{
+		"user_id": "1x_user_e1aedf3103b128d055a65ebf",
+		"username": "Ganera_Exile",
+		"address": "0xA18690Ba687E05b9574e77D1d6Fc7Dfe8bB2575F",
+		"date": "2024-09-14",
+		"daily_amount": 85.177887
+	},
+	{
+		"user_id": "1x_user_e393961114093d6658cda428",
+		"username": "kartoha.Paragons.DevGG",
+		"address": "0x97f25d7dfdA8c1bC7dc578C6Dc853F73AED5b37C",
+		"date": "2024-09-14",
+		"daily_amount": 3.279834
+	},
+	{
+		"user_id": "1x_user_f1ed937946ccb6eb57d7f8fd",
+		"username": "kaslow",
+		"address": "0x9266bc14BBD9fD5cA11D85B8720EA5A735B40000",
+		"date": "2024-09-14",
+		"daily_amount": 10.925601
+	},
+	{
+		"user_id": "1x_user_f2db9c3b3273ca4d9d68b15d",
+		"username": "Sequinox_YGG",
+		"address": "0x7a0A871C626f41b1b1CAeC66B926B1f788eb747F",
+		"date": "2024-09-14",
+		"daily_amount": 64.392121
+	},
+	{
+		"user_id": "1x_user_f3541d9d49b740801c6875e6",
+		"username": "beijingdouEXILE",
+		"address": "0xaf469C4a0914938e6149CF621c54FB4b1EC0c202",
+		"date": "2024-09-14",
+		"daily_amount": 6.330814
+	},
+	{
+		"user_id": "1x_user_ff1a99eb0b34999290d4ab3d",
+		"username": "Nevermind_Paragons",
+		"address": "0x3B057cd1b4190B838709D380ACaC0306D010C7a1",
+		"date": "2024-09-14",
+		"daily_amount": 3.487963
+	},
+	{
+		"user_id": "1x_user_03c1c7ef8655ade08be5079a",
+		"username": "synist3r",
+		"address": "0xAfbEe4d7f883E6Ab842e9623a9d595Ff6B7AAfD7",
+		"date": "2024-09-26",
+		"daily_amount": 1.556751
+	},
+	{
+		"user_id": "1x_user_0c48997413da966974d15954",
+		"username": "Zeliaser_YGG",
+		"address": "0xf61C5f77194CFA3399Ab49c86c1cF722b275077f",
+		"date": "2024-09-26",
+		"daily_amount": 1.415228
+	},
+	{
+		"user_id": "1x_user_2bafbbf6fbc9d330ee6ca4b9",
+		"username": "TILT_bin.",
+		"address": "0x3a8890442b3407f53f331BddB95FE0cA2E4A4327",
+		"date": "2024-09-26",
+		"daily_amount": 0.919898
+	},
+	{
+		"user_id": "1x_user_3166fd1a2a112b451e19016c",
+		"username": "YGG_AXU_Pepito_Paragons",
+		"address": "0x839AC785D5368A762884767b1914154575E30446",
+		"date": "2024-09-26",
+		"daily_amount": 4.599491
+	},
+	{
+		"user_id": "1x_user_5305913466f9b44ddf936be8",
+		"username": "thefreeroll",
+		"address": "0x9A36C3A2a328f0b018bc4824b80199c6337d6650",
+		"date": "2024-09-26",
+		"daily_amount": 1.344466
+	},
+	{
+		"user_id": "1x_user_697fbe05f0e019c4b074766f",
+		"username": "Sinpar22_PGA",
+		"address": "0x8b5a9e28730ACBA1cBc7886547d674A6cd03340e",
+		"date": "2024-09-26",
+		"daily_amount": 1.698273
+	},
+	{
+		"user_id": "1x_user_73076e69e5d79a8d19102219",
+		"username": "jeremy",
+		"address": "0xbD70Ae53e48B3B94E75A9895e8B7c092856709FF",
+		"date": "2024-09-26",
+		"daily_amount": 1.344466
+	},
+	{
+		"user_id": "1x_user_92cc4b11c04dfd4c1c55711d",
+		"username": "SNode",
+		"address": "0x8c0d5Cf17365Df315b8d334eB5552Be9F7Ff3978",
+		"date": "2024-09-26",
+		"daily_amount": 2.830456
+	},
+	{
+		"user_id": "1x_user_94ba0133cc399fbd551a7a0f",
+		"username": "flapjackson",
+		"address": "0x9b0C74924A7f6B4A54e7a02f7D56BBe9605bb629",
+		"date": "2024-09-26",
+		"daily_amount": 2.830456
+	},
+	{
+		"user_id": "1x_user_d58f8e09c3981a3b375bb4f5",
+		"username": "Manos",
+		"address": "0x6D07d1785091bd1e03cF353BcD593c54D16a93C9",
+		"date": "2024-09-26",
+		"daily_amount": 3.679592
+	},
+	{
+		"user_id": "1x_user_e1aedf3103b128d055a65ebf",
+		"username": "Ganera_Exile",
+		"address": "0xA18690Ba687E05b9574e77D1d6Fc7Dfe8bB2575F",
+		"date": "2024-09-26",
+		"daily_amount": 3.53807
+	},
+	{
+		"user_id": "1x_user_f2db9c3b3273ca4d9d68b15d",
+		"username": "Sequinox_YGG",
+		"address": "0x7a0A871C626f41b1b1CAeC66B926B1f788eb747F",
+		"date": "2024-09-26",
+		"daily_amount": 1.132182
+	},
+	{
+		"user_id": "1x_user_0137c0da5c61031d6892a12e",
+		"username": "Malston_Exile",
+		"address": "0x11B4E83BC3e9605F03E2A4C34BD09567be5aeBBE",
+		"date": "2024-10-15",
+		"daily_amount": 18.244066
+	},
+	{
+		"user_id": "1x_user_03c1c7ef8655ade08be5079a",
+		"username": "synist3r",
+		"address": "0xAfbEe4d7f883E6Ab842e9623a9d595Ff6B7AAfD7",
+		"date": "2024-10-15",
+		"daily_amount": 1.720651
+	},
+	{
+		"user_id": "1x_user_095c95bccb0dcd1e7407981e",
+		"username": "Basshunt3r_paragons",
+		"address": "0x0C3039e7518B711a56F3BBE8bec4f9387829e766",
+		"date": "2024-10-15",
+		"daily_amount": 6.617605
+	},
+	{
+		"user_id": "1x_user_0a2614c9ff793b5a7b77fce5",
+		"username": "HyllusDiardi001_Exile",
+		"address": "0xef3f446dd3d130aec11d273f01539b6504f81D20",
+		"date": "2024-10-15",
+		"daily_amount": 32.82481
+	},
+	{
+		"user_id": "1x_user_0c41e0cfa263cd67ff0f8232",
+		"username": "Mookah",
+		"address": "0x1a94578c4db2C90042c62FB0311FE1423659475b",
+		"date": "2024-10-15",
+		"daily_amount": 1.226986
+	},
+	{
+		"user_id": "1x_user_0c48997413da966974d15954",
+		"username": "Zeliaser_YGG",
+		"address": "0xf61C5f77194CFA3399Ab49c86c1cF722b275077f",
+		"date": "2024-10-15",
+		"daily_amount": 77.144725
+	},
+	{
+		"user_id": "1x_user_0fb425d8dcc8b7593c48c707",
+		"username": "XAVI324",
+		"address": "0x2a1d7482a179308Da13F316b2b466A22DDE59f83",
+		"date": "2024-10-15",
+		"daily_amount": 11.358122
+	},
+	{
+		"user_id": "1x_user_181b20d9323e785f965f1b4f",
+		"username": "Comfortable",
+		"address": "0xF98A854bc00eAa854894d79e11315A2114C58120",
+		"date": "2024-10-15",
+		"daily_amount": 24.079123
+	},
+	{
+		"user_id": "1x_user_2bafbbf6fbc9d330ee6ca4b9",
+		"username": "TILT_bin.",
+		"address": "0x3a8890442b3407f53f331BddB95FE0cA2E4A4327",
+		"date": "2024-10-15",
+		"daily_amount": 1.178122
+	},
+	{
+		"user_id": "1x_user_3162953d6de7b00d837b742d",
+		"username": "Tony_PLDN",
+		"address": "0xA28eb462f9B954C63494F5C9A1348e3Cc4F91135",
+		"date": "2024-10-15",
+		"daily_amount": 64.98053
+	},
+	{
+		"user_id": "1x_user_3166fd1a2a112b451e19016c",
+		"username": "YGG_AXU_Pepito_Paragons",
+		"address": "0x839AC785D5368A762884767b1914154575E30446",
+		"date": "2024-10-15",
+		"daily_amount": 21.080414
+	},
+	{
+		"user_id": "1x_user_31a70cb056ed5002de9422c4",
+		"username": "gabrielrcha",
+		"address": "0x53AAf2B383a0Df5586dE7108BcA0E804e3f3E2EA",
+		"date": "2024-10-15",
+		"daily_amount": 2.192971
+	},
+	{
+		"user_id": "1x_user_3293dac923e368515f7a6173",
+		"username": "bounty",
+		"address": "0xC48Fe7a066b46393DaF6784b8eC4adb8ebE7489F",
+		"date": "2024-10-15",
+		"daily_amount": 23.071106
+	},
+	{
+		"user_id": "1x_user_33fdcba3f9471c6fad705f1e",
+		"username": "ferenginar",
+		"address": "0x13f16aE446ebFd96a02A98317638ae231A19ab2f",
+		"date": "2024-10-15",
+		"daily_amount": 2.844874
+	},
+	{
+		"user_id": "1x_user_35cbdddbe16d46d788ad520f",
+		"username": "Turd_Ferguson_PGA",
+		"address": "0xa020CBDB204E6F0A6061f7E122Ac9ae4484C3B5b",
+		"date": "2024-10-15",
+		"daily_amount": 2.306642
+	},
+	{
+		"user_id": "1x_user_37533e6d5822be30d04fb28a",
+		"username": "PROFESSIONAL_CATHERINE_PLAYER",
+		"address": "0xf85a96116312C382EB97E3BcB6267d15a5acbDdE",
+		"date": "2024-10-15",
+		"daily_amount": 8.435685
+	},
+	{
+		"user_id": "1x_user_3a79b38bf44e30524ce80d6e",
+		"username": "TILT_ReizuuTheRat_YGG",
+		"address": "0x85D1837F8C16E5b2FC1470Dc12B89f8d1A7a0082",
+		"date": "2024-10-15",
+		"daily_amount": 9.325593
+	},
+	{
+		"user_id": "1x_user_3cf108378175caae458959d5",
+		"username": "btsb",
+		"address": "0xAf0688715a1a0f7189847C431010920677fb9967",
+		"date": "2024-10-15",
+		"daily_amount": 12.585147
+	},
+	{
+		"user_id": "1x_user_3ec9e918229ea14eff6bdff4",
+		"username": "rosell24",
+		"address": "0x1932677592E099A57eA4C56E31AD10A8f04678aC",
+		"date": "2024-10-15",
+		"daily_amount": 4.317323
+	},
+	{
+		"user_id": "1x_user_5305913466f9b44ddf936be8",
+		"username": "thefreeroll",
+		"address": "0x9A36C3A2a328f0b018bc4824b80199c6337d6650",
+		"date": "2024-10-15",
+		"daily_amount": 2.241616
+	},
+	{
+		"user_id": "1x_user_5a14c6d8d347c1bfa92f81fb",
+		"username": "TRICKYΞPGA",
+		"address": "0x4fdcD0496F4c2D3629C0741626DE74d24A683E50",
+		"date": "2024-10-15",
+		"daily_amount": 10.427786
+	},
+	{
+		"user_id": "1x_user_68547ddbfe2f45b32e68c448",
+		"username": "SySţEMEŘASEŘ",
+		"address": "0xBDc703049C7234DD581B88ee460F4E1574C2cF7b",
+		"date": "2024-10-15",
+		"daily_amount": 7.263414
+	},
+	{
+		"user_id": "1x_user_6fd5746e382c3585e4785b2c",
+		"username": "Paragons_Milamber",
+		"address": "0xD4f8a2348A286A1F06FAe22b6042CCeAaf2C3323",
+		"date": "2024-10-15",
+		"daily_amount": 21.848552
+	},
+	{
+		"user_id": "1x_user_73076e69e5d79a8d19102219",
+		"username": "jeremy",
+		"address": "0xbD70Ae53e48B3B94E75A9895e8B7c092856709FF",
+		"date": "2024-10-15",
+		"daily_amount": 20.884993
+	},
+	{
+		"user_id": "1x_user_737f9b44bc02379abf7345d8",
+		"username": "MARS_ATTACKS",
+		"address": "0x5FE5C7E196520c6c8CEE0770BcCD0d8702CA55F0",
+		"date": "2024-10-15",
+		"daily_amount": 16.567806
+	},
+	{
+		"user_id": "1x_user_748dc7cc74f3363ef70cadb3",
+		"username": "alee01",
+		"address": "0xFdF2886a441235516511aD2219a732271D79FEdF",
+		"date": "2024-10-15",
+		"daily_amount": 11.689076
+	},
+	{
+		"user_id": "1x_user_75fc01af2dde19ae76ff3bdc",
+		"username": "webmixgamer",
+		"address": "0x2D41211fc8a4a1639032Ead5C8EE6B867Ef70A49",
+		"date": "2024-10-15",
+		"daily_amount": 1.697146
+	},
+	{
+		"user_id": "1x_user_7615b5acd0fdabd4ab8314e1",
+		"username": "elerium115",
+		"address": "0xdF610269c6587C579E76b03Fba17EE51DD02B0c8",
+		"date": "2024-10-15",
+		"daily_amount": 7.229786
+	},
+	{
+		"user_id": "1x_user_768f8f0ca194ad5690477fbc",
+		"username": "sattena",
+		"address": "0xB156CDdAe61B9F758A8315EB25DEeE6FBe6225A7",
+		"date": "2024-10-15",
+		"daily_amount": 3.906262
+	},
+	{
+		"user_id": "1x_user_7ba3a8e71855e7449f0e58aa",
+		"username": "ManuAMG_MDNT",
+		"address": "0x2A89C680d9d96A51f8dD52bD20AabC4A320E7dCA",
+		"date": "2024-10-15",
+		"daily_amount": 22.496936
+	},
+	{
+		"user_id": "1x_user_85245f6f102306d3b66dd29a",
+		"username": "TILT_MUTZKI_YGG",
+		"address": "0x64972370Ce902CfA23d92f4Da8B34584583764f0",
+		"date": "2024-10-15",
+		"daily_amount": 21.16373
+	},
+	{
+		"user_id": "1x_user_85fb0e9e2c998fbdd0e787a7",
+		"username": "hamster2129",
+		"address": "0x15a5450088f23Ee06907a745729809beE80562a4",
+		"date": "2024-10-15",
+		"daily_amount": 1.329343
+	},
+	{
+		"user_id": "1x_user_8c465de5ad5b49c4df6ec23f",
+		"username": "Shogo.contagion",
+		"address": "0x91881e69cbF6c2f8d844a2CdDB941087e7fc1b6c",
+		"date": "2024-10-15",
+		"daily_amount": 28.249211
+	},
+	{
+		"user_id": "1x_user_8d687d87f564c2644d0ba71a",
+		"username": "kinglizard",
+		"address": "0xE27d9E71A92eb928D033194987be22998b336068",
+		"date": "2024-10-15",
+		"daily_amount": 3.078103
+	},
+	{
+		"user_id": "1x_user_902cc2c519873780c871b363",
+		"username": "NUMAROS",
+		"address": "0xb75a7FEB8F1163664F1bd1a089b1dE1e3373477C",
+		"date": "2024-10-15",
+		"daily_amount": 6.58527
+	},
+	{
+		"user_id": "1x_user_90808c9b2dbbf5e5cf0b3059",
+		"username": "Krimkie",
+		"address": "0x171f76E56C2Bc4AbA012FBD12cb1343a49D2dE94",
+		"date": "2024-10-15",
+		"daily_amount": 4.942859
+	},
+	{
+		"user_id": "1x_user_92cc4b11c04dfd4c1c55711d",
+		"username": "SNode",
+		"address": "0x8c0d5Cf17365Df315b8d334eB5552Be9F7Ff3978",
+		"date": "2024-10-15",
+		"daily_amount": 8.115502
+	},
+	{
+		"user_id": "1x_user_94ba0133cc399fbd551a7a0f",
+		"username": "flapjackson",
+		"address": "0x9b0C74924A7f6B4A54e7a02f7D56BBe9605bb629",
+		"date": "2024-10-15",
+		"daily_amount": 1.050368
+	},
+	{
+		"user_id": "1x_user_9953ae483a202f1f6f38dd35",
+		"username": "JIZO_PGA",
+		"address": "0x258EA80aEA2F5e32b5da106825d2B87e55D46Bf6",
+		"date": "2024-10-15",
+		"daily_amount": 13.464566
+	},
+	{
+		"user_id": "1x_user_9bc68930e9fb09d285386839",
+		"username": "arithmos",
+		"address": "0x719C998415E137D70587b755004Cbc4f88C6cA41",
+		"date": "2024-10-15",
+		"daily_amount": 17.544972
+	},
+	{
+		"user_id": "1x_user_9bfc0c8911b72c70e45eaf4b",
+		"username": "ROBHMORAESETH",
+		"address": "0xC240d13e57A44909991D8c398C58545d44b4068d",
+		"date": "2024-10-15",
+		"daily_amount": 31.553361
+	},
+	{
+		"user_id": "1x_user_a1cd523c10fd48c5d7ef3a87",
+		"username": "TILT_Kenzord_YGG",
+		"address": "0xA92debe0abE6af83ef762Ab80BdCD99b954a587f",
+		"date": "2024-10-15",
+		"daily_amount": 25.89097
+	},
+	{
+		"user_id": "1x_user_a469787c137c6a3ff82c6d8b",
+		"username": "IcedOutMan",
+		"address": "0x9b456aacabBB27c91af570F19eb8B26494673aa0",
+		"date": "2024-10-15",
+		"daily_amount": 10.457616
+	},
+	{
+		"user_id": "1x_user_a76a494fe3a629838daaf1e4",
+		"username": "TILT_vynchi_YGG_BreederDAO",
+		"address": "0x1Db4EeD9f24d4E54DB541413C5D3802f0c7c1a81",
+		"date": "2024-10-15",
+		"daily_amount": 42.511923
+	},
+	{
+		"user_id": "1x_user_b137c540a5de5788455b612a",
+		"username": "BradThe3rd@nerf.shroud",
+		"address": "0xfC9dD877930e9799BeB663523BD31EefE3C99597",
+		"date": "2024-10-15",
+		"daily_amount": 3.098408
+	},
+	{
+		"user_id": "1x_user_b8c7ad63c2f84e6e36a98f12",
+		"username": "exie_win_YGG",
+		"address": "0xfAC5B8f8668b7158cF6A5dE01f20f207AC011cA7",
+		"date": "2024-10-15",
+		"daily_amount": 29.463241
+	},
+	{
+		"user_id": "1x_user_bc84ff8c178d7bcec754134b",
+		"username": "Jimon_Exile",
+		"address": "0xD7837508c7A246326F8F7584674495CBe4AFD56e",
+		"date": "2024-10-15",
+		"daily_amount": 12.91091
+	},
+	{
+		"user_id": "1x_user_bde36076074526b110c1cfee",
+		"username": "thebrasiliankid",
+		"address": "0xA810f9A8375451f8CE640809AF1Ca15227705165",
+		"date": "2024-10-15",
+		"daily_amount": 15.958401
+	},
+	{
+		"user_id": "1x_user_c6d4492df13763e721362647",
+		"username": "Wolfy",
+		"address": "0xc6e4637aEF0D61b2071405CbAb076aBf03EAA310",
+		"date": "2024-10-15",
+		"daily_amount": 2.980253
+	},
+	{
+		"user_id": "1x_user_cf1ded5c20248e202b089cf2",
+		"username": "backmorda",
+		"address": "0x8C4450D3B41A2981B2a9dE320864044C50823cbF",
+		"date": "2024-10-15",
+		"daily_amount": 12.89446
+	},
+	{
+		"user_id": "1x_user_d0ff0db7acea76040c3fc59f",
+		"username": "JLLATCHE",
+		"address": "0xE23F391Ed038A672a6eFb12f047AC122d361307C",
+		"date": "2024-10-15",
+		"daily_amount": 1.212139
+	},
+	{
+		"user_id": "1x_user_d538384c07d3581a46479e39",
+		"username": "iracer77",
+		"address": "0xc82414b8BD237A0f79596c3CE7Dc00F63b70Ca6f",
+		"date": "2024-10-15",
+		"daily_amount": 39.108335
+	},
+	{
+		"user_id": "1x_user_d58f8e09c3981a3b375bb4f5",
+		"username": "Manos",
+		"address": "0x6D07d1785091bd1e03cF353BcD593c54D16a93C9",
+		"date": "2024-10-15",
+		"daily_amount": 95.8044
+	},
+	{
+		"user_id": "1x_user_d893e14bc264413bc95f5657",
+		"username": "mark1o1",
+		"address": "0x6518494c994CC274ECfaaBa94b459d510554Ea79",
+		"date": "2024-10-15",
+		"daily_amount": 6.411814
+	},
+	{
+		"user_id": "1x_user_d8ee619031991fd1be12ac6d",
+		"username": "SlyCOOPER",
+		"address": "0x6283913Ad056f5e8b52A3D02D72930C0D5DDE313",
+		"date": "2024-10-15",
+		"daily_amount": 4.124303
+	},
+	{
+		"user_id": "1x_user_db0d99498b56b8ceadbe34d4",
+		"username": "YGG_AxU_Nocturnal_Paragons",
+		"address": "0x9F44a22C944bC39f2434E8A65a4b41F655c0c0DC",
+		"date": "2024-10-15",
+		"daily_amount": 6.616121
+	},
+	{
+		"user_id": "1x_user_ded14b8f189c2b7ca41b1d6d",
+		"username": "dieselnoi",
+		"address": "0xcBD03398e72B17cCd09ffcD7cc6C6071b50aF059",
+		"date": "2024-10-15",
+		"daily_amount": 17.078298
+	},
+	{
+		"user_id": "1x_user_df3723369fc5e6b782bdb87e",
+		"username": "kaktuzboy",
+		"address": "0xBDcaebd9570AED98ce53CC57F5a8DbF9b3c80579",
+		"date": "2024-10-15",
+		"daily_amount": 8.788094
+	},
+	{
+		"user_id": "1x_user_dfbbc116ded7394ae2fa58fa",
+		"username": "BrightAvian_EXILE_YGG",
+		"address": "0x5aA5c645F8bb12a92c3ED8232C58bD94B13c09e2",
+		"date": "2024-10-15",
+		"daily_amount": 63.078675
+	},
+	{
+		"user_id": "1x_user_e1aedf3103b128d055a65ebf",
+		"username": "Ganera_Exile",
+		"address": "0xA18690Ba687E05b9574e77D1d6Fc7Dfe8bB2575F",
+		"date": "2024-10-15",
+		"daily_amount": 37.87709
+	},
+	{
+		"user_id": "1x_user_ed71e519a7b52a2919fb7a50",
+		"username": "antonioroca068",
+		"address": "0x1f08Cd4bc400c015892e1168cc1A3CD29C5e516D",
+		"date": "2024-10-15",
+		"daily_amount": 3.639959
+	},
+	{
+		"user_id": "1x_user_f1ed937946ccb6eb57d7f8fd",
+		"username": "kaslow",
+		"address": "0x9266bc14BBD9fD5cA11D85B8720EA5A735B40000",
+		"date": "2024-10-15",
+		"daily_amount": 8.563107
+	},
+	{
+		"user_id": "1x_user_f2db9c3b3273ca4d9d68b15d",
+		"username": "Sequinox_YGG",
+		"address": "0x7a0A871C626f41b1b1CAeC66B926B1f788eb747F",
+		"date": "2024-10-15",
+		"daily_amount": 44.494207
+	},
+	{
+		"user_id": "1x_user_f3541d9d49b740801c6875e6",
+		"username": "beijingdouEXILE",
+		"address": "0xaf469C4a0914938e6149CF621c54FB4b1EC0c202",
+		"date": "2024-10-15",
+		"daily_amount": 5.129328
+	},
+	{
+		"user_id": "1x_user_0137c0da5c61031d6892a12e",
+		"username": "Malston_Exile",
+		"address": "0x11B4E83BC3e9605F03E2A4C34BD09567be5aeBBE",
+		"date": "2024-11-18",
+		"daily_amount": 16.544968
+	},
+	{
+		"user_id": "1x_user_01b39543a0e45139f20b0241",
+		"username": "anaperez43",
+		"address": "0xffEFf80803F010d19C9cccCD3581B7527e028B52",
+		"date": "2024-11-18",
+		"daily_amount": 4.917129
+	},
+	{
+		"user_id": "1x_user_03c1c7ef8655ade08be5079a",
+		"username": "synist3r",
+		"address": "0xAfbEe4d7f883E6Ab842e9623a9d595Ff6B7AAfD7",
+		"date": "2024-11-18",
+		"daily_amount": 1.452759
+	},
+	{
+		"user_id": "1x_user_0a2614c9ff793b5a7b77fce5",
+		"username": "HyllusDiardi001_Exile",
+		"address": "0xef3f446dd3d130aec11d273f01539b6504f81D20",
+		"date": "2024-11-18",
+		"daily_amount": 51.773955
+	},
+	{
+		"user_id": "1x_user_0c48997413da966974d15954",
+		"username": "Zeliaser_YGG",
+		"address": "0xf61C5f77194CFA3399Ab49c86c1cF722b275077f",
+		"date": "2024-11-18",
+		"daily_amount": 49.977046
+	},
+	{
+		"user_id": "1x_user_0fb425d8dcc8b7593c48c707",
+		"username": "XAVI324",
+		"address": "0x2a1d7482a179308Da13F316b2b466A22DDE59f83",
+		"date": "2024-11-18",
+		"daily_amount": 18.459335
+	},
+	{
+		"user_id": "1x_user_10315890e81dd43477b3a59c",
+		"username": "spaceman7",
+		"address": "0x3dDB69473881a8f0c73419293519994C14603b12",
+		"date": "2024-11-18",
+		"daily_amount": 3.940083
+	},
+	{
+		"user_id": "1x_user_181b20d9323e785f965f1b4f",
+		"username": "Comfortable",
+		"address": "0xF98A854bc00eAa854894d79e11315A2114C58120",
+		"date": "2024-11-18",
+		"daily_amount": 50.805418
+	},
+	{
+		"user_id": "1x_user_26b5122878285ac0ccfa64a8",
+		"username": "Zuzak",
+		"address": "0x63bD8AE3E4267dc54F9f889Be8c8261af9b3dF04",
+		"date": "2024-11-18",
+		"daily_amount": 1.486374
+	},
+	{
+		"user_id": "1x_user_2bafbbf6fbc9d330ee6ca4b9",
+		"username": "TILT_bin.",
+		"address": "0x3a8890442b3407f53f331BddB95FE0cA2E4A4327",
+		"date": "2024-11-18",
+		"daily_amount": 20.3119
+	},
+	{
+		"user_id": "1x_user_2ceaacc1ddbd18acd3d172f0",
+		"username": "Pardo",
+		"address": "0x36a01C1DDB75cd9EBE5Bc803f6AE39463F61Ea9B",
+		"date": "2024-11-18",
+		"daily_amount": 3.148725
+	},
+	{
+		"user_id": "1x_user_3162953d6de7b00d837b742d",
+		"username": "Tony_PLDN",
+		"address": "0xA28eb462f9B954C63494F5C9A1348e3Cc4F91135",
+		"date": "2024-11-18",
+		"daily_amount": 86.153974
+	},
+	{
+		"user_id": "1x_user_3166fd1a2a112b451e19016c",
+		"username": "YGG_AXU_Pepito_Paragons",
+		"address": "0x839AC785D5368A762884767b1914154575E30446",
+		"date": "2024-11-18",
+		"daily_amount": 57.229954
+	},
+	{
+		"user_id": "1x_user_31a70cb056ed5002de9422c4",
+		"username": "gabrielrcha",
+		"address": "0x53AAf2B383a0Df5586dE7108BcA0E804e3f3E2EA",
+		"date": "2024-11-18",
+		"daily_amount": 1.632953
+	},
+	{
+		"user_id": "1x_user_3293dac923e368515f7a6173",
+		"username": "bounty",
+		"address": "0xC48Fe7a066b46393DaF6784b8eC4adb8ebE7489F",
+		"date": "2024-11-18",
+		"daily_amount": 22.113099
+	},
+	{
+		"user_id": "1x_user_3340adf4cf6d74e5c12c0801",
+		"username": "Mixed_Master7",
+		"address": "0x61C2A3779aBCfb9813CAbC9BA68554C2c7f090b1",
+		"date": "2024-11-18",
+		"daily_amount": 5.678984
+	},
+	{
+		"user_id": "1x_user_37533e6d5822be30d04fb28a",
+		"username": "PROFESSIONAL_CATHERINE_PLAYER",
+		"address": "0xf85a96116312C382EB97E3BcB6267d15a5acbDdE",
+		"date": "2024-11-18",
+		"daily_amount": 18.282259
+	},
+	{
+		"user_id": "1x_user_3a79b38bf44e30524ce80d6e",
+		"username": "TILT_ReizuuTheRat_YGG",
+		"address": "0x85D1837F8C16E5b2FC1470Dc12B89f8d1A7a0082",
+		"date": "2024-11-18",
+		"daily_amount": 18.541941
+	},
+	{
+		"user_id": "1x_user_3cf108378175caae458959d5",
+		"username": "btsb",
+		"address": "0xAf0688715a1a0f7189847C431010920677fb9967",
+		"date": "2024-11-18",
+		"daily_amount": 13.426156
+	},
+	{
+		"user_id": "1x_user_3ec9e918229ea14eff6bdff4",
+		"username": "rosell24",
+		"address": "0x1932677592E099A57eA4C56E31AD10A8f04678aC",
+		"date": "2024-11-18",
+		"daily_amount": 5.251284
+	},
+	{
+		"user_id": "1x_user_42313781dfd57c82141dc2de",
+		"username": "Charrua23",
+		"address": "0x34Ab33B21ae520e7bbb2d0c227115a6Bc166F748",
+		"date": "2024-11-18",
+		"daily_amount": 1.09162
+	},
+	{
+		"user_id": "1x_user_5305913466f9b44ddf936be8",
+		"username": "thefreeroll",
+		"address": "0x9A36C3A2a328f0b018bc4824b80199c6337d6650",
+		"date": "2024-11-18",
+		"daily_amount": 3.163144
+	},
+	{
+		"user_id": "1x_user_58b8bb87227e1c80ca7e99de",
+		"username": "artcank",
+		"address": "0x60c5613f170b4Bd87DD1c49d7fe3990801886e9c",
+		"date": "2024-11-18",
+		"daily_amount": 3.420178
+	},
+	{
+		"user_id": "1x_user_5a14c6d8d347c1bfa92f81fb",
+		"username": "TRICKYΞPGA",
+		"address": "0x4fdcD0496F4c2D3629C0741626DE74d24A683E50",
+		"date": "2024-11-18",
+		"daily_amount": 19.361779
+	},
+	{
+		"user_id": "1x_user_68547ddbfe2f45b32e68c448",
+		"username": "SySţEMEŘASEŘ",
+		"address": "0xBDc703049C7234DD581B88ee460F4E1574C2cF7b",
+		"date": "2024-11-18",
+		"daily_amount": 4.068164
+	},
+	{
+		"user_id": "1x_user_697fbe05f0e019c4b074766f",
+		"username": "Sinpar22_PGA",
+		"address": "0x8b5a9e28730ACBA1cBc7886547d674A6cd03340e",
+		"date": "2024-11-18",
+		"daily_amount": 4.748945
+	},
+	{
+		"user_id": "1x_user_6eff00216d3d20e7e0ad244d",
+		"username": "PANDAPPLE",
+		"address": "0xDe4D0531AD3247c1196186Fb6374d3aCfA119A72",
+		"date": "2024-11-18",
+		"daily_amount": 12.122088
+	},
+	{
+		"user_id": "1x_user_73076e69e5d79a8d19102219",
+		"username": "jeremy",
+		"address": "0xbD70Ae53e48B3B94E75A9895e8B7c092856709FF",
+		"date": "2024-11-18",
+		"daily_amount": 18.374293
+	},
+	{
+		"user_id": "1x_user_737f9b44bc02379abf7345d8",
+		"username": "MARS_ATTACKS",
+		"address": "0x5FE5C7E196520c6c8CEE0770BcCD0d8702CA55F0",
+		"date": "2024-11-18",
+		"daily_amount": 11.488208
+	},
+	{
+		"user_id": "1x_user_748dc7cc74f3363ef70cadb3",
+		"username": "alee01",
+		"address": "0xFdF2886a441235516511aD2219a732271D79FEdF",
+		"date": "2024-11-18",
+		"daily_amount": 12.168573
+	},
+	{
+		"user_id": "1x_user_75fc01af2dde19ae76ff3bdc",
+		"username": "webmixgamer",
+		"address": "0x2D41211fc8a4a1639032Ead5C8EE6B867Ef70A49",
+		"date": "2024-11-18",
+		"daily_amount": 5.241342
+	},
+	{
+		"user_id": "1x_user_7615b5acd0fdabd4ab8314e1",
+		"username": "elerium115",
+		"address": "0xdF610269c6587C579E76b03Fba17EE51DD02B0c8",
+		"date": "2024-11-18",
+		"daily_amount": 15.516148
+	},
+	{
+		"user_id": "1x_user_768f8f0ca194ad5690477fbc",
+		"username": "sattena",
+		"address": "0xB156CDdAe61B9F758A8315EB25DEeE6FBe6225A7",
+		"date": "2024-11-18",
+		"daily_amount": 9.10065
+	},
+	{
+		"user_id": "1x_user_7ba3a8e71855e7449f0e58aa",
+		"username": "ManuAMG_MDNT",
+		"address": "0x2A89C680d9d96A51f8dD52bD20AabC4A320E7dCA",
+		"date": "2024-11-18",
+		"daily_amount": 24.204156
+	},
+	{
+		"user_id": "1x_user_85245f6f102306d3b66dd29a",
+		"username": "TILT_MUTZKI_YGG",
+		"address": "0x64972370Ce902CfA23d92f4Da8B34584583764f0",
+		"date": "2024-11-18",
+		"daily_amount": 13.934481
+	},
+	{
+		"user_id": "1x_user_85fb0e9e2c998fbdd0e787a7",
+		"username": "hamster2129",
+		"address": "0x15a5450088f23Ee06907a745729809beE80562a4",
+		"date": "2024-11-18",
+		"daily_amount": 4.476261
+	},
+	{
+		"user_id": "1x_user_8c465de5ad5b49c4df6ec23f",
+		"username": "Shogo.contagion",
+		"address": "0x91881e69cbF6c2f8d844a2CdDB941087e7fc1b6c",
+		"date": "2024-11-18",
+		"daily_amount": 25.65522
+	},
+	{
+		"user_id": "1x_user_8d687d87f564c2644d0ba71a",
+		"username": "kinglizard",
+		"address": "0xE27d9E71A92eb928D033194987be22998b336068",
+		"date": "2024-11-18",
+		"daily_amount": 4.22355
+	},
+	{
+		"user_id": "1x_user_902cc2c519873780c871b363",
+		"username": "NUMAROS",
+		"address": "0xb75a7FEB8F1163664F1bd1a089b1dE1e3373477C",
+		"date": "2024-11-18",
+		"daily_amount": 7.196001
+	},
+	{
+		"user_id": "1x_user_90808c9b2dbbf5e5cf0b3059",
+		"username": "Krimkie",
+		"address": "0x171f76E56C2Bc4AbA012FBD12cb1343a49D2dE94",
+		"date": "2024-11-18",
+		"daily_amount": 16.067112
+	},
+	{
+		"user_id": "1x_user_92cc4b11c04dfd4c1c55711d",
+		"username": "SNode",
+		"address": "0x8c0d5Cf17365Df315b8d334eB5552Be9F7Ff3978",
+		"date": "2024-11-18",
+		"daily_amount": 3.714267
+	},
+	{
+		"user_id": "1x_user_9953ae483a202f1f6f38dd35",
+		"username": "JIZO_PGA",
+		"address": "0x258EA80aEA2F5e32b5da106825d2B87e55D46Bf6",
+		"date": "2024-11-18",
+		"daily_amount": 29.545276
+	},
+	{
+		"user_id": "1x_user_9bc68930e9fb09d285386839",
+		"username": "arithmos",
+		"address": "0x719C998415E137D70587b755004Cbc4f88C6cA41",
+		"date": "2024-11-18",
+		"daily_amount": 11.426428
+	},
+	{
+		"user_id": "1x_user_9bfc0c8911b72c70e45eaf4b",
+		"username": "ROBHMORAESETH",
+		"address": "0xC240d13e57A44909991D8c398C58545d44b4068d",
+		"date": "2024-11-18",
+		"daily_amount": 29.773259
+	},
+	{
+		"user_id": "1x_user_a1cd523c10fd48c5d7ef3a87",
+		"username": "TILT_Kenzord_YGG",
+		"address": "0xA92debe0abE6af83ef762Ab80BdCD99b954a587f",
+		"date": "2024-11-18",
+		"daily_amount": 34.032307
+	},
+	{
+		"user_id": "1x_user_a469787c137c6a3ff82c6d8b",
+		"username": "IcedOutMan",
+		"address": "0x9b456aacabBB27c91af570F19eb8B26494673aa0",
+		"date": "2024-11-18",
+		"daily_amount": 22.617553
+	},
+	{
+		"user_id": "1x_user_a76a494fe3a629838daaf1e4",
+		"username": "TILT_vynchi_YGG_BreederDAO",
+		"address": "0x1Db4EeD9f24d4E54DB541413C5D3802f0c7c1a81",
+		"date": "2024-11-18",
+		"daily_amount": 88.150881
+	},
+	{
+		"user_id": "1x_user_aacb7bdf6fadd8c46d2bb2d4",
+		"username": "heyyawn",
+		"address": "0x8F09EeF679904F64752523f95dB664039dF278e2",
+		"date": "2024-11-18",
+		"daily_amount": 2.476656
+	},
+	{
+		"user_id": "1x_user_b137c540a5de5788455b612a",
+		"username": "BradThe3rd@nerf.shroud",
+		"address": "0xfC9dD877930e9799BeB663523BD31EefE3C99597",
+		"date": "2024-11-18",
+		"daily_amount": 2.973918
+	},
+	{
+		"user_id": "1x_user_b8c7ad63c2f84e6e36a98f12",
+		"username": "exie_win_YGG",
+		"address": "0xfAC5B8f8668b7158cF6A5dE01f20f207AC011cA7",
+		"date": "2024-11-18",
+		"daily_amount": 82.073563
+	},
+	{
+		"user_id": "1x_user_bc84ff8c178d7bcec754134b",
+		"username": "Jimon_Exile",
+		"address": "0xD7837508c7A246326F8F7584674495CBe4AFD56e",
+		"date": "2024-11-18",
+		"daily_amount": 21.204388
+	},
+	{
+		"user_id": "1x_user_bde36076074526b110c1cfee",
+		"username": "thebrasiliankid",
+		"address": "0xA810f9A8375451f8CE640809AF1Ca15227705165",
+		"date": "2024-11-18",
+		"daily_amount": 6.809225
+	},
+	{
+		"user_id": "1x_user_c40d12b8210d5d72b5694507",
+		"username": "maxpowersa",
+		"address": "0xfAd5803b59d6D4A2E94f5630b5fb0178BD99bda8",
+		"date": "2024-11-18",
+		"daily_amount": 1.146296
+	},
+	{
+		"user_id": "1x_user_c6d4492df13763e721362647",
+		"username": "Wolfy",
+		"address": "0xc6e4637aEF0D61b2071405CbAb076aBf03EAA310",
+		"date": "2024-11-18",
+		"daily_amount": 4.973255
+	},
+	{
+		"user_id": "1x_user_cb93870a5d7d87626d2ed765",
+		"username": "TalkDegenToMe",
+		"address": "0x51AA851817AdB2363b910F5835C9F72b949349D1",
+		"date": "2024-11-18",
+		"daily_amount": 6.427404
+	},
+	{
+		"user_id": "1x_user_cf1ded5c20248e202b089cf2",
+		"username": "backmorda",
+		"address": "0x8C4450D3B41A2981B2a9dE320864044C50823cbF",
+		"date": "2024-11-18",
+		"daily_amount": 18.276754
+	},
+	{
+		"user_id": "1x_user_d0ff0db7acea76040c3fc59f",
+		"username": "JLLATCHE",
+		"address": "0xE23F391Ed038A672a6eFb12f047AC122d361307C",
+		"date": "2024-11-18",
+		"daily_amount": 2.293361
+	},
+	{
+		"user_id": "1x_user_d538384c07d3581a46479e39",
+		"username": "iracer77",
+		"address": "0xc82414b8BD237A0f79596c3CE7Dc00F63b70Ca6f",
+		"date": "2024-11-18",
+		"daily_amount": 42.48619
+	},
+	{
+		"user_id": "1x_user_d58f8e09c3981a3b375bb4f5",
+		"username": "Manos",
+		"address": "0x6D07d1785091bd1e03cF353BcD593c54D16a93C9",
+		"date": "2024-11-18",
+		"daily_amount": 58.64121
+	},
+	{
+		"user_id": "1x_user_d893e14bc264413bc95f5657",
+		"username": "mark1o1",
+		"address": "0x6518494c994CC274ECfaaBa94b459d510554Ea79",
+		"date": "2024-11-18",
+		"daily_amount": 9.770218
+	},
+	{
+		"user_id": "1x_user_d8ee619031991fd1be12ac6d",
+		"username": "SlyCOOPER",
+		"address": "0x6283913Ad056f5e8b52A3D02D72930C0D5DDE313",
+		"date": "2024-11-18",
+		"daily_amount": 1.466643
+	},
+	{
+		"user_id": "1x_user_db0d99498b56b8ceadbe34d4",
+		"username": "YGG_AxU_Nocturnal_Paragons",
+		"address": "0x9F44a22C944bC39f2434E8A65a4b41F655c0c0DC",
+		"date": "2024-11-18",
+		"daily_amount": 24.27822
+	},
+	{
+		"user_id": "1x_user_ded14b8f189c2b7ca41b1d6d",
+		"username": "dieselnoi",
+		"address": "0xcBD03398e72B17cCd09ffcD7cc6C6071b50aF059",
+		"date": "2024-11-18",
+		"daily_amount": 32.606238
+	},
+	{
+		"user_id": "1x_user_df3723369fc5e6b782bdb87e",
+		"username": "kaktuzboy",
+		"address": "0xBDcaebd9570AED98ce53CC57F5a8DbF9b3c80579",
+		"date": "2024-11-18",
+		"daily_amount": 9.436384
+	},
+	{
+		"user_id": "1x_user_dfbbc116ded7394ae2fa58fa",
+		"username": "BrightAvian_EXILE_YGG",
+		"address": "0x5aA5c645F8bb12a92c3ED8232C58bD94B13c09e2",
+		"date": "2024-11-18",
+		"daily_amount": 74.437306
+	},
+	{
+		"user_id": "1x_user_e1aedf3103b128d055a65ebf",
+		"username": "Ganera_Exile",
+		"address": "0xA18690Ba687E05b9574e77D1d6Fc7Dfe8bB2575F",
+		"date": "2024-11-18",
+		"daily_amount": 28.432538
+	},
+	{
+		"user_id": "1x_user_ed71e519a7b52a2919fb7a50",
+		"username": "antonioroca068",
+		"address": "0x1f08Cd4bc400c015892e1168cc1A3CD29C5e516D",
+		"date": "2024-11-18",
+		"daily_amount": 3.718488
+	},
+	{
+		"user_id": "1x_user_f1ed937946ccb6eb57d7f8fd",
+		"username": "kaslow",
+		"address": "0x9266bc14BBD9fD5cA11D85B8720EA5A735B40000",
+		"date": "2024-11-18",
+		"daily_amount": 9.519359
+	},
+	{
+		"user_id": "1x_user_f2db9c3b3273ca4d9d68b15d",
+		"username": "Sequinox_YGG",
+		"address": "0x7a0A871C626f41b1b1CAeC66B926B1f788eb747F",
+		"date": "2024-11-18",
+		"daily_amount": 33.460717
+	},
+	{
+		"user_id": "1x_user_ff1a99eb0b34999290d4ab3d",
+		"username": "Nevermind_Paragons",
+		"address": "0x3B057cd1b4190B838709D380ACaC0306D010C7a1",
+		"date": "2024-11-18",
+		"daily_amount": 20.833543
+	},
+	{
+		"user_id": "1x_user_0137c0da5c61031d6892a12e",
+		"username": "Malston_Exile",
+		"address": "0x11B4E83BC3e9605F03E2A4C34BD09567be5aeBBE",
+		"date": "2024-12-16",
+		"daily_amount": 7.289006
+	},
+	{
+		"user_id": "1x_user_01b39543a0e45139f20b0241",
+		"username": "anaperez43",
+		"address": "0xffEFf80803F010d19C9cccCD3581B7527e028B52",
+		"date": "2024-12-16",
+		"daily_amount": 8.231323
+	},
+	{
+		"user_id": "1x_user_03c1c7ef8655ade08be5079a",
+		"username": "synist3r",
+		"address": "0xAfbEe4d7f883E6Ab842e9623a9d595Ff6B7AAfD7",
+		"date": "2024-12-16",
+		"daily_amount": 2.79655
+	},
+	{
+		"user_id": "1x_user_0a2614c9ff793b5a7b77fce5",
+		"username": "HyllusDiardi001_Exile",
+		"address": "0xef3f446dd3d130aec11d273f01539b6504f81D20",
+		"date": "2024-12-16",
+		"daily_amount": 26.477928
+	},
+	{
+		"user_id": "1x_user_0c48997413da966974d15954",
+		"username": "Zeliaser_YGG",
+		"address": "0xf61C5f77194CFA3399Ab49c86c1cF722b275077f",
+		"date": "2024-12-16",
+		"daily_amount": 1.175845
+	},
+	{
+		"user_id": "1x_user_0fb425d8dcc8b7593c48c707",
+		"username": "XAVI324",
+		"address": "0x2a1d7482a179308Da13F316b2b466A22DDE59f83",
+		"date": "2024-12-16",
+		"daily_amount": 12.791732
+	},
+	{
+		"user_id": "1x_user_10315890e81dd43477b3a59c",
+		"username": "spaceman7",
+		"address": "0x3dDB69473881a8f0c73419293519994C14603b12",
+		"date": "2024-12-16",
+		"daily_amount": 2.480672
+	},
+	{
+		"user_id": "1x_user_181b20d9323e785f965f1b4f",
+		"username": "Comfortable",
+		"address": "0xF98A854bc00eAa854894d79e11315A2114C58120",
+		"date": "2024-12-16",
+		"daily_amount": 11.026582
+	},
+	{
+		"user_id": "1x_user_26b5122878285ac0ccfa64a8",
+		"username": "Zuzak",
+		"address": "0x63bD8AE3E4267dc54F9f889Be8c8261af9b3dF04",
+		"date": "2024-12-16",
+		"daily_amount": 4.035394
+	},
+	{
+		"user_id": "1x_user_2bafbbf6fbc9d330ee6ca4b9",
+		"username": "TILT_bin.",
+		"address": "0x3a8890442b3407f53f331BddB95FE0cA2E4A4327",
+		"date": "2024-12-16",
+		"daily_amount": 25.75479
+	},
+	{
+		"user_id": "1x_user_2ceaacc1ddbd18acd3d172f0",
+		"username": "Pardo",
+		"address": "0x36a01C1DDB75cd9EBE5Bc803f6AE39463F61Ea9B",
+		"date": "2024-12-16",
+		"daily_amount": 6.668249
+	},
+	{
+		"user_id": "1x_user_3162953d6de7b00d837b742d",
+		"username": "Tony_PLDN",
+		"address": "0xA28eb462f9B954C63494F5C9A1348e3Cc4F91135",
+		"date": "2024-12-16",
+		"daily_amount": 31.822775
+	},
+	{
+		"user_id": "1x_user_3166fd1a2a112b451e19016c",
+		"username": "YGG_AXU_Pepito_Paragons",
+		"address": "0x839AC785D5368A762884767b1914154575E30446",
+		"date": "2024-12-16",
+		"daily_amount": 56.276429
+	},
+	{
+		"user_id": "1x_user_31a70cb056ed5002de9422c4",
+		"username": "gabrielrcha",
+		"address": "0x53AAf2B383a0Df5586dE7108BcA0E804e3f3E2EA",
+		"date": "2024-12-16",
+		"daily_amount": 1.677437
+	},
+	{
+		"user_id": "1x_user_3293dac923e368515f7a6173",
+		"username": "bounty",
+		"address": "0xC48Fe7a066b46393DaF6784b8eC4adb8ebE7489F",
+		"date": "2024-12-16",
+		"daily_amount": 3.236509
+	},
+	{
+		"user_id": "1x_user_3340adf4cf6d74e5c12c0801",
+		"username": "Mixed_Master7",
+		"address": "0x61C2A3779aBCfb9813CAbC9BA68554C2c7f090b1",
+		"date": "2024-12-16",
+		"daily_amount": 3.854048
+	},
+	{
+		"user_id": "1x_user_33fdcba3f9471c6fad705f1e",
+		"username": "ferenginar",
+		"address": "0x13f16aE446ebFd96a02A98317638ae231A19ab2f",
+		"date": "2024-12-16",
+		"daily_amount": 3.872842
+	},
+	{
+		"user_id": "1x_user_35cbdddbe16d46d788ad520f",
+		"username": "Turd_Ferguson_PGA",
+		"address": "0xa020CBDB204E6F0A6061f7E122Ac9ae4484C3B5b",
+		"date": "2024-12-16",
+		"daily_amount": 1.443191
+	},
+	{
+		"user_id": "1x_user_37533e6d5822be30d04fb28a",
+		"username": "PROFESSIONAL_CATHERINE_PLAYER",
+		"address": "0xf85a96116312C382EB97E3BcB6267d15a5acbDdE",
+		"date": "2024-12-16",
+		"daily_amount": 10.321808
+	},
+	{
+		"user_id": "1x_user_3a79b38bf44e30524ce80d6e",
+		"username": "TILT_ReizuuTheRat_YGG",
+		"address": "0x85D1837F8C16E5b2FC1470Dc12B89f8d1A7a0082",
+		"date": "2024-12-16",
+		"daily_amount": 27.053919
+	},
+	{
+		"user_id": "1x_user_3cf108378175caae458959d5",
+		"username": "btsb",
+		"address": "0xAf0688715a1a0f7189847C431010920677fb9967",
+		"date": "2024-12-16",
+		"daily_amount": 10.877012
+	},
+	{
+		"user_id": "1x_user_3ec9e918229ea14eff6bdff4",
+		"username": "rosell24",
+		"address": "0x1932677592E099A57eA4C56E31AD10A8f04678aC",
+		"date": "2024-12-16",
+		"daily_amount": 3.022862
+	},
+	{
+		"user_id": "1x_user_42313781dfd57c82141dc2de",
+		"username": "Charrua23",
+		"address": "0x34Ab33B21ae520e7bbb2d0c227115a6Bc166F748",
+		"date": "2024-12-16",
+		"daily_amount": 5.864266
+	},
+	{
+		"user_id": "1x_user_5305913466f9b44ddf936be8",
+		"username": "thefreeroll",
+		"address": "0x9A36C3A2a328f0b018bc4824b80199c6337d6650",
+		"date": "2024-12-16",
+		"daily_amount": 2.24026
+	},
+	{
+		"user_id": "1x_user_5a14c6d8d347c1bfa92f81fb",
+		"username": "TRICKYΞPGA",
+		"address": "0x4fdcD0496F4c2D3629C0741626DE74d24A683E50",
+		"date": "2024-12-16",
+		"daily_amount": 11.739566
+	},
+	{
+		"user_id": "1x_user_68547ddbfe2f45b32e68c448",
+		"username": "SySţEMEŘASEŘ",
+		"address": "0xBDc703049C7234DD581B88ee460F4E1574C2cF7b",
+		"date": "2024-12-16",
+		"daily_amount": 3.084914
+	},
+	{
+		"user_id": "1x_user_697fbe05f0e019c4b074766f",
+		"username": "Sinpar22_PGA",
+		"address": "0x8b5a9e28730ACBA1cBc7886547d674A6cd03340e",
+		"date": "2024-12-16",
+		"daily_amount": 13.867143
+	},
+	{
+		"user_id": "1x_user_73076e69e5d79a8d19102219",
+		"username": "jeremy",
+		"address": "0xbD70Ae53e48B3B94E75A9895e8B7c092856709FF",
+		"date": "2024-12-16",
+		"daily_amount": 12.09728
+	},
+	{
+		"user_id": "1x_user_737f9b44bc02379abf7345d8",
+		"username": "MARS_ATTACKS",
+		"address": "0x5FE5C7E196520c6c8CEE0770BcCD0d8702CA55F0",
+		"date": "2024-12-16",
+		"daily_amount": 4.993642
+	},
+	{
+		"user_id": "1x_user_748dc7cc74f3363ef70cadb3",
+		"username": "alee01",
+		"address": "0xFdF2886a441235516511aD2219a732271D79FEdF",
+		"date": "2024-12-16",
+		"daily_amount": 12.539777
+	},
+	{
+		"user_id": "1x_user_75fc01af2dde19ae76ff3bdc",
+		"username": "webmixgamer",
+		"address": "0x2D41211fc8a4a1639032Ead5C8EE6B867Ef70A49",
+		"date": "2024-12-16",
+		"daily_amount": 6.860157
+	},
+	{
+		"user_id": "1x_user_7615b5acd0fdabd4ab8314e1",
+		"username": "elerium115",
+		"address": "0xdF610269c6587C579E76b03Fba17EE51DD02B0c8",
+		"date": "2024-12-16",
+		"daily_amount": 3.466417
+	},
+	{
+		"user_id": "1x_user_768f8f0ca194ad5690477fbc",
+		"username": "sattena",
+		"address": "0xB156CDdAe61B9F758A8315EB25DEeE6FBe6225A7",
+		"date": "2024-12-16",
+		"daily_amount": 11.110502
+	},
+	{
+		"user_id": "1x_user_7ba3a8e71855e7449f0e58aa",
+		"username": "ManuAMG_MDNT",
+		"address": "0x2A89C680d9d96A51f8dD52bD20AabC4A320E7dCA",
+		"date": "2024-12-16",
+		"daily_amount": 18.450616
+	},
+	{
+		"user_id": "1x_user_85245f6f102306d3b66dd29a",
+		"username": "TILT_MUTZKI_YGG",
+		"address": "0x64972370Ce902CfA23d92f4Da8B34584583764f0",
+		"date": "2024-12-16",
+		"daily_amount": 9.97214
+	},
+	{
+		"user_id": "1x_user_85fb0e9e2c998fbdd0e787a7",
+		"username": "hamster2129",
+		"address": "0x15a5450088f23Ee06907a745729809beE80562a4",
+		"date": "2024-12-16",
+		"daily_amount": 8.898509
+	},
+	{
+		"user_id": "1x_user_8c465de5ad5b49c4df6ec23f",
+		"username": "Shogo.contagion",
+		"address": "0x91881e69cbF6c2f8d844a2CdDB941087e7fc1b6c",
+		"date": "2024-12-16",
+		"daily_amount": 28.956441
+	},
+	{
+		"user_id": "1x_user_8d687d87f564c2644d0ba71a",
+		"username": "kinglizard",
+		"address": "0xE27d9E71A92eb928D033194987be22998b336068",
+		"date": "2024-12-16",
+		"daily_amount": 2.181337
+	},
+	{
+		"user_id": "1x_user_902cc2c519873780c871b363",
+		"username": "NUMAROS",
+		"address": "0xb75a7FEB8F1163664F1bd1a089b1dE1e3373477C",
+		"date": "2024-12-16",
+		"daily_amount": 6.62497
+	},
+	{
+		"user_id": "1x_user_90808c9b2dbbf5e5cf0b3059",
+		"username": "Krimkie",
+		"address": "0x171f76E56C2Bc4AbA012FBD12cb1343a49D2dE94",
+		"date": "2024-12-16",
+		"daily_amount": 5.987515
+	},
+	{
+		"user_id": "1x_user_92cc4b11c04dfd4c1c55711d",
+		"username": "SNode",
+		"address": "0x8c0d5Cf17365Df315b8d334eB5552Be9F7Ff3978",
+		"date": "2024-12-16",
+		"daily_amount": 3.416995
+	},
+	{
+		"user_id": "1x_user_94ba0133cc399fbd551a7a0f",
+		"username": "flapjackson",
+		"address": "0x9b0C74924A7f6B4A54e7a02f7D56BBe9605bb629",
+		"date": "2024-12-16",
+		"daily_amount": 1.155802
+	},
+	{
+		"user_id": "1x_user_9953ae483a202f1f6f38dd35",
+		"username": "JIZO_PGA",
+		"address": "0x258EA80aEA2F5e32b5da106825d2B87e55D46Bf6",
+		"date": "2024-12-16",
+		"daily_amount": 45.618844
+	},
+	{
+		"user_id": "1x_user_9bc68930e9fb09d285386839",
+		"username": "arithmos",
+		"address": "0x719C998415E137D70587b755004Cbc4f88C6cA41",
+		"date": "2024-12-16",
+		"daily_amount": 10.682514
+	},
+	{
+		"user_id": "1x_user_9bfc0c8911b72c70e45eaf4b",
+		"username": "ROBHMORAESETH",
+		"address": "0xC240d13e57A44909991D8c398C58545d44b4068d",
+		"date": "2024-12-16",
+		"daily_amount": 12.760844
+	},
+	{
+		"user_id": "1x_user_a1cd523c10fd48c5d7ef3a87",
+		"username": "TILT_Kenzord_YGG",
+		"address": "0xA92debe0abE6af83ef762Ab80BdCD99b954a587f",
+		"date": "2024-12-16",
+		"daily_amount": 21.472226
+	},
+	{
+		"user_id": "1x_user_a469787c137c6a3ff82c6d8b",
+		"username": "IcedOutMan",
+		"address": "0x9b456aacabBB27c91af570F19eb8B26494673aa0",
+		"date": "2024-12-16",
+		"daily_amount": 14.401258
+	},
+	{
+		"user_id": "1x_user_a76a494fe3a629838daaf1e4",
+		"username": "TILT_vynchi_YGG_BreederDAO",
+		"address": "0x1Db4EeD9f24d4E54DB541413C5D3802f0c7c1a81",
+		"date": "2024-12-16",
+		"daily_amount": 50.422356
+	},
+	{
+		"user_id": "1x_user_aacb7bdf6fadd8c46d2bb2d4",
+		"username": "heyyawn",
+		"address": "0x8F09EeF679904F64752523f95dB664039dF278e2",
+		"date": "2024-12-16",
+		"daily_amount": 8.104855
+	},
+	{
+		"user_id": "1x_user_b137c540a5de5788455b612a",
+		"username": "BradThe3rd@nerf.shroud",
+		"address": "0xfC9dD877930e9799BeB663523BD31EefE3C99597",
+		"date": "2024-12-16",
+		"daily_amount": 5.572556
+	},
+	{
+		"user_id": "1x_user_b8c7ad63c2f84e6e36a98f12",
+		"username": "exie_win_YGG",
+		"address": "0xfAC5B8f8668b7158cF6A5dE01f20f207AC011cA7",
+		"date": "2024-12-16",
+		"daily_amount": 43.580517
+	},
+	{
+		"user_id": "1x_user_bc84ff8c178d7bcec754134b",
+		"username": "Jimon_Exile",
+		"address": "0xD7837508c7A246326F8F7584674495CBe4AFD56e",
+		"date": "2024-12-16",
+		"daily_amount": 33.61989
+	},
+	{
+		"user_id": "1x_user_bde36076074526b110c1cfee",
+		"username": "thebrasiliankid",
+		"address": "0xA810f9A8375451f8CE640809AF1Ca15227705165",
+		"date": "2024-12-16",
+		"daily_amount": 1.326146
+	},
+	{
+		"user_id": "1x_user_cb93870a5d7d87626d2ed765",
+		"username": "TalkDegenToMe",
+		"address": "0x51AA851817AdB2363b910F5835C9F72b949349D1",
+		"date": "2024-12-16",
+		"daily_amount": 2.463224
+	},
+	{
+		"user_id": "1x_user_cf1ded5c20248e202b089cf2",
+		"username": "backmorda",
+		"address": "0x8C4450D3B41A2981B2a9dE320864044C50823cbF",
+		"date": "2024-12-16",
+		"daily_amount": 8.783603
+	},
+	{
+		"user_id": "1x_user_d538384c07d3581a46479e39",
+		"username": "iracer77",
+		"address": "0xc82414b8BD237A0f79596c3CE7Dc00F63b70Ca6f",
+		"date": "2024-12-16",
+		"daily_amount": 34.096145
+	},
+	{
+		"user_id": "1x_user_d58f8e09c3981a3b375bb4f5",
+		"username": "Manos",
+		"address": "0x6D07d1785091bd1e03cF353BcD593c54D16a93C9",
+		"date": "2024-12-16",
+		"daily_amount": 46.72897
+	},
+	{
+		"user_id": "1x_user_d893e14bc264413bc95f5657",
+		"username": "mark1o1",
+		"address": "0x6518494c994CC274ECfaaBa94b459d510554Ea79",
+		"date": "2024-12-16",
+		"daily_amount": 5.144732
+	},
+	{
+		"user_id": "1x_user_d8ee619031991fd1be12ac6d",
+		"username": "SlyCOOPER",
+		"address": "0x6283913Ad056f5e8b52A3D02D72930C0D5DDE313",
+		"date": "2024-12-16",
+		"daily_amount": 1.747899
+	},
+	{
+		"user_id": "1x_user_ded14b8f189c2b7ca41b1d6d",
+		"username": "dieselnoi",
+		"address": "0xcBD03398e72B17cCd09ffcD7cc6C6071b50aF059",
+		"date": "2024-12-16",
+		"daily_amount": 30.996825
+	},
+	{
+		"user_id": "1x_user_df3723369fc5e6b782bdb87e",
+		"username": "kaktuzboy",
+		"address": "0xBDcaebd9570AED98ce53CC57F5a8DbF9b3c80579",
+		"date": "2024-12-16",
+		"daily_amount": 6.553693
+	},
+	{
+		"user_id": "1x_user_dfbbc116ded7394ae2fa58fa",
+		"username": "BrightAvian_EXILE_YGG",
+		"address": "0x5aA5c645F8bb12a92c3ED8232C58bD94B13c09e2",
+		"date": "2024-12-16",
+		"daily_amount": 14.105534
+	},
+	{
+		"user_id": "1x_user_ed71e519a7b52a2919fb7a50",
+		"username": "antonioroca068",
+		"address": "0x1f08Cd4bc400c015892e1168cc1A3CD29C5e516D",
+		"date": "2024-12-16",
+		"daily_amount": 9.319803
+	},
+	{
+		"user_id": "1x_user_f1ed937946ccb6eb57d7f8fd",
+		"username": "kaslow",
+		"address": "0x9266bc14BBD9fD5cA11D85B8720EA5A735B40000",
+		"date": "2024-12-16",
+		"daily_amount": 9.626817
+	},
+	{
+		"user_id": "1x_user_f2db9c3b3273ca4d9d68b15d",
+		"username": "Sequinox_YGG",
+		"address": "0x7a0A871C626f41b1b1CAeC66B926B1f788eb747F",
+		"date": "2024-12-16",
+		"daily_amount": 4.34072
+	},
+	{
+		"user_id": "1x_user_ff1a99eb0b34999290d4ab3d",
+		"username": "Nevermind_Paragons",
+		"address": "0x3B057cd1b4190B838709D380ACaC0306D010C7a1",
+		"date": "2024-12-16",
+		"daily_amount": 28.896921
+	},
+	{
+		"user_id": "1x_user_0137c0da5c61031d6892a12e",
+		"username": "Malston_Exile",
+		"address": "0x11B4E83BC3e9605F03E2A4C34BD09567be5aeBBE",
+		"date": "2024-12-18",
+		"daily_amount": 0.667972
+	},
+	{
+		"user_id": "1x_user_01b39543a0e45139f20b0241",
+		"username": "anaperez43",
+		"address": "0xffEFf80803F010d19C9cccCD3581B7527e028B52",
+		"date": "2024-12-18",
+		"daily_amount": 0.754327
+	},
+	{
+		"user_id": "1x_user_03c1c7ef8655ade08be5079a",
+		"username": "synist3r",
+		"address": "0xAfbEe4d7f883E6Ab842e9623a9d595Ff6B7AAfD7",
+		"date": "2024-12-18",
+		"daily_amount": 0.256279
+	},
+	{
+		"user_id": "1x_user_0a2614c9ff793b5a7b77fce5",
+		"username": "HyllusDiardi001_Exile",
+		"address": "0xef3f446dd3d130aec11d273f01539b6504f81D20",
+		"date": "2024-12-18",
+		"daily_amount": 2.426466
+	},
+	{
+		"user_id": "1x_user_0c48997413da966974d15954",
+		"username": "Zeliaser_YGG",
+		"address": "0xf61C5f77194CFA3399Ab49c86c1cF722b275077f",
+		"date": "2024-12-18",
+		"daily_amount": 0.107756
+	},
+	{
+		"user_id": "1x_user_0fb425d8dcc8b7593c48c707",
+		"username": "XAVI324",
+		"address": "0x2a1d7482a179308Da13F316b2b466A22DDE59f83",
+		"date": "2024-12-18",
+		"daily_amount": 1.172248
+	},
+	{
+		"user_id": "1x_user_10315890e81dd43477b3a59c",
+		"username": "spaceman7",
+		"address": "0x3dDB69473881a8f0c73419293519994C14603b12",
+		"date": "2024-12-18",
+		"daily_amount": 0.227331
+	},
+	{
+		"user_id": "1x_user_181b20d9323e785f965f1b4f",
+		"username": "Comfortable",
+		"address": "0xF98A854bc00eAa854894d79e11315A2114C58120",
+		"date": "2024-12-18",
+		"daily_amount": 1.010488
+	},
+	{
+		"user_id": "1x_user_26b5122878285ac0ccfa64a8",
+		"username": "Zuzak",
+		"address": "0x63bD8AE3E4267dc54F9f889Be8c8261af9b3dF04",
+		"date": "2024-12-18",
+		"daily_amount": 0.369808
+	},
+	{
+		"user_id": "1x_user_2bafbbf6fbc9d330ee6ca4b9",
+		"username": "TILT_bin.",
+		"address": "0x3a8890442b3407f53f331BddB95FE0cA2E4A4327",
+		"date": "2024-12-18",
+		"daily_amount": 2.360197
+	},
+	{
+		"user_id": "1x_user_2ceaacc1ddbd18acd3d172f0",
+		"username": "Pardo",
+		"address": "0x36a01C1DDB75cd9EBE5Bc803f6AE39463F61Ea9B",
+		"date": "2024-12-18",
+		"daily_amount": 0.611086
+	},
+	{
+		"user_id": "1x_user_3162953d6de7b00d837b742d",
+		"username": "Tony_PLDN",
+		"address": "0xA28eb462f9B954C63494F5C9A1348e3Cc4F91135",
+		"date": "2024-12-18",
+		"daily_amount": 2.916273
+	},
+	{
+		"user_id": "1x_user_3166fd1a2a112b451e19016c",
+		"username": "YGG_AXU_Pepito_Paragons",
+		"address": "0x839AC785D5368A762884767b1914154575E30446",
+		"date": "2024-12-18",
+		"daily_amount": 5.157233
+	},
+	{
+		"user_id": "1x_user_31a70cb056ed5002de9422c4",
+		"username": "gabrielrcha",
+		"address": "0x53AAf2B383a0Df5586dE7108BcA0E804e3f3E2EA",
+		"date": "2024-12-18",
+		"daily_amount": 0.153722
+	},
+	{
+		"user_id": "1x_user_3293dac923e368515f7a6173",
+		"username": "bounty",
+		"address": "0xC48Fe7a066b46393DaF6784b8eC4adb8ebE7489F",
+		"date": "2024-12-18",
+		"daily_amount": 0.296597
+	},
+	{
+		"user_id": "1x_user_3340adf4cf6d74e5c12c0801",
+		"username": "Mixed_Master7",
+		"address": "0x61C2A3779aBCfb9813CAbC9BA68554C2c7f090b1",
+		"date": "2024-12-18",
+		"daily_amount": 0.353189
+	},
+	{
+		"user_id": "1x_user_33fdcba3f9471c6fad705f1e",
+		"username": "ferenginar",
+		"address": "0x13f16aE446ebFd96a02A98317638ae231A19ab2f",
+		"date": "2024-12-18",
+		"daily_amount": 0.354911
+	},
+	{
+		"user_id": "1x_user_35cbdddbe16d46d788ad520f",
+		"username": "Turd_Ferguson_PGA",
+		"address": "0xa020CBDB204E6F0A6061f7E122Ac9ae4484C3B5b",
+		"date": "2024-12-18",
+		"daily_amount": 0.132256
+	},
+	{
+		"user_id": "1x_user_37533e6d5822be30d04fb28a",
+		"username": "PROFESSIONAL_CATHERINE_PLAYER",
+		"address": "0xf85a96116312C382EB97E3BcB6267d15a5acbDdE",
+		"date": "2024-12-18",
+		"daily_amount": 0.945902
+	},
+	{
+		"user_id": "1x_user_3a79b38bf44e30524ce80d6e",
+		"username": "TILT_ReizuuTheRat_YGG",
+		"address": "0x85D1837F8C16E5b2FC1470Dc12B89f8d1A7a0082",
+		"date": "2024-12-18",
+		"daily_amount": 2.47925
+	},
+	{
+		"user_id": "1x_user_3cf108378175caae458959d5",
+		"username": "btsb",
+		"address": "0xAf0688715a1a0f7189847C431010920677fb9967",
+		"date": "2024-12-18",
+		"daily_amount": 0.996781
+	},
+	{
+		"user_id": "1x_user_3ec9e918229ea14eff6bdff4",
+		"username": "rosell24",
+		"address": "0x1932677592E099A57eA4C56E31AD10A8f04678aC",
+		"date": "2024-12-18",
+		"daily_amount": 0.277018
+	},
+	{
+		"user_id": "1x_user_42313781dfd57c82141dc2de",
+		"username": "Charrua23",
+		"address": "0x34Ab33B21ae520e7bbb2d0c227115a6Bc166F748",
+		"date": "2024-12-18",
+		"daily_amount": 0.537408
+	},
+	{
+		"user_id": "1x_user_5305913466f9b44ddf936be8",
+		"username": "thefreeroll",
+		"address": "0x9A36C3A2a328f0b018bc4824b80199c6337d6650",
+		"date": "2024-12-18",
+		"daily_amount": 0.2053
+	},
+	{
+		"user_id": "1x_user_5a14c6d8d347c1bfa92f81fb",
+		"username": "TRICKYΞPGA",
+		"address": "0x4fdcD0496F4c2D3629C0741626DE74d24A683E50",
+		"date": "2024-12-18",
+		"daily_amount": 1.075826
+	},
+	{
+		"user_id": "1x_user_68547ddbfe2f45b32e68c448",
+		"username": "SySţEMEŘASEŘ",
+		"address": "0xBDc703049C7234DD581B88ee460F4E1574C2cF7b",
+		"date": "2024-12-18",
+		"daily_amount": 0.282705
+	},
+	{
+		"user_id": "1x_user_697fbe05f0e019c4b074766f",
+		"username": "Sinpar22_PGA",
+		"address": "0x8b5a9e28730ACBA1cBc7886547d674A6cd03340e",
+		"date": "2024-12-18",
+		"daily_amount": 1.2708
+	},
+	{
+		"user_id": "1x_user_73076e69e5d79a8d19102219",
+		"username": "jeremy",
+		"address": "0xbD70Ae53e48B3B94E75A9895e8B7c092856709FF",
+		"date": "2024-12-18",
+		"daily_amount": 1.108608
+	},
+	{
+		"user_id": "1x_user_737f9b44bc02379abf7345d8",
+		"username": "MARS_ATTACKS",
+		"address": "0x5FE5C7E196520c6c8CEE0770BcCD0d8702CA55F0",
+		"date": "2024-12-18",
+		"daily_amount": 0.457623
+	},
+	{
+		"user_id": "1x_user_748dc7cc74f3363ef70cadb3",
+		"username": "alee01",
+		"address": "0xFdF2886a441235516511aD2219a732271D79FEdF",
+		"date": "2024-12-18",
+		"daily_amount": 1.149159
+	},
+	{
+		"user_id": "1x_user_75fc01af2dde19ae76ff3bdc",
+		"username": "webmixgamer",
+		"address": "0x2D41211fc8a4a1639032Ead5C8EE6B867Ef70A49",
+		"date": "2024-12-18",
+		"daily_amount": 0.628672
+	},
+	{
+		"user_id": "1x_user_7615b5acd0fdabd4ab8314e1",
+		"username": "elerium115",
+		"address": "0xdF610269c6587C579E76b03Fba17EE51DD02B0c8",
+		"date": "2024-12-18",
+		"daily_amount": 0.317666
+	},
+	{
+		"user_id": "1x_user_768f8f0ca194ad5690477fbc",
+		"username": "sattena",
+		"address": "0xB156CDdAe61B9F758A8315EB25DEeE6FBe6225A7",
+		"date": "2024-12-18",
+		"daily_amount": 1.018178
+	},
+	{
+		"user_id": "1x_user_7ba3a8e71855e7449f0e58aa",
+		"username": "ManuAMG_MDNT",
+		"address": "0x2A89C680d9d96A51f8dD52bD20AabC4A320E7dCA",
+		"date": "2024-12-18",
+		"daily_amount": 1.690834
+	},
+	{
+		"user_id": "1x_user_85245f6f102306d3b66dd29a",
+		"username": "TILT_MUTZKI_YGG",
+		"address": "0x64972370Ce902CfA23d92f4Da8B34584583764f0",
+		"date": "2024-12-18",
+		"daily_amount": 0.913858
+	},
+	{
+		"user_id": "1x_user_85fb0e9e2c998fbdd0e787a7",
+		"username": "hamster2129",
+		"address": "0x15a5450088f23Ee06907a745729809beE80562a4",
+		"date": "2024-12-18",
+		"daily_amount": 0.815469
+	},
+	{
+		"user_id": "1x_user_8c465de5ad5b49c4df6ec23f",
+		"username": "Shogo.contagion",
+		"address": "0x91881e69cbF6c2f8d844a2CdDB941087e7fc1b6c",
+		"date": "2024-12-18",
+		"daily_amount": 2.653599
+	},
+	{
+		"user_id": "1x_user_8d687d87f564c2644d0ba71a",
+		"username": "kinglizard",
+		"address": "0xE27d9E71A92eb928D033194987be22998b336068",
+		"date": "2024-12-18",
+		"daily_amount": 0.1999
+	},
+	{
+		"user_id": "1x_user_902cc2c519873780c871b363",
+		"username": "NUMAROS",
+		"address": "0xb75a7FEB8F1163664F1bd1a089b1dE1e3373477C",
+		"date": "2024-12-18",
+		"daily_amount": 0.607119
+	},
+	{
+		"user_id": "1x_user_90808c9b2dbbf5e5cf0b3059",
+		"username": "Krimkie",
+		"address": "0x171f76E56C2Bc4AbA012FBD12cb1343a49D2dE94",
+		"date": "2024-12-18",
+		"daily_amount": 0.548702
+	},
+	{
+		"user_id": "1x_user_92cc4b11c04dfd4c1c55711d",
+		"username": "SNode",
+		"address": "0x8c0d5Cf17365Df315b8d334eB5552Be9F7Ff3978",
+		"date": "2024-12-18",
+		"daily_amount": 0.313137
+	},
+	{
+		"user_id": "1x_user_94ba0133cc399fbd551a7a0f",
+		"username": "flapjackson",
+		"address": "0x9b0C74924A7f6B4A54e7a02f7D56BBe9605bb629",
+		"date": "2024-12-18",
+		"daily_amount": 0.105919
+	},
+	{
+		"user_id": "1x_user_9953ae483a202f1f6f38dd35",
+		"username": "JIZO_PGA",
+		"address": "0x258EA80aEA2F5e32b5da106825d2B87e55D46Bf6",
+		"date": "2024-12-18",
+		"daily_amount": 4.18056
+	},
+	{
+		"user_id": "1x_user_9bc68930e9fb09d285386839",
+		"username": "arithmos",
+		"address": "0x719C998415E137D70587b755004Cbc4f88C6cA41",
+		"date": "2024-12-18",
+		"daily_amount": 0.978957
+	},
+	{
+		"user_id": "1x_user_9bfc0c8911b72c70e45eaf4b",
+		"username": "ROBHMORAESETH",
+		"address": "0xC240d13e57A44909991D8c398C58545d44b4068d",
+		"date": "2024-12-18",
+		"daily_amount": 1.169418
+	},
+	{
+		"user_id": "1x_user_a1cd523c10fd48c5d7ef3a87",
+		"username": "TILT_Kenzord_YGG",
+		"address": "0xA92debe0abE6af83ef762Ab80BdCD99b954a587f",
+		"date": "2024-12-18",
+		"daily_amount": 1.967738
+	},
+	{
+		"user_id": "1x_user_a469787c137c6a3ff82c6d8b",
+		"username": "IcedOutMan",
+		"address": "0x9b456aacabBB27c91af570F19eb8B26494673aa0",
+		"date": "2024-12-18",
+		"daily_amount": 1.319747
+	},
+	{
+		"user_id": "1x_user_a76a494fe3a629838daaf1e4",
+		"username": "TILT_vynchi_YGG_BreederDAO",
+		"address": "0x1Db4EeD9f24d4E54DB541413C5D3802f0c7c1a81",
+		"date": "2024-12-18",
+		"daily_amount": 4.620759
+	},
+	{
+		"user_id": "1x_user_aacb7bdf6fadd8c46d2bb2d4",
+		"username": "heyyawn",
+		"address": "0x8F09EeF679904F64752523f95dB664039dF278e2",
+		"date": "2024-12-18",
+		"daily_amount": 0.742738
+	},
+	{
+		"user_id": "1x_user_b137c540a5de5788455b612a",
+		"username": "BradThe3rd@nerf.shroud",
+		"address": "0xfC9dD877930e9799BeB663523BD31EefE3C99597",
+		"date": "2024-12-18",
+		"daily_amount": 0.510675
+	},
+	{
+		"user_id": "1x_user_b8c7ad63c2f84e6e36a98f12",
+		"username": "exie_win_YGG",
+		"address": "0xfAC5B8f8668b7158cF6A5dE01f20f207AC011cA7",
+		"date": "2024-12-18",
+		"daily_amount": 3.993766
+	},
+	{
+		"user_id": "1x_user_bc84ff8c178d7bcec754134b",
+		"username": "Jimon_Exile",
+		"address": "0xD7837508c7A246326F8F7584674495CBe4AFD56e",
+		"date": "2024-12-18",
+		"daily_amount": 3.080963
+	},
+	{
+		"user_id": "1x_user_bde36076074526b110c1cfee",
+		"username": "thebrasiliankid",
+		"address": "0xA810f9A8375451f8CE640809AF1Ca15227705165",
+		"date": "2024-12-18",
+		"daily_amount": 0.121529
+	},
+	{
+		"user_id": "1x_user_cb93870a5d7d87626d2ed765",
+		"username": "TalkDegenToMe",
+		"address": "0x51AA851817AdB2363b910F5835C9F72b949349D1",
+		"date": "2024-12-18",
+		"daily_amount": 0.225732
+	},
+	{
+		"user_id": "1x_user_cf1ded5c20248e202b089cf2",
+		"username": "backmorda",
+		"address": "0x8C4450D3B41A2981B2a9dE320864044C50823cbF",
+		"date": "2024-12-18",
+		"daily_amount": 0.804939
+	},
+	{
+		"user_id": "1x_user_d538384c07d3581a46479e39",
+		"username": "iracer77",
+		"address": "0xc82414b8BD237A0f79596c3CE7Dc00F63b70Ca6f",
+		"date": "2024-12-18",
+		"daily_amount": 3.124607
+	},
+	{
+		"user_id": "1x_user_d58f8e09c3981a3b375bb4f5",
+		"username": "Manos",
+		"address": "0x6D07d1785091bd1e03cF353BcD593c54D16a93C9",
+		"date": "2024-12-18",
+		"daily_amount": 4.282293
+	},
+	{
+		"user_id": "1x_user_d893e14bc264413bc95f5657",
+		"username": "mark1o1",
+		"address": "0x6518494c994CC274ECfaaBa94b459d510554Ea79",
+		"date": "2024-12-18",
+		"daily_amount": 0.471469
+	},
+	{
+		"user_id": "1x_user_d8ee619031991fd1be12ac6d",
+		"username": "SlyCOOPER",
+		"address": "0x6283913Ad056f5e8b52A3D02D72930C0D5DDE313",
+		"date": "2024-12-18",
+		"daily_amount": 0.160179
+	},
+	{
+		"user_id": "1x_user_ded14b8f189c2b7ca41b1d6d",
+		"username": "dieselnoi",
+		"address": "0xcBD03398e72B17cCd09ffcD7cc6C6071b50aF059",
+		"date": "2024-12-18",
+		"daily_amount": 2.840582
+	},
+	{
+		"user_id": "1x_user_df3723369fc5e6b782bdb87e",
+		"username": "kaktuzboy",
+		"address": "0xBDcaebd9570AED98ce53CC57F5a8DbF9b3c80579",
+		"date": "2024-12-18",
+		"daily_amount": 0.600587
+	},
+	{
+		"user_id": "1x_user_dfbbc116ded7394ae2fa58fa",
+		"username": "BrightAvian_EXILE_YGG",
+		"address": "0x5aA5c645F8bb12a92c3ED8232C58bD94B13c09e2",
+		"date": "2024-12-18",
+		"daily_amount": 1.292646
+	},
+	{
+		"user_id": "1x_user_ed71e519a7b52a2919fb7a50",
+		"username": "antonioroca068",
+		"address": "0x1f08Cd4bc400c015892e1168cc1A3CD29C5e516D",
+		"date": "2024-12-18",
+		"daily_amount": 0.854077
+	},
+	{
+		"user_id": "1x_user_f1ed937946ccb6eb57d7f8fd",
+		"username": "kaslow",
+		"address": "0x9266bc14BBD9fD5cA11D85B8720EA5A735B40000",
+		"date": "2024-12-18",
+		"daily_amount": 0.882212
+	},
+	{
+		"user_id": "1x_user_f2db9c3b3273ca4d9d68b15d",
+		"username": "Sequinox_YGG",
+		"address": "0x7a0A871C626f41b1b1CAeC66B926B1f788eb747F",
+		"date": "2024-12-18",
+		"daily_amount": 0.397788
+	},
+	{
+		"user_id": "1x_user_ff1a99eb0b34999290d4ab3d",
+		"username": "Nevermind_Paragons",
+		"address": "0x3B057cd1b4190B838709D380ACaC0306D010C7a1",
+		"date": "2024-12-18",
+		"daily_amount": 2.648145
+	},
+	{
+		"user_id": "1x_user_0137c0da5c61031d6892a12e",
+		"username": "Malston_Exile",
+		"address": "0x11B4E83BC3e9605F03E2A4C34BD09567be5aeBBE",
+		"date": "2025-01-21",
+		"daily_amount": 26.770627
+	},
+	{
+		"user_id": "1x_user_01b39543a0e45139f20b0241",
+		"username": "anaperez43",
+		"address": "0xffEFf80803F010d19C9cccCD3581B7527e028B52",
+		"date": "2025-01-21",
+		"daily_amount": 7.400079
+	},
+	{
+		"user_id": "1x_user_03c1c7ef8655ade08be5079a",
+		"username": "synist3r",
+		"address": "0xAfbEe4d7f883E6Ab842e9623a9d595Ff6B7AAfD7",
+		"date": "2025-01-21",
+		"daily_amount": 14.88478
+	},
+	{
+		"user_id": "1x_user_095c95bccb0dcd1e7407981e",
+		"username": "Basshunt3r_paragons",
+		"address": "0x0C3039e7518B711a56F3BBE8bec4f9387829e766",
+		"date": "2025-01-21",
+		"daily_amount": 0.576355
+	},
+	{
+		"user_id": "1x_user_0a2614c9ff793b5a7b77fce5",
+		"username": "HyllusDiardi001_Exile",
+		"address": "0xef3f446dd3d130aec11d273f01539b6504f81D20",
+		"date": "2025-01-21",
+		"daily_amount": 10.378731
+	},
+	{
+		"user_id": "1x_user_0c41e0cfa263cd67ff0f8232",
+		"username": "Mookah",
+		"address": "0x1a94578c4db2C90042c62FB0311FE1423659475b",
+		"date": "2025-01-21",
+		"daily_amount": 0.23472
+	},
+	{
+		"user_id": "1x_user_0c48997413da966974d15954",
+		"username": "Zeliaser_YGG",
+		"address": "0xf61C5f77194CFA3399Ab49c86c1cF722b275077f",
+		"date": "2025-01-21",
+		"daily_amount": 29.361577
+	},
+	{
+		"user_id": "1x_user_0fb425d8dcc8b7593c48c707",
+		"username": "XAVI324",
+		"address": "0x2a1d7482a179308Da13F316b2b466A22DDE59f83",
+		"date": "2025-01-21",
+		"daily_amount": 31.273545
+	},
+	{
+		"user_id": "1x_user_10315890e81dd43477b3a59c",
+		"username": "spaceman7",
+		"address": "0x3dDB69473881a8f0c73419293519994C14603b12",
+		"date": "2025-01-21",
+		"daily_amount": 4.587395
+	},
+	{
+		"user_id": "1x_user_181b20d9323e785f965f1b4f",
+		"username": "Comfortable",
+		"address": "0xF98A854bc00eAa854894d79e11315A2114C58120",
+		"date": "2025-01-21",
+		"daily_amount": 42.830648
+	},
+	{
+		"user_id": "1x_user_2bafbbf6fbc9d330ee6ca4b9",
+		"username": "TILT_bin.",
+		"address": "0x3a8890442b3407f53f331BddB95FE0cA2E4A4327",
+		"date": "2025-01-21",
+		"daily_amount": 56.532137
+	},
+	{
+		"user_id": "1x_user_2ceaacc1ddbd18acd3d172f0",
+		"username": "Pardo",
+		"address": "0x36a01C1DDB75cd9EBE5Bc803f6AE39463F61Ea9B",
+		"date": "2025-01-21",
+		"daily_amount": 3.665552
+	},
+	{
+		"user_id": "1x_user_3162953d6de7b00d837b742d",
+		"username": "Tony_PLDN",
+		"address": "0xA28eb462f9B954C63494F5C9A1348e3Cc4F91135",
+		"date": "2025-01-21",
+		"daily_amount": 26.162498
+	},
+	{
+		"user_id": "1x_user_3166fd1a2a112b451e19016c",
+		"username": "YGG_AXU_Pepito_Paragons",
+		"address": "0x839AC785D5368A762884767b1914154575E30446",
+		"date": "2025-01-21",
+		"daily_amount": 96.498462
+	},
+	{
+		"user_id": "1x_user_31a70cb056ed5002de9422c4",
+		"username": "gabrielrcha",
+		"address": "0x53AAf2B383a0Df5586dE7108BcA0E804e3f3E2EA",
+		"date": "2025-01-21",
+		"daily_amount": 0.162581
+	},
+	{
+		"user_id": "1x_user_3293dac923e368515f7a6173",
+		"username": "bounty",
+		"address": "0xC48Fe7a066b46393DaF6784b8eC4adb8ebE7489F",
+		"date": "2025-01-21",
+		"daily_amount": 26.904199
+	},
+	{
+		"user_id": "1x_user_3340adf4cf6d74e5c12c0801",
+		"username": "Mixed_Master7",
+		"address": "0x61C2A3779aBCfb9813CAbC9BA68554C2c7f090b1",
+		"date": "2025-01-21",
+		"daily_amount": 4.632299
+	},
+	{
+		"user_id": "1x_user_33fdcba3f9471c6fad705f1e",
+		"username": "ferenginar",
+		"address": "0x13f16aE446ebFd96a02A98317638ae231A19ab2f",
+		"date": "2025-01-21",
+		"daily_amount": 0.293777
+	},
+	{
+		"user_id": "1x_user_35cbdddbe16d46d788ad520f",
+		"username": "Turd_Ferguson_PGA",
+		"address": "0xa020CBDB204E6F0A6061f7E122Ac9ae4484C3B5b",
+		"date": "2025-01-21",
+		"daily_amount": 0.143431
+	},
+	{
+		"user_id": "1x_user_37533e6d5822be30d04fb28a",
+		"username": "PROFESSIONAL_CATHERINE_PLAYER",
+		"address": "0xf85a96116312C382EB97E3BcB6267d15a5acbDdE",
+		"date": "2025-01-21",
+		"daily_amount": 27.846481
+	},
+	{
+		"user_id": "1x_user_3881b3cc0c511adc71c4e80c",
+		"username": "dr_grim",
+		"address": "0x22d0794A82EEBdd10245C2d162951eB1CA6FA58b",
+		"date": "2025-01-21",
+		"daily_amount": 0.205795
+	},
+	{
+		"user_id": "1x_user_3a79b38bf44e30524ce80d6e",
+		"username": "TILT_ReizuuTheRat_YGG",
+		"address": "0x85D1837F8C16E5b2FC1470Dc12B89f8d1A7a0082",
+		"date": "2025-01-21",
+		"daily_amount": 53.423859
+	},
+	{
+		"user_id": "1x_user_3cf108378175caae458959d5",
+		"username": "btsb",
+		"address": "0xAf0688715a1a0f7189847C431010920677fb9967",
+		"date": "2025-01-21",
+		"daily_amount": 6.516044
+	},
+	{
+		"user_id": "1x_user_3ec9e918229ea14eff6bdff4",
+		"username": "rosell24",
+		"address": "0x1932677592E099A57eA4C56E31AD10A8f04678aC",
+		"date": "2025-01-21",
+		"daily_amount": 2.867374
+	},
+	{
+		"user_id": "1x_user_4b55e54ba0f079bc9606cc40",
+		"username": "Rhagga",
+		"address": "0xc4a4e1665adFea108424b3A6F2Bc9897ea62b390",
+		"date": "2025-01-21",
+		"daily_amount": 0.334457
+	},
+	{
+		"user_id": "1x_user_5305913466f9b44ddf936be8",
+		"username": "thefreeroll",
+		"address": "0x9A36C3A2a328f0b018bc4824b80199c6337d6650",
+		"date": "2025-01-21",
+		"daily_amount": 1.743063
+	},
+	{
+		"user_id": "1x_user_5a14c6d8d347c1bfa92f81fb",
+		"username": "TRICKYΞPGA",
+		"address": "0x4fdcD0496F4c2D3629C0741626DE74d24A683E50",
+		"date": "2025-01-21",
+		"daily_amount": 15.532716
+	},
+	{
+		"user_id": "1x_user_653ae252c0b26854a84791a5",
+		"username": "TILT_riyo_YGG",
+		"address": "0x2f99929b311ED60274A08f468629A3d4c6970970",
+		"date": "2025-01-21",
+		"daily_amount": 0.540022
+	},
+	{
+		"user_id": "1x_user_68547ddbfe2f45b32e68c448",
+		"username": "SySţEMEŘASEŘ",
+		"address": "0xBDc703049C7234DD581B88ee460F4E1574C2cF7b",
+		"date": "2025-01-21",
+		"daily_amount": 16.178266
+	},
+	{
+		"user_id": "1x_user_697fbe05f0e019c4b074766f",
+		"username": "Sinpar22_PGA",
+		"address": "0x8b5a9e28730ACBA1cBc7886547d674A6cd03340e",
+		"date": "2025-01-21",
+		"daily_amount": 16.24189
+	},
+	{
+		"user_id": "1x_user_69ebcd362a53a465c017d6c6",
+		"username": "lemurbeast",
+		"address": "0x3E751Ab467E9a1bB97E32C1e09d83b08b8e9Ad6F",
+		"date": "2025-01-21",
+		"daily_amount": 0.315377
+	},
+	{
+		"user_id": "1x_user_6e6138ec025dfb84e87b3ed8",
+		"username": "BRK-OUTAlethea",
+		"address": "0x99192e2B2EcB54E6D67d506d0997bd13b8314d77",
+		"date": "2025-01-21",
+		"daily_amount": 0.598953
+	},
+	{
+		"user_id": "1x_user_6fd5746e382c3585e4785b2c",
+		"username": "Paragons_Milamber",
+		"address": "0xD4f8a2348A286A1F06FAe22b6042CCeAaf2C3323",
+		"date": "2025-01-21",
+		"daily_amount": 0.056816
+	},
+	{
+		"user_id": "1x_user_73076e69e5d79a8d19102219",
+		"username": "jeremy",
+		"address": "0xbD70Ae53e48B3B94E75A9895e8B7c092856709FF",
+		"date": "2025-01-21",
+		"daily_amount": 17.167057
+	},
+	{
+		"user_id": "1x_user_737f9b44bc02379abf7345d8",
+		"username": "MARS_ATTACKS",
+		"address": "0x5FE5C7E196520c6c8CEE0770BcCD0d8702CA55F0",
+		"date": "2025-01-21",
+		"daily_amount": 32.769096
+	},
+	{
+		"user_id": "1x_user_748dc7cc74f3363ef70cadb3",
+		"username": "alee01",
+		"address": "0xFdF2886a441235516511aD2219a732271D79FEdF",
+		"date": "2025-01-21",
+		"daily_amount": 8.255381
+	},
+	{
+		"user_id": "1x_user_75fc01af2dde19ae76ff3bdc",
+		"username": "webmixgamer",
+		"address": "0x2D41211fc8a4a1639032Ead5C8EE6B867Ef70A49",
+		"date": "2025-01-21",
+		"daily_amount": 4.26462
+	},
+	{
+		"user_id": "1x_user_768f8f0ca194ad5690477fbc",
+		"username": "sattena",
+		"address": "0xB156CDdAe61B9F758A8315EB25DEeE6FBe6225A7",
+		"date": "2025-01-21",
+		"daily_amount": 6.629051
+	},
+	{
+		"user_id": "1x_user_7ba3a8e71855e7449f0e58aa",
+		"username": "ManuAMG_MDNT",
+		"address": "0x2A89C680d9d96A51f8dD52bD20AabC4A320E7dCA",
+		"date": "2025-01-21",
+		"daily_amount": 2.402377
+	},
+	{
+		"user_id": "1x_user_7c39b68babac20ff0056b364",
+		"username": "DaGG3R_TILTxYGG",
+		"address": "0x91C824BDeBC7D8AA1BeBf92C5c8e671fD0EC1bB0",
+		"date": "2025-01-21",
+		"daily_amount": 0.830026
+	},
+	{
+		"user_id": "1x_user_85245f6f102306d3b66dd29a",
+		"username": "TILT_MUTZKI_YGG",
+		"address": "0x64972370Ce902CfA23d92f4Da8B34584583764f0",
+		"date": "2025-01-21",
+		"daily_amount": 27.64415
+	},
+	{
+		"user_id": "1x_user_85fb0e9e2c998fbdd0e787a7",
+		"username": "hamster2129",
+		"address": "0x15a5450088f23Ee06907a745729809beE80562a4",
+		"date": "2025-01-21",
+		"daily_amount": 8.230226
+	},
+	{
+		"user_id": "1x_user_8c465de5ad5b49c4df6ec23f",
+		"username": "Shogo.contagion",
+		"address": "0x91881e69cbF6c2f8d844a2CdDB941087e7fc1b6c",
+		"date": "2025-01-21",
+		"daily_amount": 2.089258
+	},
+	{
+		"user_id": "1x_user_8d687d87f564c2644d0ba71a",
+		"username": "kinglizard",
+		"address": "0xE27d9E71A92eb928D033194987be22998b336068",
+		"date": "2025-01-21",
+		"daily_amount": 0.001278
+	},
+	{
+		"user_id": "1x_user_902cc2c519873780c871b363",
+		"username": "NUMAROS",
+		"address": "0xb75a7FEB8F1163664F1bd1a089b1dE1e3373477C",
+		"date": "2025-01-21",
+		"daily_amount": 2.023975
+	},
+	{
+		"user_id": "1x_user_90808c9b2dbbf5e5cf0b3059",
+		"username": "Krimkie",
+		"address": "0x171f76E56C2Bc4AbA012FBD12cb1343a49D2dE94",
+		"date": "2025-01-21",
+		"daily_amount": 0.553403
+	},
+	{
+		"user_id": "1x_user_92cc4b11c04dfd4c1c55711d",
+		"username": "SNode",
+		"address": "0x8c0d5Cf17365Df315b8d334eB5552Be9F7Ff3978",
+		"date": "2025-01-21",
+		"daily_amount": 49.00031
+	},
+	{
+		"user_id": "1x_user_9953ae483a202f1f6f38dd35",
+		"username": "JIZO_PGA",
+		"address": "0x258EA80aEA2F5e32b5da106825d2B87e55D46Bf6",
+		"date": "2025-01-21",
+		"daily_amount": 75.65106
+	},
+	{
+		"user_id": "1x_user_9bc68930e9fb09d285386839",
+		"username": "arithmos",
+		"address": "0x719C998415E137D70587b755004Cbc4f88C6cA41",
+		"date": "2025-01-21",
+		"daily_amount": 37.329084
+	},
+	{
+		"user_id": "1x_user_9bfc0c8911b72c70e45eaf4b",
+		"username": "ROBHMORAESETH",
+		"address": "0xC240d13e57A44909991D8c398C58545d44b4068d",
+		"date": "2025-01-21",
+		"daily_amount": 10.408999
+	},
+	{
+		"user_id": "1x_user_9cb0eeb12285b4681f3aa2ad",
+		"username": "0xbrand",
+		"address": "0x18Ac129F2284eb45FBc9f3a9630503AaDCE010D2",
+		"date": "2025-01-21",
+		"daily_amount": 0.032299
+	},
+	{
+		"user_id": "1x_user_a1cd523c10fd48c5d7ef3a87",
+		"username": "TILT_Kenzord_YGG",
+		"address": "0xA92debe0abE6af83ef762Ab80BdCD99b954a587f",
+		"date": "2025-01-21",
+		"daily_amount": 38.489454
+	},
+	{
+		"user_id": "1x_user_a469787c137c6a3ff82c6d8b",
+		"username": "IcedOutMan",
+		"address": "0x9b456aacabBB27c91af570F19eb8B26494673aa0",
+		"date": "2025-01-21",
+		"daily_amount": 15.737875
+	},
+	{
+		"user_id": "1x_user_a76a494fe3a629838daaf1e4",
+		"username": "TILT_vynchi_YGG_BreederDAO",
+		"address": "0x1Db4EeD9f24d4E54DB541413C5D3802f0c7c1a81",
+		"date": "2025-01-21",
+		"daily_amount": 80.298859
+	},
+	{
+		"user_id": "1x_user_aacb7bdf6fadd8c46d2bb2d4",
+		"username": "heyyawn",
+		"address": "0x8F09EeF679904F64752523f95dB664039dF278e2",
+		"date": "2025-01-21",
+		"daily_amount": 1.174395
+	},
+	{
+		"user_id": "1x_user_afbc59251166e93cd052e853",
+		"username": "garrosh",
+		"address": "0x6dD2356ACeCB9875e6152EB34B34cB435250A4a0",
+		"date": "2025-01-21",
+		"daily_amount": 0.404793
+	},
+	{
+		"user_id": "1x_user_b137c540a5de5788455b612a",
+		"username": "BradThe3rd@nerf.shroud",
+		"address": "0xfC9dD877930e9799BeB663523BD31EefE3C99597",
+		"date": "2025-01-21",
+		"daily_amount": 12.617881
+	},
+	{
+		"user_id": "1x_user_b5809b753b7b856748e5f494",
+		"username": "Schmidt_YGGxTILT",
+		"address": "0x144149CD65e299A7808f6c38741278B246a4b04A",
+		"date": "2025-01-21",
+		"daily_amount": 0.6229
+	},
+	{
+		"user_id": "1x_user_b8c7ad63c2f84e6e36a98f12",
+		"username": "exie_win_YGG",
+		"address": "0xfAC5B8f8668b7158cF6A5dE01f20f207AC011cA7",
+		"date": "2025-01-21",
+		"daily_amount": 55.656517
+	},
+	{
+		"user_id": "1x_user_bc84ff8c178d7bcec754134b",
+		"username": "Jimon_Exile",
+		"address": "0xD7837508c7A246326F8F7584674495CBe4AFD56e",
+		"date": "2025-01-21",
+		"daily_amount": 35.419287
+	},
+	{
+		"user_id": "1x_user_bde36076074526b110c1cfee",
+		"username": "thebrasiliankid",
+		"address": "0xA810f9A8375451f8CE640809AF1Ca15227705165",
+		"date": "2025-01-21",
+		"daily_amount": 7.781269
+	},
+	{
+		"user_id": "1x_user_bfec679dc497c1fe63ef3dac",
+		"username": "Eclipse-Paragons",
+		"address": "0xa9E8529bbB2877bA2871Eae5b4DA0B886001B703",
+		"date": "2025-01-21",
+		"daily_amount": 0.024766
+	},
+	{
+		"user_id": "1x_user_c6d4492df13763e721362647",
+		"username": "Wolfy",
+		"address": "0xc6e4637aEF0D61b2071405CbAb076aBf03EAA310",
+		"date": "2025-01-21",
+		"daily_amount": 0.113494
+	},
+	{
+		"user_id": "1x_user_cb93870a5d7d87626d2ed765",
+		"username": "TalkDegenToMe",
+		"address": "0x51AA851817AdB2363b910F5835C9F72b949349D1",
+		"date": "2025-01-21",
+		"daily_amount": 0.355236
+	},
+	{
+		"user_id": "1x_user_cf1ded5c20248e202b089cf2",
+		"username": "backmorda",
+		"address": "0x8C4450D3B41A2981B2a9dE320864044C50823cbF",
+		"date": "2025-01-21",
+		"daily_amount": 29.470972
+	},
+	{
+		"user_id": "1x_user_d0ff0db7acea76040c3fc59f",
+		"username": "JLLATCHE",
+		"address": "0xE23F391Ed038A672a6eFb12f047AC122d361307C",
+		"date": "2025-01-21",
+		"daily_amount": 0.33897
+	},
+	{
+		"user_id": "1x_user_d538384c07d3581a46479e39",
+		"username": "iracer77",
+		"address": "0xc82414b8BD237A0f79596c3CE7Dc00F63b70Ca6f",
+		"date": "2025-01-21",
+		"daily_amount": 74.806208
+	},
+	{
+		"user_id": "1x_user_d58f8e09c3981a3b375bb4f5",
+		"username": "Manos",
+		"address": "0x6D07d1785091bd1e03cF353BcD593c54D16a93C9",
+		"date": "2025-01-21",
+		"daily_amount": 79.58231
+	},
+	{
+		"user_id": "1x_user_d893e14bc264413bc95f5657",
+		"username": "mark1o1",
+		"address": "0x6518494c994CC274ECfaaBa94b459d510554Ea79",
+		"date": "2025-01-21",
+		"daily_amount": 4.632556
+	},
+	{
+		"user_id": "1x_user_d8ee619031991fd1be12ac6d",
+		"username": "SlyCOOPER",
+		"address": "0x6283913Ad056f5e8b52A3D02D72930C0D5DDE313",
+		"date": "2025-01-21",
+		"daily_amount": 2.263291
+	},
+	{
+		"user_id": "1x_user_db0d99498b56b8ceadbe34d4",
+		"username": "YGG_AxU_Nocturnal_Paragons",
+		"address": "0x9F44a22C944bC39f2434E8A65a4b41F655c0c0DC",
+		"date": "2025-01-21",
+		"daily_amount": 93.558363
+	},
+	{
+		"user_id": "1x_user_dd4e76452ebbfa4b279fd6e7",
+		"username": "JasonFleurant",
+		"address": "0x078Fd970277063590BfF4cAF57380cf0F8b38f74",
+		"date": "2025-01-21",
+		"daily_amount": 0.423202
+	},
+	{
+		"user_id": "1x_user_ded14b8f189c2b7ca41b1d6d",
+		"username": "dieselnoi",
+		"address": "0xcBD03398e72B17cCd09ffcD7cc6C6071b50aF059",
+		"date": "2025-01-21",
+		"daily_amount": 107.795652
+	},
+	{
+		"user_id": "1x_user_df3723369fc5e6b782bdb87e",
+		"username": "kaktuzboy",
+		"address": "0xBDcaebd9570AED98ce53CC57F5a8DbF9b3c80579",
+		"date": "2025-01-21",
+		"daily_amount": 4.353271
+	},
+	{
+		"user_id": "1x_user_dfbbc116ded7394ae2fa58fa",
+		"username": "BrightAvian_EXILE_YGG",
+		"address": "0x5aA5c645F8bb12a92c3ED8232C58bD94B13c09e2",
+		"date": "2025-01-21",
+		"daily_amount": 76.482848
+	},
+	{
+		"user_id": "1x_user_e1aedf3103b128d055a65ebf",
+		"username": "Ganera_Exile",
+		"address": "0xA18690Ba687E05b9574e77D1d6Fc7Dfe8bB2575F",
+		"date": "2025-01-21",
+		"daily_amount": 0.333926
+	},
+	{
+		"user_id": "1x_user_e393961114093d6658cda428",
+		"username": "kartoha.Paragons.DevGG",
+		"address": "0x97f25d7dfdA8c1bC7dc578C6Dc853F73AED5b37C",
+		"date": "2025-01-21",
+		"daily_amount": 0.003188
+	},
+	{
+		"user_id": "1x_user_ed71e519a7b52a2919fb7a50",
+		"username": "antonioroca068",
+		"address": "0x1f08Cd4bc400c015892e1168cc1A3CD29C5e516D",
+		"date": "2025-01-21",
+		"daily_amount": 9.971731
+	},
+	{
+		"user_id": "1x_user_f1ed937946ccb6eb57d7f8fd",
+		"username": "kaslow",
+		"address": "0x9266bc14BBD9fD5cA11D85B8720EA5A735B40000",
+		"date": "2025-01-21",
+		"daily_amount": 3.935587
+	},
+	{
+		"user_id": "1x_user_f2db9c3b3273ca4d9d68b15d",
+		"username": "Sequinox_YGG",
+		"address": "0x7a0A871C626f41b1b1CAeC66B926B1f788eb747F",
+		"date": "2025-01-21",
+		"daily_amount": 161.732742
+	},
+	{
+		"user_id": "1x_user_f3541d9d49b740801c6875e6",
+		"username": "beijingdouEXILE",
+		"address": "0xaf469C4a0914938e6149CF621c54FB4b1EC0c202",
+		"date": "2025-01-21",
+		"daily_amount": 1.8846
+	},
+	{
+		"user_id": "1x_user_f42c52750af2f1384be94471",
+		"username": "mysonarcaptain_MDNT",
+		"address": "0x0040Df12FDDd28be28f37152cB51c28b18f71135",
+		"date": "2025-01-21",
+		"daily_amount": 0.259674
+	},
+	{
+		"user_id": "1x_user_f83a709f84d0e63477eaa23c",
+		"username": "dunder",
+		"address": "0x51cb98595387D58a9B313eD767d0C0B769ddD4fD",
+		"date": "2025-01-21",
+		"daily_amount": 1.159605
+	},
+	{
+		"user_id": "1x_user_0137c0da5c61031d6892a12e",
+		"username": "Malston_Exile",
+		"address": "0x11B4E83BC3e9605F03E2A4C34BD09567be5aeBBE",
+		"date": "2025-02-18",
+		"daily_amount": 12.177166
+	},
+	{
+		"user_id": "1x_user_01b39543a0e45139f20b0241",
+		"username": "anaperez43",
+		"address": "0xffEFf80803F010d19C9cccCD3581B7527e028B52",
+		"date": "2025-02-18",
+		"daily_amount": 7.400079
+	},
+	{
+		"user_id": "1x_user_03c1c7ef8655ade08be5079a",
+		"username": "synist3r",
+		"address": "0xAfbEe4d7f883E6Ab842e9623a9d595Ff6B7AAfD7",
+		"date": "2025-02-18",
+		"daily_amount": 6.770646
+	},
+	{
+		"user_id": "1x_user_095c95bccb0dcd1e7407981e",
+		"username": "Basshunt3r_paragons",
+		"address": "0x0C3039e7518B711a56F3BBE8bec4f9387829e766",
+		"date": "2025-02-18",
+		"daily_amount": 0.576355
+	},
+	{
+		"user_id": "1x_user_0a2614c9ff793b5a7b77fce5",
+		"username": "HyllusDiardi001_Exile",
+		"address": "0xef3f446dd3d130aec11d273f01539b6504f81D20",
+		"date": "2025-02-18",
+		"daily_amount": 2.640067
+	},
+	{
+		"user_id": "1x_user_0c41e0cfa263cd67ff0f8232",
+		"username": "Mookah",
+		"address": "0x1a94578c4db2C90042c62FB0311FE1423659475b",
+		"date": "2025-02-18",
+		"daily_amount": 0.23472
+	},
+	{
+		"user_id": "1x_user_0c48997413da966974d15954",
+		"username": "Zeliaser_YGG",
+		"address": "0xf61C5f77194CFA3399Ab49c86c1cF722b275077f",
+		"date": "2025-02-18",
+		"daily_amount": 13.355712
+	},
+	{
+		"user_id": "1x_user_0fb425d8dcc8b7593c48c707",
+		"username": "XAVI324",
+		"address": "0x2a1d7482a179308Da13F316b2b466A22DDE59f83",
+		"date": "2025-02-18",
+		"daily_amount": 14.22541
+	},
+	{
+		"user_id": "1x_user_10315890e81dd43477b3a59c",
+		"username": "spaceman7",
+		"address": "0x3dDB69473881a8f0c73419293519994C14603b12",
+		"date": "2025-02-18",
+		"daily_amount": 1.565003
+	},
+	{
+		"user_id": "1x_user_181b20d9323e785f965f1b4f",
+		"username": "Comfortable",
+		"address": "0xF98A854bc00eAa854894d79e11315A2114C58120",
+		"date": "2025-02-18",
+		"daily_amount": 19.482394
+	},
+	{
+		"user_id": "1x_user_2bafbbf6fbc9d330ee6ca4b9",
+		"username": "TILT_bin.",
+		"address": "0x3a8890442b3407f53f331BddB95FE0cA2E4A4327",
+		"date": "2025-02-18",
+		"daily_amount": 25.714795
+	},
+	{
+		"user_id": "1x_user_2ceaacc1ddbd18acd3d172f0",
+		"username": "Pardo",
+		"address": "0x36a01C1DDB75cd9EBE5Bc803f6AE39463F61Ea9B",
+		"date": "2025-02-18",
+		"daily_amount": 3.665552
+	},
+	{
+		"user_id": "1x_user_3162953d6de7b00d837b742d",
+		"username": "Tony_PLDN",
+		"address": "0xA28eb462f9B954C63494F5C9A1348e3Cc4F91135",
+		"date": "2025-02-18",
+		"daily_amount": 11.900546
+	},
+	{
+		"user_id": "1x_user_3166fd1a2a112b451e19016c",
+		"username": "YGG_AXU_Pepito_Paragons",
+		"address": "0x839AC785D5368A762884767b1914154575E30446",
+		"date": "2025-02-18",
+		"daily_amount": 43.894293
+	},
+	{
+		"user_id": "1x_user_31a70cb056ed5002de9422c4",
+		"username": "gabrielrcha",
+		"address": "0x53AAf2B383a0Df5586dE7108BcA0E804e3f3E2EA",
+		"date": "2025-02-18",
+		"daily_amount": 0.162581
+	},
+	{
+		"user_id": "1x_user_3293dac923e368515f7a6173",
+		"username": "bounty",
+		"address": "0xC48Fe7a066b46393DaF6784b8eC4adb8ebE7489F",
+		"date": "2025-02-18",
+		"daily_amount": 6.843696
+	},
+	{
+		"user_id": "1x_user_3340adf4cf6d74e5c12c0801",
+		"username": "Mixed_Master7",
+		"address": "0x61C2A3779aBCfb9813CAbC9BA68554C2c7f090b1",
+		"date": "2025-02-18",
+		"daily_amount": 2.107096
+	},
+	{
+		"user_id": "1x_user_33fdcba3f9471c6fad705f1e",
+		"username": "ferenginar",
+		"address": "0x13f16aE446ebFd96a02A98317638ae231A19ab2f",
+		"date": "2025-02-18",
+		"daily_amount": 0.293777
+	},
+	{
+		"user_id": "1x_user_35cbdddbe16d46d788ad520f",
+		"username": "Turd_Ferguson_PGA",
+		"address": "0xa020CBDB204E6F0A6061f7E122Ac9ae4484C3B5b",
+		"date": "2025-02-18",
+		"daily_amount": 0.143431
+	},
+	{
+		"user_id": "1x_user_37533e6d5822be30d04fb28a",
+		"username": "PROFESSIONAL_CATHERINE_PLAYER",
+		"address": "0xf85a96116312C382EB97E3BcB6267d15a5acbDdE",
+		"date": "2025-02-18",
+		"daily_amount": 8.706301
+	},
+	{
+		"user_id": "1x_user_3881b3cc0c511adc71c4e80c",
+		"username": "dr_grim",
+		"address": "0x22d0794A82EEBdd10245C2d162951eB1CA6FA58b",
+		"date": "2025-02-18",
+		"daily_amount": 0.052349
+	},
+	{
+		"user_id": "1x_user_3a79b38bf44e30524ce80d6e",
+		"username": "TILT_ReizuuTheRat_YGG",
+		"address": "0x85D1837F8C16E5b2FC1470Dc12B89f8d1A7a0082",
+		"date": "2025-02-18",
+		"daily_amount": 24.300932
+	},
+	{
+		"user_id": "1x_user_3cf108378175caae458959d5",
+		"username": "btsb",
+		"address": "0xAf0688715a1a0f7189847C431010920677fb9967",
+		"date": "2025-02-18",
+		"daily_amount": 1.657504
+	},
+	{
+		"user_id": "1x_user_3ec9e918229ea14eff6bdff4",
+		"username": "rosell24",
+		"address": "0x1932677592E099A57eA4C56E31AD10A8f04678aC",
+		"date": "2025-02-18",
+		"daily_amount": 2.867374
+	},
+	{
+		"user_id": "1x_user_4b55e54ba0f079bc9606cc40",
+		"username": "Rhagga",
+		"address": "0xc4a4e1665adFea108424b3A6F2Bc9897ea62b390",
+		"date": "2025-02-18",
+		"daily_amount": 0.334457
+	},
+	{
+		"user_id": "1x_user_5305913466f9b44ddf936be8",
+		"username": "thefreeroll",
+		"address": "0x9A36C3A2a328f0b018bc4824b80199c6337d6650",
+		"date": "2025-02-18",
+		"daily_amount": 1.743063
+	},
+	{
+		"user_id": "1x_user_5a14c6d8d347c1bfa92f81fb",
+		"username": "TRICKYΞPGA",
+		"address": "0x4fdcD0496F4c2D3629C0741626DE74d24A683E50",
+		"date": "2025-02-18",
+		"daily_amount": 4.856359
+	},
+	{
+		"user_id": "1x_user_653ae252c0b26854a84791a5",
+		"username": "TILT_riyo_YGG",
+		"address": "0x2f99929b311ED60274A08f468629A3d4c6970970",
+		"date": "2025-02-18",
+		"daily_amount": 0.540022
+	},
+	{
+		"user_id": "1x_user_68547ddbfe2f45b32e68c448",
+		"username": "SySţEMEŘASEŘ",
+		"address": "0xBDc703049C7234DD581B88ee460F4E1574C2cF7b",
+		"date": "2025-02-18",
+		"daily_amount": 5.058192
+	},
+	{
+		"user_id": "1x_user_697fbe05f0e019c4b074766f",
+		"username": "Sinpar22_PGA",
+		"address": "0x8b5a9e28730ACBA1cBc7886547d674A6cd03340e",
+		"date": "2025-02-18",
+		"daily_amount": 4.131495
+	},
+	{
+		"user_id": "1x_user_69ebcd362a53a465c017d6c6",
+		"username": "lemurbeast",
+		"address": "0x3E751Ab467E9a1bB97E32C1e09d83b08b8e9Ad6F",
+		"date": "2025-02-18",
+		"daily_amount": 0.315377
+	},
+	{
+		"user_id": "1x_user_6e6138ec025dfb84e87b3ed8",
+		"username": "BRK-OUTAlethea",
+		"address": "0x99192e2B2EcB54E6D67d506d0997bd13b8314d77",
+		"date": "2025-02-18",
+		"daily_amount": 0.598953
+	},
+	{
+		"user_id": "1x_user_6fd5746e382c3585e4785b2c",
+		"username": "Paragons_Milamber",
+		"address": "0xD4f8a2348A286A1F06FAe22b6042CCeAaf2C3323",
+		"date": "2025-02-18",
+		"daily_amount": 0.056816
+	},
+	{
+		"user_id": "1x_user_73076e69e5d79a8d19102219",
+		"username": "jeremy",
+		"address": "0xbD70Ae53e48B3B94E75A9895e8B7c092856709FF",
+		"date": "2025-02-18",
+		"daily_amount": 4.366832
+	},
+	{
+		"user_id": "1x_user_737f9b44bc02379abf7345d8",
+		"username": "MARS_ATTACKS",
+		"address": "0x5FE5C7E196520c6c8CEE0770BcCD0d8702CA55F0",
+		"date": "2025-02-18",
+		"daily_amount": 8.335567
+	},
+	{
+		"user_id": "1x_user_748dc7cc74f3363ef70cadb3",
+		"username": "alee01",
+		"address": "0xFdF2886a441235516511aD2219a732271D79FEdF",
+		"date": "2025-02-18",
+		"daily_amount": 8.255381
+	},
+	{
+		"user_id": "1x_user_75fc01af2dde19ae76ff3bdc",
+		"username": "webmixgamer",
+		"address": "0x2D41211fc8a4a1639032Ead5C8EE6B867Ef70A49",
+		"date": "2025-02-18",
+		"daily_amount": 1.333349
+	},
+	{
+		"user_id": "1x_user_768f8f0ca194ad5690477fbc",
+		"username": "sattena",
+		"address": "0xB156CDdAe61B9F758A8315EB25DEeE6FBe6225A7",
+		"date": "2025-02-18",
+		"daily_amount": 2.072596
+	},
+	{
+		"user_id": "1x_user_7ba3a8e71855e7449f0e58aa",
+		"username": "ManuAMG_MDNT",
+		"address": "0x2A89C680d9d96A51f8dD52bD20AabC4A320E7dCA",
+		"date": "2025-02-18",
+		"daily_amount": 2.402377
+	},
+	{
+		"user_id": "1x_user_7c39b68babac20ff0056b364",
+		"username": "DaGG3R_TILTxYGG",
+		"address": "0x91C824BDeBC7D8AA1BeBf92C5c8e671fD0EC1bB0",
+		"date": "2025-02-18",
+		"daily_amount": 0.830026
+	},
+	{
+		"user_id": "1x_user_85245f6f102306d3b66dd29a",
+		"username": "TILT_MUTZKI_YGG",
+		"address": "0x64972370Ce902CfA23d92f4Da8B34584583764f0",
+		"date": "2025-02-18",
+		"daily_amount": 12.574505
+	},
+	{
+		"user_id": "1x_user_85fb0e9e2c998fbdd0e787a7",
+		"username": "hamster2129",
+		"address": "0x15a5450088f23Ee06907a745729809beE80562a4",
+		"date": "2025-02-18",
+		"daily_amount": 8.230226
+	},
+	{
+		"user_id": "1x_user_8c465de5ad5b49c4df6ec23f",
+		"username": "Shogo.contagion",
+		"address": "0x91881e69cbF6c2f8d844a2CdDB941087e7fc1b6c",
+		"date": "2025-02-18",
+		"daily_amount": 2.089258
+	},
+	{
+		"user_id": "1x_user_8d687d87f564c2644d0ba71a",
+		"username": "kinglizard",
+		"address": "0xE27d9E71A92eb928D033194987be22998b336068",
+		"date": "2025-02-18",
+		"daily_amount": 0.001278
+	},
+	{
+		"user_id": "1x_user_902cc2c519873780c871b363",
+		"username": "NUMAROS",
+		"address": "0xb75a7FEB8F1163664F1bd1a089b1dE1e3373477C",
+		"date": "2025-02-18",
+		"daily_amount": 2.023975
+	},
+	{
+		"user_id": "1x_user_90808c9b2dbbf5e5cf0b3059",
+		"username": "Krimkie",
+		"address": "0x171f76E56C2Bc4AbA012FBD12cb1343a49D2dE94",
+		"date": "2025-02-18",
+		"daily_amount": 0.553403
+	},
+	{
+		"user_id": "1x_user_92cc4b11c04dfd4c1c55711d",
+		"username": "SNode",
+		"address": "0x8c0d5Cf17365Df315b8d334eB5552Be9F7Ff3978",
+		"date": "2025-02-18",
+		"daily_amount": 16.716593
+	},
+	{
+		"user_id": "1x_user_9953ae483a202f1f6f38dd35",
+		"username": "JIZO_PGA",
+		"address": "0x258EA80aEA2F5e32b5da106825d2B87e55D46Bf6",
+		"date": "2025-02-18",
+		"daily_amount": 34.411427
+	},
+	{
+		"user_id": "1x_user_9bc68930e9fb09d285386839",
+		"username": "arithmos",
+		"address": "0x719C998415E137D70587b755004Cbc4f88C6cA41",
+		"date": "2025-02-18",
+		"daily_amount": 9.495504
+	},
+	{
+		"user_id": "1x_user_9bfc0c8911b72c70e45eaf4b",
+		"username": "ROBHMORAESETH",
+		"address": "0xC240d13e57A44909991D8c398C58545d44b4068d",
+		"date": "2025-02-18",
+		"daily_amount": 3.254411
+	},
+	{
+		"user_id": "1x_user_9cb0eeb12285b4681f3aa2ad",
+		"username": "0xbrand",
+		"address": "0x18Ac129F2284eb45FBc9f3a9630503AaDCE010D2",
+		"date": "2025-02-18",
+		"daily_amount": 0.032299
+	},
+	{
+		"user_id": "1x_user_a1cd523c10fd48c5d7ef3a87",
+		"username": "TILT_Kenzord_YGG",
+		"address": "0xA92debe0abE6af83ef762Ab80BdCD99b954a587f",
+		"date": "2025-02-18",
+		"daily_amount": 17.507713
+	},
+	{
+		"user_id": "1x_user_a469787c137c6a3ff82c6d8b",
+		"username": "IcedOutMan",
+		"address": "0x9b456aacabBB27c91af570F19eb8B26494673aa0",
+		"date": "2025-02-18",
+		"daily_amount": 7.158693
+	},
+	{
+		"user_id": "1x_user_a76a494fe3a629838daaf1e4",
+		"username": "TILT_vynchi_YGG_BreederDAO",
+		"address": "0x1Db4EeD9f24d4E54DB541413C5D3802f0c7c1a81",
+		"date": "2025-02-18",
+		"daily_amount": 36.525574
+	},
+	{
+		"user_id": "1x_user_aacb7bdf6fadd8c46d2bb2d4",
+		"username": "heyyawn",
+		"address": "0x8F09EeF679904F64752523f95dB664039dF278e2",
+		"date": "2025-02-18",
+		"daily_amount": 0.367179
+	},
+	{
+		"user_id": "1x_user_afbc59251166e93cd052e853",
+		"username": "garrosh",
+		"address": "0x6dD2356ACeCB9875e6152EB34B34cB435250A4a0",
+		"date": "2025-02-18",
+		"daily_amount": 0.404793
+	},
+	{
+		"user_id": "1x_user_b137c540a5de5788455b612a",
+		"username": "BradThe3rd@nerf.shroud",
+		"address": "0xfC9dD877930e9799BeB663523BD31EefE3C99597",
+		"date": "2025-02-18",
+		"daily_amount": 3.945025
+	},
+	{
+		"user_id": "1x_user_b5809b753b7b856748e5f494",
+		"username": "Schmidt_YGGxTILT",
+		"address": "0x144149CD65e299A7808f6c38741278B246a4b04A",
+		"date": "2025-02-18",
+		"daily_amount": 0.6229
+	},
+	{
+		"user_id": "1x_user_b8c7ad63c2f84e6e36a98f12",
+		"username": "exie_win_YGG",
+		"address": "0xfAC5B8f8668b7158cF6A5dE01f20f207AC011cA7",
+		"date": "2025-02-18",
+		"daily_amount": 25.316502
+	},
+	{
+		"user_id": "1x_user_bc84ff8c178d7bcec754134b",
+		"username": "Jimon_Exile",
+		"address": "0xD7837508c7A246326F8F7584674495CBe4AFD56e",
+		"date": "2025-02-18",
+		"daily_amount": 16.111185
+	},
+	{
+		"user_id": "1x_user_bde36076074526b110c1cfee",
+		"username": "thebrasiliankid",
+		"address": "0xA810f9A8375451f8CE640809AF1Ca15227705165",
+		"date": "2025-02-18",
+		"daily_amount": 2.432842
+	},
+	{
+		"user_id": "1x_user_bfec679dc497c1fe63ef3dac",
+		"username": "Eclipse-Paragons",
+		"address": "0xa9E8529bbB2877bA2871Eae5b4DA0B886001B703",
+		"date": "2025-02-18",
+		"daily_amount": 0.024766
+	},
+	{
+		"user_id": "1x_user_c6d4492df13763e721362647",
+		"username": "Wolfy",
+		"address": "0xc6e4637aEF0D61b2071405CbAb076aBf03EAA310",
+		"date": "2025-02-18",
+		"daily_amount": 0.113494
+	},
+	{
+		"user_id": "1x_user_cb93870a5d7d87626d2ed765",
+		"username": "TalkDegenToMe",
+		"address": "0x51AA851817AdB2363b910F5835C9F72b949349D1",
+		"date": "2025-02-18",
+		"daily_amount": 0.090362
+	},
+	{
+		"user_id": "1x_user_cf1ded5c20248e202b089cf2",
+		"username": "backmorda",
+		"address": "0x8C4450D3B41A2981B2a9dE320864044C50823cbF",
+		"date": "2025-02-18",
+		"daily_amount": 10.054105
+	},
+	{
+		"user_id": "1x_user_d0ff0db7acea76040c3fc59f",
+		"username": "JLLATCHE",
+		"address": "0xE23F391Ed038A672a6eFb12f047AC122d361307C",
+		"date": "2025-02-18",
+		"daily_amount": 0.33897
+	},
+	{
+		"user_id": "1x_user_d538384c07d3581a46479e39",
+		"username": "iracer77",
+		"address": "0xc82414b8BD237A0f79596c3CE7Dc00F63b70Ca6f",
+		"date": "2025-02-18",
+		"daily_amount": 34.027129
+	},
+	{
+		"user_id": "1x_user_d58f8e09c3981a3b375bb4f5",
+		"username": "Manos",
+		"address": "0x6D07d1785091bd1e03cF353BcD593c54D16a93C9",
+		"date": "2025-02-18",
+		"daily_amount": 36.199636
+	},
+	{
+		"user_id": "1x_user_d893e14bc264413bc95f5657",
+		"username": "mark1o1",
+		"address": "0x6518494c994CC274ECfaaBa94b459d510554Ea79",
+		"date": "2025-02-18",
+		"daily_amount": 4.632556
+	},
+	{
+		"user_id": "1x_user_d8ee619031991fd1be12ac6d",
+		"username": "SlyCOOPER",
+		"address": "0x6283913Ad056f5e8b52A3D02D72930C0D5DDE313",
+		"date": "2025-02-18",
+		"daily_amount": 2.263291
+	},
+	{
+		"user_id": "1x_user_db0d99498b56b8ceadbe34d4",
+		"username": "YGG_AxU_Nocturnal_Paragons",
+		"address": "0x9F44a22C944bC39f2434E8A65a4b41F655c0c0DC",
+		"date": "2025-02-18",
+		"daily_amount": 42.556929
+	},
+	{
+		"user_id": "1x_user_dd4e76452ebbfa4b279fd6e7",
+		"username": "JasonFleurant",
+		"address": "0x078Fd970277063590BfF4cAF57380cf0F8b38f74",
+		"date": "2025-02-18",
+		"daily_amount": 0.423202
+	},
+	{
+		"user_id": "1x_user_ded14b8f189c2b7ca41b1d6d",
+		"username": "dieselnoi",
+		"address": "0xcBD03398e72B17cCd09ffcD7cc6C6071b50aF059",
+		"date": "2025-02-18",
+		"daily_amount": 36.774788
+	},
+	{
+		"user_id": "1x_user_df3723369fc5e6b782bdb87e",
+		"username": "kaktuzboy",
+		"address": "0xBDcaebd9570AED98ce53CC57F5a8DbF9b3c80579",
+		"date": "2025-02-18",
+		"daily_amount": 1.107354
+	},
+	{
+		"user_id": "1x_user_dfbbc116ded7394ae2fa58fa",
+		"username": "BrightAvian_EXILE_YGG",
+		"address": "0x5aA5c645F8bb12a92c3ED8232C58bD94B13c09e2",
+		"date": "2025-02-18",
+		"daily_amount": 26.092337
+	},
+	{
+		"user_id": "1x_user_e1aedf3103b128d055a65ebf",
+		"username": "Ganera_Exile",
+		"address": "0xA18690Ba687E05b9574e77D1d6Fc7Dfe8bB2575F",
+		"date": "2025-02-18",
+		"daily_amount": 0.333926
+	},
+	{
+		"user_id": "1x_user_e393961114093d6658cda428",
+		"username": "kartoha.Paragons.DevGG",
+		"address": "0x97f25d7dfdA8c1bC7dc578C6Dc853F73AED5b37C",
+		"date": "2025-02-18",
+		"daily_amount": 0.003188
+	},
+	{
+		"user_id": "1x_user_ed71e519a7b52a2919fb7a50",
+		"username": "antonioroca068",
+		"address": "0x1f08Cd4bc400c015892e1168cc1A3CD29C5e516D",
+		"date": "2025-02-18",
+		"daily_amount": 9.971731
+	},
+	{
+		"user_id": "1x_user_f1ed937946ccb6eb57d7f8fd",
+		"username": "kaslow",
+		"address": "0x9266bc14BBD9fD5cA11D85B8720EA5A735B40000",
+		"date": "2025-02-18",
+		"daily_amount": 3.935587
+	},
+	{
+		"user_id": "1x_user_f2db9c3b3273ca4d9d68b15d",
+		"username": "Sequinox_YGG",
+		"address": "0x7a0A871C626f41b1b1CAeC66B926B1f788eb747F",
+		"date": "2025-02-18",
+		"daily_amount": 55.175577
+	},
+	{
+		"user_id": "1x_user_f3541d9d49b740801c6875e6",
+		"username": "beijingdouEXILE",
+		"address": "0xaf469C4a0914938e6149CF621c54FB4b1EC0c202",
+		"date": "2025-02-18",
+		"daily_amount": 0.589227
+	},
+	{
+		"user_id": "1x_user_f42c52750af2f1384be94471",
+		"username": "mysonarcaptain_MDNT",
+		"address": "0x0040Df12FDDd28be28f37152cB51c28b18f71135",
+		"date": "2025-02-18",
+		"daily_amount": 0.259674
+	},
+	{
+		"user_id": "1x_user_f83a709f84d0e63477eaa23c",
+		"username": "dunder",
+		"address": "0x51cb98595387D58a9B313eD767d0C0B769ddD4fD",
+		"date": "2025-02-18",
+		"daily_amount": 0.294972
+	},
+	{
+		"user_id": "1x_user_ff1a99eb0b34999290d4ab3d",
+		"username": "Nevermind_Paragons",
+		"address": "0x3B057cd1b4190B838709D380ACaC0306D010C7a1",
+		"date": "2025-02-18",
+		"daily_amount": 23.713159
+	},
+	{
+		"user_id": "1x_user_0137c0da5c61031d6892a12e",
+		"username": "Malston_Exile",
+		"address": "0x11B4E83BC3e9605F03E2A4C34BD09567be5aeBBE",
+		"date": "2025-03-19",
+		"daily_amount": 7.42669
+	},
+	{
+		"user_id": "1x_user_01b39543a0e45139f20b0241",
+		"username": "anaperez43",
+		"address": "0xffEFf80803F010d19C9cccCD3581B7527e028B52",
+		"date": "2025-03-19",
+		"daily_amount": 3.383416
+	},
+	{
+		"user_id": "1x_user_03c1c7ef8655ade08be5079a",
+		"username": "synist3r",
+		"address": "0xAfbEe4d7f883E6Ab842e9623a9d595Ff6B7AAfD7",
+		"date": "2025-03-19",
+		"daily_amount": 6.890208
+	},
+	{
+		"user_id": "1x_user_0a2614c9ff793b5a7b77fce5",
+		"username": "HyllusDiardi001_Exile",
+		"address": "0xef3f446dd3d130aec11d273f01539b6504f81D20",
+		"date": "2025-03-19",
+		"daily_amount": 29.073389
+	},
+	{
+		"user_id": "1x_user_0c41e0cfa263cd67ff0f8232",
+		"username": "Mookah",
+		"address": "0x1a94578c4db2C90042c62FB0311FE1423659475b",
+		"date": "2025-03-19",
+		"daily_amount": 0.044572
+	},
+	{
+		"user_id": "1x_user_0c48997413da966974d15954",
+		"username": "Zeliaser_YGG",
+		"address": "0xf61C5f77194CFA3399Ab49c86c1cF722b275077f",
+		"date": "2025-03-19",
+		"daily_amount": 14.523753
+	},
+	{
+		"user_id": "1x_user_0fb425d8dcc8b7593c48c707",
+		"username": "XAVI324",
+		"address": "0x2a1d7482a179308Da13F316b2b466A22DDE59f83",
+		"date": "2025-03-19",
+		"daily_amount": 21.450325
+	},
+	{
+		"user_id": "1x_user_10315890e81dd43477b3a59c",
+		"username": "spaceman7",
+		"address": "0x3dDB69473881a8f0c73419293519994C14603b12",
+		"date": "2025-03-19",
+		"daily_amount": 1.206781
+	},
+	{
+		"user_id": "1x_user_181b20d9323e785f965f1b4f",
+		"username": "Comfortable",
+		"address": "0xF98A854bc00eAa854894d79e11315A2114C58120",
+		"date": "2025-03-19",
+		"daily_amount": 14.668771
+	},
+	{
+		"user_id": "1x_user_2bafbbf6fbc9d330ee6ca4b9",
+		"username": "TILT_bin.",
+		"address": "0x3a8890442b3407f53f331BddB95FE0cA2E4A4327",
+		"date": "2025-03-19",
+		"daily_amount": 40.888938
+	},
+	{
+		"user_id": "1x_user_2ceaacc1ddbd18acd3d172f0",
+		"username": "Pardo",
+		"address": "0x36a01C1DDB75cd9EBE5Bc803f6AE39463F61Ea9B",
+		"date": "2025-03-19",
+		"daily_amount": 1.889069
+	},
+	{
+		"user_id": "1x_user_3162953d6de7b00d837b742d",
+		"username": "Tony_PLDN",
+		"address": "0xA28eb462f9B954C63494F5C9A1348e3Cc4F91135",
+		"date": "2025-03-19",
+		"daily_amount": 39.96331
+	},
+	{
+		"user_id": "1x_user_3166fd1a2a112b451e19016c",
+		"username": "YGG_AXU_Pepito_Paragons",
+		"address": "0x839AC785D5368A762884767b1914154575E30446",
+		"date": "2025-03-19",
+		"daily_amount": 51.94448
+	},
+	{
+		"user_id": "1x_user_31a70cb056ed5002de9422c4",
+		"username": "gabrielrcha",
+		"address": "0x53AAf2B383a0Df5586dE7108BcA0E804e3f3E2EA",
+		"date": "2025-03-19",
+		"daily_amount": 1.218268
+	},
+	{
+		"user_id": "1x_user_3293dac923e368515f7a6173",
+		"username": "bounty",
+		"address": "0xC48Fe7a066b46393DaF6784b8eC4adb8ebE7489F",
+		"date": "2025-03-19",
+		"daily_amount": 7.229857
+	},
+	{
+		"user_id": "1x_user_35cbdddbe16d46d788ad520f",
+		"username": "Turd_Ferguson_PGA",
+		"address": "0xa020CBDB204E6F0A6061f7E122Ac9ae4484C3B5b",
+		"date": "2025-03-19",
+		"daily_amount": 0.025056
+	},
+	{
+		"user_id": "1x_user_37533e6d5822be30d04fb28a",
+		"username": "PROFESSIONAL_CATHERINE_PLAYER",
+		"address": "0xf85a96116312C382EB97E3BcB6267d15a5acbDdE",
+		"date": "2025-03-19",
+		"daily_amount": 10.753878
+	},
+	{
+		"user_id": "1x_user_3a79b38bf44e30524ce80d6e",
+		"username": "TILT_ReizuuTheRat_YGG",
+		"address": "0x85D1837F8C16E5b2FC1470Dc12B89f8d1A7a0082",
+		"date": "2025-03-19",
+		"daily_amount": 64.0168
+	},
+	{
+		"user_id": "1x_user_3cf108378175caae458959d5",
+		"username": "btsb",
+		"address": "0xAf0688715a1a0f7189847C431010920677fb9967",
+		"date": "2025-03-19",
+		"daily_amount": 1.729617
+	},
+	{
+		"user_id": "1x_user_3ec9e918229ea14eff6bdff4",
+		"username": "rosell24",
+		"address": "0x1932677592E099A57eA4C56E31AD10A8f04678aC",
+		"date": "2025-03-19",
+		"daily_amount": 0.117608
+	},
+	{
+		"user_id": "1x_user_42313781dfd57c82141dc2de",
+		"username": "Charrua23",
+		"address": "0x34Ab33B21ae520e7bbb2d0c227115a6Bc166F748",
+		"date": "2025-03-19",
+		"daily_amount": 4.323262
+	},
+	{
+		"user_id": "1x_user_58b8bb87227e1c80ca7e99de",
+		"username": "artcank",
+		"address": "0x60c5613f170b4Bd87DD1c49d7fe3990801886e9c",
+		"date": "2025-03-19",
+		"daily_amount": 7.782816
+	},
+	{
+		"user_id": "1x_user_5a14c6d8d347c1bfa92f81fb",
+		"username": "TRICKYΞPGA",
+		"address": "0x4fdcD0496F4c2D3629C0741626DE74d24A683E50",
+		"date": "2025-03-19",
+		"daily_amount": 5.596879
+	},
+	{
+		"user_id": "1x_user_68547ddbfe2f45b32e68c448",
+		"username": "SySţEMEŘASEŘ",
+		"address": "0xBDc703049C7234DD581B88ee460F4E1574C2cF7b",
+		"date": "2025-03-19",
+		"daily_amount": 3.192865
+	},
+	{
+		"user_id": "1x_user_69ebcd362a53a465c017d6c6",
+		"username": "lemurbeast",
+		"address": "0x3E751Ab467E9a1bB97E32C1e09d83b08b8e9Ad6F",
+		"date": "2025-03-19",
+		"daily_amount": 0.008816
+	},
+	{
+		"user_id": "1x_user_73076e69e5d79a8d19102219",
+		"username": "jeremy",
+		"address": "0xbD70Ae53e48B3B94E75A9895e8B7c092856709FF",
+		"date": "2025-03-19",
+		"daily_amount": 13.758157
+	},
+	{
+		"user_id": "1x_user_737f9b44bc02379abf7345d8",
+		"username": "MARS_ATTACKS",
+		"address": "0x5FE5C7E196520c6c8CEE0770BcCD0d8702CA55F0",
+		"date": "2025-03-19",
+		"daily_amount": 7.941788
+	},
+	{
+		"user_id": "1x_user_748dc7cc74f3363ef70cadb3",
+		"username": "alee01",
+		"address": "0xFdF2886a441235516511aD2219a732271D79FEdF",
+		"date": "2025-03-19",
+		"daily_amount": 9.350298
+	},
+	{
+		"user_id": "1x_user_75fc01af2dde19ae76ff3bdc",
+		"username": "webmixgamer",
+		"address": "0x2D41211fc8a4a1639032Ead5C8EE6B867Ef70A49",
+		"date": "2025-03-19",
+		"daily_amount": 0.127002
+	},
+	{
+		"user_id": "1x_user_768f8f0ca194ad5690477fbc",
+		"username": "sattena",
+		"address": "0xB156CDdAe61B9F758A8315EB25DEeE6FBe6225A7",
+		"date": "2025-03-19",
+		"daily_amount": 11.700727
+	},
+	{
+		"user_id": "1x_user_7ba3a8e71855e7449f0e58aa",
+		"username": "ManuAMG_MDNT",
+		"address": "0x2A89C680d9d96A51f8dD52bD20AabC4A320E7dCA",
+		"date": "2025-03-19",
+		"daily_amount": 3.28006
+	},
+	{
+		"user_id": "1x_user_7c39b68babac20ff0056b364",
+		"username": "DaGG3R_TILTxYGG",
+		"address": "0x91C824BDeBC7D8AA1BeBf92C5c8e671fD0EC1bB0",
+		"date": "2025-03-19",
+		"daily_amount": 7.459699
+	},
+	{
+		"user_id": "1x_user_85245f6f102306d3b66dd29a",
+		"username": "TILT_MUTZKI_YGG",
+		"address": "0x64972370Ce902CfA23d92f4Da8B34584583764f0",
+		"date": "2025-03-19",
+		"daily_amount": 7.520454
+	},
+	{
+		"user_id": "1x_user_85fb0e9e2c998fbdd0e787a7",
+		"username": "hamster2129",
+		"address": "0x15a5450088f23Ee06907a745729809beE80562a4",
+		"date": "2025-03-19",
+		"daily_amount": 6.106525
+	},
+	{
+		"user_id": "1x_user_8c465de5ad5b49c4df6ec23f",
+		"username": "Shogo.contagion",
+		"address": "0x91881e69cbF6c2f8d844a2CdDB941087e7fc1b6c",
+		"date": "2025-03-19",
+		"daily_amount": 23.647786
+	},
+	{
+		"user_id": "1x_user_902cc2c519873780c871b363",
+		"username": "NUMAROS",
+		"address": "0xb75a7FEB8F1163664F1bd1a089b1dE1e3373477C",
+		"date": "2025-03-19",
+		"daily_amount": 0.862639
+	},
+	{
+		"user_id": "1x_user_92cc4b11c04dfd4c1c55711d",
+		"username": "SNode",
+		"address": "0x8c0d5Cf17365Df315b8d334eB5552Be9F7Ff3978",
+		"date": "2025-03-19",
+		"daily_amount": 34.470331
+	},
+	{
+		"user_id": "1x_user_94ba0133cc399fbd551a7a0f",
+		"username": "flapjackson",
+		"address": "0x9b0C74924A7f6B4A54e7a02f7D56BBe9605bb629",
+		"date": "2025-03-19",
+		"daily_amount": 0.024822
+	},
+	{
+		"user_id": "1x_user_9953ae483a202f1f6f38dd35",
+		"username": "JIZO_PGA",
+		"address": "0x258EA80aEA2F5e32b5da106825d2B87e55D46Bf6",
+		"date": "2025-03-19",
+		"daily_amount": 47.767113
+	},
+	{
+		"user_id": "1x_user_9bc68930e9fb09d285386839",
+		"username": "arithmos",
+		"address": "0x719C998415E137D70587b755004Cbc4f88C6cA41",
+		"date": "2025-03-19",
+		"daily_amount": 25.921141
+	},
+	{
+		"user_id": "1x_user_a1cd523c10fd48c5d7ef3a87",
+		"username": "TILT_Kenzord_YGG",
+		"address": "0xA92debe0abE6af83ef762Ab80BdCD99b954a587f",
+		"date": "2025-03-19",
+		"daily_amount": 13.414385
+	},
+	{
+		"user_id": "1x_user_a469787c137c6a3ff82c6d8b",
+		"username": "IcedOutMan",
+		"address": "0x9b456aacabBB27c91af570F19eb8B26494673aa0",
+		"date": "2025-03-19",
+		"daily_amount": 29.992625
+	},
+	{
+		"user_id": "1x_user_a76a494fe3a629838daaf1e4",
+		"username": "TILT_vynchi_YGG_BreederDAO",
+		"address": "0x1Db4EeD9f24d4E54DB541413C5D3802f0c7c1a81",
+		"date": "2025-03-19",
+		"daily_amount": 36.582616
+	},
+	{
+		"user_id": "1x_user_b137c540a5de5788455b612a",
+		"username": "BradThe3rd@nerf.shroud",
+		"address": "0xfC9dD877930e9799BeB663523BD31EefE3C99597",
+		"date": "2025-03-19",
+		"daily_amount": 0.92801
+	},
+	{
+		"user_id": "1x_user_b5809b753b7b856748e5f494",
+		"username": "Schmidt_YGGxTILT",
+		"address": "0x144149CD65e299A7808f6c38741278B246a4b04A",
+		"date": "2025-03-19",
+		"daily_amount": 0.005448
+	},
+	{
+		"user_id": "1x_user_b8c7ad63c2f84e6e36a98f12",
+		"username": "exie_win_YGG",
+		"address": "0xfAC5B8f8668b7158cF6A5dE01f20f207AC011cA7",
+		"date": "2025-03-19",
+		"daily_amount": 44.830763
+	},
+	{
+		"user_id": "1x_user_bc84ff8c178d7bcec754134b",
+		"username": "Jimon_Exile",
+		"address": "0xD7837508c7A246326F8F7584674495CBe4AFD56e",
+		"date": "2025-03-19",
+		"daily_amount": 18.726234
+	},
+	{
+		"user_id": "1x_user_c6d4492df13763e721362647",
+		"username": "Wolfy",
+		"address": "0xc6e4637aEF0D61b2071405CbAb076aBf03EAA310",
+		"date": "2025-03-19",
+		"daily_amount": 0.032159
+	},
+	{
+		"user_id": "1x_user_cb93870a5d7d87626d2ed765",
+		"username": "TalkDegenToMe",
+		"address": "0x51AA851817AdB2363b910F5835C9F72b949349D1",
+		"date": "2025-03-19",
+		"daily_amount": 0.024389
+	},
+	{
+		"user_id": "1x_user_cf1ded5c20248e202b089cf2",
+		"username": "backmorda",
+		"address": "0x8C4450D3B41A2981B2a9dE320864044C50823cbF",
+		"date": "2025-03-19",
+		"daily_amount": 12.963721
+	},
+	{
+		"user_id": "1x_user_d538384c07d3581a46479e39",
+		"username": "iracer77",
+		"address": "0xc82414b8BD237A0f79596c3CE7Dc00F63b70Ca6f",
+		"date": "2025-03-19",
+		"daily_amount": 34.196105
+	},
+	{
+		"user_id": "1x_user_d58f8e09c3981a3b375bb4f5",
+		"username": "Manos",
+		"address": "0x6D07d1785091bd1e03cF353BcD593c54D16a93C9",
+		"date": "2025-03-19",
+		"daily_amount": 45.787954
+	},
+	{
+		"user_id": "1x_user_d893e14bc264413bc95f5657",
+		"username": "mark1o1",
+		"address": "0x6518494c994CC274ECfaaBa94b459d510554Ea79",
+		"date": "2025-03-19",
+		"daily_amount": 1.875383
+	},
+	{
+		"user_id": "1x_user_d8ee619031991fd1be12ac6d",
+		"username": "SlyCOOPER",
+		"address": "0x6283913Ad056f5e8b52A3D02D72930C0D5DDE313",
+		"date": "2025-03-19",
+		"daily_amount": 0.562127
+	},
+	{
+		"user_id": "1x_user_db0d99498b56b8ceadbe34d4",
+		"username": "YGG_AxU_Nocturnal_Paragons",
+		"address": "0x9F44a22C944bC39f2434E8A65a4b41F655c0c0DC",
+		"date": "2025-03-19",
+		"daily_amount": 16.097439
+	},
+	{
+		"user_id": "1x_user_dd4e76452ebbfa4b279fd6e7",
+		"username": "JasonFleurant",
+		"address": "0x078Fd970277063590BfF4cAF57380cf0F8b38f74",
+		"date": "2025-03-19",
+		"daily_amount": 0.002855
+	},
+	{
+		"user_id": "1x_user_ded14b8f189c2b7ca41b1d6d",
+		"username": "dieselnoi",
+		"address": "0xcBD03398e72B17cCd09ffcD7cc6C6071b50aF059",
+		"date": "2025-03-19",
+		"daily_amount": 55.337825
+	},
+	{
+		"user_id": "1x_user_df3723369fc5e6b782bdb87e",
+		"username": "kaktuzboy",
+		"address": "0xBDcaebd9570AED98ce53CC57F5a8DbF9b3c80579",
+		"date": "2025-03-19",
+		"daily_amount": 1.187203
+	},
+	{
+		"user_id": "1x_user_dfbbc116ded7394ae2fa58fa",
+		"username": "BrightAvian_EXILE_YGG",
+		"address": "0x5aA5c645F8bb12a92c3ED8232C58bD94B13c09e2",
+		"date": "2025-03-19",
+		"daily_amount": 7.468285
+	},
+	{
+		"user_id": "1x_user_e1aedf3103b128d055a65ebf",
+		"username": "Ganera_Exile",
+		"address": "0xA18690Ba687E05b9574e77D1d6Fc7Dfe8bB2575F",
+		"date": "2025-03-19",
+		"daily_amount": 0.007309
+	},
+	{
+		"user_id": "1x_user_e393961114093d6658cda428",
+		"username": "kartoha.Paragons.DevGG",
+		"address": "0x97f25d7dfdA8c1bC7dc578C6Dc853F73AED5b37C",
+		"date": "2025-03-19",
+		"daily_amount": 1.560321
+	},
+	{
+		"user_id": "1x_user_ed71e519a7b52a2919fb7a50",
+		"username": "antonioroca068",
+		"address": "0x1f08Cd4bc400c015892e1168cc1A3CD29C5e516D",
+		"date": "2025-03-19",
+		"daily_amount": 14.824411
+	},
+	{
+		"user_id": "1x_user_f2db9c3b3273ca4d9d68b15d",
+		"username": "Sequinox_YGG",
+		"address": "0x7a0A871C626f41b1b1CAeC66B926B1f788eb747F",
+		"date": "2025-03-19",
+		"daily_amount": 40.244758
+	},
+	{
+		"user_id": "1x_user_f3541d9d49b740801c6875e6",
+		"username": "beijingdouEXILE",
+		"address": "0xaf469C4a0914938e6149CF621c54FB4b1EC0c202",
+		"date": "2025-03-19",
+		"daily_amount": 0.039625
+	},
+	{
+		"user_id": "1x_user_f83a709f84d0e63477eaa23c",
+		"username": "dunder",
+		"address": "0x51cb98595387D58a9B313eD767d0C0B769ddD4fD",
+		"date": "2025-03-19",
+		"daily_amount": 0.004166
+	},
+	{
+		"user_id": "1x_user_ff1a99eb0b34999290d4ab3d",
+		"username": "Nevermind_Paragons",
+		"address": "0x3B057cd1b4190B838709D380ACaC0306D010C7a1",
+		"date": "2025-03-19",
+		"daily_amount": 7.983918
+	},
+	{
+		"user_id": "1x_user_0137c0da5c61031d6892a12e",
+		"username": "Malston_Exile",
+		"address": "0x11B4E83BC3e9605F03E2A4C34BD09567be5aeBBE",
+		"date": "2025-04-17",
+		"daily_amount": 36.167996
+	},
+	{
+		"user_id": "1x_user_03c1c7ef8655ade08be5079a",
+		"username": "synist3r",
+		"address": "0xAfbEe4d7f883E6Ab842e9623a9d595Ff6B7AAfD7",
+		"date": "2025-04-17",
+		"daily_amount": 1.710552
+	},
+	{
+		"user_id": "1x_user_0a2614c9ff793b5a7b77fce5",
+		"username": "HyllusDiardi001_Exile",
+		"address": "0xef3f446dd3d130aec11d273f01539b6504f81D20",
+		"date": "2025-04-17",
+		"daily_amount": 55.92549
+	},
+	{
+		"user_id": "1x_user_0c41e0cfa263cd67ff0f8232",
+		"username": "Mookah",
+		"address": "0x1a94578c4db2C90042c62FB0311FE1423659475b",
+		"date": "2025-04-17",
+		"daily_amount": 0.001603
+	},
+	{
+		"user_id": "1x_user_0c48997413da966974d15954",
+		"username": "Zeliaser_YGG",
+		"address": "0xf61C5f77194CFA3399Ab49c86c1cF722b275077f",
+		"date": "2025-04-17",
+		"daily_amount": 79.064222
+	},
+	{
+		"user_id": "1x_user_0fb425d8dcc8b7593c48c707",
+		"username": "XAVI324",
+		"address": "0x2a1d7482a179308Da13F316b2b466A22DDE59f83",
+		"date": "2025-04-17",
+		"daily_amount": 31.445659
+	},
+	{
+		"user_id": "1x_user_181b20d9323e785f965f1b4f",
+		"username": "Comfortable",
+		"address": "0xF98A854bc00eAa854894d79e11315A2114C58120",
+		"date": "2025-04-17",
+		"daily_amount": 23.825992
+	},
+	{
+		"user_id": "1x_user_2bafbbf6fbc9d330ee6ca4b9",
+		"username": "TILT_bin.",
+		"address": "0x3a8890442b3407f53f331BddB95FE0cA2E4A4327",
+		"date": "2025-04-17",
+		"daily_amount": 65.740896
+	},
+	{
+		"user_id": "1x_user_2ceaacc1ddbd18acd3d172f0",
+		"username": "Pardo",
+		"address": "0x36a01C1DDB75cd9EBE5Bc803f6AE39463F61Ea9B",
+		"date": "2025-04-17",
+		"daily_amount": 0.351715
+	},
+	{
+		"user_id": "1x_user_3162953d6de7b00d837b742d",
+		"username": "Tony_PLDN",
+		"address": "0xA28eb462f9B954C63494F5C9A1348e3Cc4F91135",
+		"date": "2025-04-17",
+		"daily_amount": 25.71595
+	},
+	{
+		"user_id": "1x_user_3166fd1a2a112b451e19016c",
+		"username": "YGG_AXU_Pepito_Paragons",
+		"address": "0x839AC785D5368A762884767b1914154575E30446",
+		"date": "2025-04-17",
+		"daily_amount": 30.413727
+	},
+	{
+		"user_id": "1x_user_31a70cb056ed5002de9422c4",
+		"username": "gabrielrcha",
+		"address": "0x53AAf2B383a0Df5586dE7108BcA0E804e3f3E2EA",
+		"date": "2025-04-17",
+		"daily_amount": 0.770293
+	},
+	{
+		"user_id": "1x_user_3293dac923e368515f7a6173",
+		"username": "bounty",
+		"address": "0xC48Fe7a066b46393DaF6784b8eC4adb8ebE7489F",
+		"date": "2025-04-17",
+		"daily_amount": 9.025747
+	},
+	{
+		"user_id": "1x_user_35cbdddbe16d46d788ad520f",
+		"username": "Turd_Ferguson_PGA",
+		"address": "0xa020CBDB204E6F0A6061f7E122Ac9ae4484C3B5b",
+		"date": "2025-04-17",
+		"daily_amount": 0.020463
+	},
+	{
+		"user_id": "1x_user_37533e6d5822be30d04fb28a",
+		"username": "PROFESSIONAL_CATHERINE_PLAYER",
+		"address": "0xf85a96116312C382EB97E3BcB6267d15a5acbDdE",
+		"date": "2025-04-17",
+		"daily_amount": 7.033611
+	},
+	{
+		"user_id": "1x_user_3a79b38bf44e30524ce80d6e",
+		"username": "TILT_ReizuuTheRat_YGG",
+		"address": "0x85D1837F8C16E5b2FC1470Dc12B89f8d1A7a0082",
+		"date": "2025-04-17",
+		"daily_amount": 88.406736
+	},
+	{
+		"user_id": "1x_user_42313781dfd57c82141dc2de",
+		"username": "Charrua23",
+		"address": "0x34Ab33B21ae520e7bbb2d0c227115a6Bc166F748",
+		"date": "2025-04-17",
+		"daily_amount": 1.600473
+	},
+	{
+		"user_id": "1x_user_5305913466f9b44ddf936be8",
+		"username": "thefreeroll",
+		"address": "0x9A36C3A2a328f0b018bc4824b80199c6337d6650",
+		"date": "2025-04-17",
+		"daily_amount": 0.391436
+	},
+	{
+		"user_id": "1x_user_58b8bb87227e1c80ca7e99de",
+		"username": "artcank",
+		"address": "0x60c5613f170b4Bd87DD1c49d7fe3990801886e9c",
+		"date": "2025-04-17",
+		"daily_amount": 8.706231
+	},
+	{
+		"user_id": "1x_user_5a14c6d8d347c1bfa92f81fb",
+		"username": "TRICKYΞPGA",
+		"address": "0x4fdcD0496F4c2D3629C0741626DE74d24A683E50",
+		"date": "2025-04-17",
+		"daily_amount": 13.078281
+	},
+	{
+		"user_id": "1x_user_68547ddbfe2f45b32e68c448",
+		"username": "SySţEMEŘASEŘ",
+		"address": "0xBDc703049C7234DD581B88ee460F4E1574C2cF7b",
+		"date": "2025-04-17",
+		"daily_amount": 2.972871
+	},
+	{
+		"user_id": "1x_user_69ebcd362a53a465c017d6c6",
+		"username": "lemurbeast",
+		"address": "0x3E751Ab467E9a1bB97E32C1e09d83b08b8e9Ad6F",
+		"date": "2025-04-17",
+		"daily_amount": 0.397332
+	},
+	{
+		"user_id": "1x_user_73076e69e5d79a8d19102219",
+		"username": "jeremy",
+		"address": "0xbD70Ae53e48B3B94E75A9895e8B7c092856709FF",
+		"date": "2025-04-17",
+		"daily_amount": 26.682064
+	},
+	{
+		"user_id": "1x_user_737f9b44bc02379abf7345d8",
+		"username": "MARS_ATTACKS",
+		"address": "0x5FE5C7E196520c6c8CEE0770BcCD0d8702CA55F0",
+		"date": "2025-04-17",
+		"daily_amount": 15.516215
+	},
+	{
+		"user_id": "1x_user_748dc7cc74f3363ef70cadb3",
+		"username": "alee01",
+		"address": "0xFdF2886a441235516511aD2219a732271D79FEdF",
+		"date": "2025-04-17",
+		"daily_amount": 10.308651
+	},
+	{
+		"user_id": "1x_user_75fc01af2dde19ae76ff3bdc",
+		"username": "webmixgamer",
+		"address": "0x2D41211fc8a4a1639032Ead5C8EE6B867Ef70A49",
+		"date": "2025-04-17",
+		"daily_amount": 0.154384
+	},
+	{
+		"user_id": "1x_user_768f8f0ca194ad5690477fbc",
+		"username": "sattena",
+		"address": "0xB156CDdAe61B9F758A8315EB25DEeE6FBe6225A7",
+		"date": "2025-04-17",
+		"daily_amount": 16.294773
+	},
+	{
+		"user_id": "1x_user_7ba3a8e71855e7449f0e58aa",
+		"username": "ManuAMG_MDNT",
+		"address": "0x2A89C680d9d96A51f8dD52bD20AabC4A320E7dCA",
+		"date": "2025-04-17",
+		"daily_amount": 2.177849
+	},
+	{
+		"user_id": "1x_user_7c39b68babac20ff0056b364",
+		"username": "DaGG3R_TILTxYGG",
+		"address": "0x91C824BDeBC7D8AA1BeBf92C5c8e671fD0EC1bB0",
+		"date": "2025-04-17",
+		"daily_amount": 7.653204
+	},
+	{
+		"user_id": "1x_user_85245f6f102306d3b66dd29a",
+		"username": "TILT_MUTZKI_YGG",
+		"address": "0x64972370Ce902CfA23d92f4Da8B34584583764f0",
+		"date": "2025-04-17",
+		"daily_amount": 7.625458
+	},
+	{
+		"user_id": "1x_user_85fb0e9e2c998fbdd0e787a7",
+		"username": "hamster2129",
+		"address": "0x15a5450088f23Ee06907a745729809beE80562a4",
+		"date": "2025-04-17",
+		"daily_amount": 8.468587
+	},
+	{
+		"user_id": "1x_user_8c465de5ad5b49c4df6ec23f",
+		"username": "Shogo.contagion",
+		"address": "0x91881e69cbF6c2f8d844a2CdDB941087e7fc1b6c",
+		"date": "2025-04-17",
+		"daily_amount": 30.68328
+	},
+	{
+		"user_id": "1x_user_902cc2c519873780c871b363",
+		"username": "NUMAROS",
+		"address": "0xb75a7FEB8F1163664F1bd1a089b1dE1e3373477C",
+		"date": "2025-04-17",
+		"daily_amount": 0.909244
+	},
+	{
+		"user_id": "1x_user_92cc4b11c04dfd4c1c55711d",
+		"username": "SNode",
+		"address": "0x8c0d5Cf17365Df315b8d334eB5552Be9F7Ff3978",
+		"date": "2025-04-17",
+		"daily_amount": 18.467879
+	},
+	{
+		"user_id": "1x_user_94ba0133cc399fbd551a7a0f",
+		"username": "flapjackson",
+		"address": "0x9b0C74924A7f6B4A54e7a02f7D56BBe9605bb629",
+		"date": "2025-04-17",
+		"daily_amount": 0.048631
+	},
+	{
+		"user_id": "1x_user_9953ae483a202f1f6f38dd35",
+		"username": "JIZO_PGA",
+		"address": "0x258EA80aEA2F5e32b5da106825d2B87e55D46Bf6",
+		"date": "2025-04-17",
+		"daily_amount": 64.937823
+	},
+	{
+		"user_id": "1x_user_9bc68930e9fb09d285386839",
+		"username": "arithmos",
+		"address": "0x719C998415E137D70587b755004Cbc4f88C6cA41",
+		"date": "2025-04-17",
+		"daily_amount": 19.435252
+	},
+	{
+		"user_id": "1x_user_a1cd523c10fd48c5d7ef3a87",
+		"username": "TILT_Kenzord_YGG",
+		"address": "0xA92debe0abE6af83ef762Ab80BdCD99b954a587f",
+		"date": "2025-04-17",
+		"daily_amount": 16.608035
+	},
+	{
+		"user_id": "1x_user_a469787c137c6a3ff82c6d8b",
+		"username": "IcedOutMan",
+		"address": "0x9b456aacabBB27c91af570F19eb8B26494673aa0",
+		"date": "2025-04-17",
+		"daily_amount": 39.064464
+	},
+	{
+		"user_id": "1x_user_a76a494fe3a629838daaf1e4",
+		"username": "TILT_vynchi_YGG_BreederDAO",
+		"address": "0x1Db4EeD9f24d4E54DB541413C5D3802f0c7c1a81",
+		"date": "2025-04-17",
+		"daily_amount": 47.756927
+	},
+	{
+		"user_id": "1x_user_b137c540a5de5788455b612a",
+		"username": "BradThe3rd@nerf.shroud",
+		"address": "0xfC9dD877930e9799BeB663523BD31EefE3C99597",
+		"date": "2025-04-17",
+		"daily_amount": 3.58708
+	},
+	{
+		"user_id": "1x_user_b5809b753b7b856748e5f494",
+		"username": "Schmidt_YGGxTILT",
+		"address": "0x144149CD65e299A7808f6c38741278B246a4b04A",
+		"date": "2025-04-17",
+		"daily_amount": 0.008554
+	},
+	{
+		"user_id": "1x_user_b8c7ad63c2f84e6e36a98f12",
+		"username": "exie_win_YGG",
+		"address": "0xfAC5B8f8668b7158cF6A5dE01f20f207AC011cA7",
+		"date": "2025-04-17",
+		"daily_amount": 30.504795
+	},
+	{
+		"user_id": "1x_user_bc84ff8c178d7bcec754134b",
+		"username": "Jimon_Exile",
+		"address": "0xD7837508c7A246326F8F7584674495CBe4AFD56e",
+		"date": "2025-04-17",
+		"daily_amount": 20.834026
+	},
+	{
+		"user_id": "1x_user_cb93870a5d7d87626d2ed765",
+		"username": "TalkDegenToMe",
+		"address": "0x51AA851817AdB2363b910F5835C9F72b949349D1",
+		"date": "2025-04-17",
+		"daily_amount": 0.013546
+	},
+	{
+		"user_id": "1x_user_cf1ded5c20248e202b089cf2",
+		"username": "backmorda",
+		"address": "0x8C4450D3B41A2981B2a9dE320864044C50823cbF",
+		"date": "2025-04-17",
+		"daily_amount": 18.814992
+	},
+	{
+		"user_id": "1x_user_d538384c07d3581a46479e39",
+		"username": "iracer77",
+		"address": "0xc82414b8BD237A0f79596c3CE7Dc00F63b70Ca6f",
+		"date": "2025-04-17",
+		"daily_amount": 53.846997
+	},
+	{
+		"user_id": "1x_user_d58f8e09c3981a3b375bb4f5",
+		"username": "Manos",
+		"address": "0x6D07d1785091bd1e03cF353BcD593c54D16a93C9",
+		"date": "2025-04-17",
+		"daily_amount": 62.239971
+	},
+	{
+		"user_id": "1x_user_d893e14bc264413bc95f5657",
+		"username": "mark1o1",
+		"address": "0x6518494c994CC274ECfaaBa94b459d510554Ea79",
+		"date": "2025-04-17",
+		"daily_amount": 0.213568
+	},
+	{
+		"user_id": "1x_user_d8ee619031991fd1be12ac6d",
+		"username": "SlyCOOPER",
+		"address": "0x6283913Ad056f5e8b52A3D02D72930C0D5DDE313",
+		"date": "2025-04-17",
+		"daily_amount": 2.95326
+	},
+	{
+		"user_id": "1x_user_db0d99498b56b8ceadbe34d4",
+		"username": "YGG_AxU_Nocturnal_Paragons",
+		"address": "0x9F44a22C944bC39f2434E8A65a4b41F655c0c0DC",
+		"date": "2025-04-17",
+		"daily_amount": 11.10866
+	},
+	{
+		"user_id": "1x_user_dd4e76452ebbfa4b279fd6e7",
+		"username": "JasonFleurant",
+		"address": "0x078Fd970277063590BfF4cAF57380cf0F8b38f74",
+		"date": "2025-04-17",
+		"daily_amount": 0.003215
+	},
+	{
+		"user_id": "1x_user_ded14b8f189c2b7ca41b1d6d",
+		"username": "dieselnoi",
+		"address": "0xcBD03398e72B17cCd09ffcD7cc6C6071b50aF059",
+		"date": "2025-04-17",
+		"daily_amount": 49.443904
+	},
+	{
+		"user_id": "1x_user_dfbbc116ded7394ae2fa58fa",
+		"username": "BrightAvian_EXILE_YGG",
+		"address": "0x5aA5c645F8bb12a92c3ED8232C58bD94B13c09e2",
+		"date": "2025-04-17",
+		"daily_amount": 15.60884
+	},
+	{
+		"user_id": "1x_user_ed71e519a7b52a2919fb7a50",
+		"username": "antonioroca068",
+		"address": "0x1f08Cd4bc400c015892e1168cc1A3CD29C5e516D",
+		"date": "2025-04-17",
+		"daily_amount": 15.423961
+	},
+	{
+		"user_id": "1x_user_f2db9c3b3273ca4d9d68b15d",
+		"username": "Sequinox_YGG",
+		"address": "0x7a0A871C626f41b1b1CAeC66B926B1f788eb747F",
+		"date": "2025-04-17",
+		"daily_amount": 45.961563
+	},
+	{
+		"user_id": "1x_user_f3541d9d49b740801c6875e6",
+		"username": "beijingdouEXILE",
+		"address": "0xaf469C4a0914938e6149CF621c54FB4b1EC0c202",
+		"date": "2025-04-17",
+		"daily_amount": 2.300116
+	},
+	{
+		"user_id": "1x_user_f83a709f84d0e63477eaa23c",
+		"username": "dunder",
+		"address": "0x51cb98595387D58a9B313eD767d0C0B769ddD4fD",
+		"date": "2025-04-17",
+		"daily_amount": 0.018984
+	}
+]
